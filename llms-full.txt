@@ -1,0 +1,499 @@
+# Arge Atölyesi
+
+> Arge Atölyesi — yapay zekâ işletim sistemi geliştirir ve her sektöre uyarlanabilen modüler robotlar üretir: insanların giremeyeceği ortamlar için yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlar.
+
+---
+
+## Arge Atölyesi
+https://argeatolyesi.com/tr/
+
+Arge Atölyesi — yapay zekâ işletim sistemi geliştirir ve her sektöre uyarlanabilen modüler robotlar üretir: insanların giremeyeceği ortamlar için yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlar.
+
+Yapay Zekâ İşletim Sistemi · Modüler Robotlar
+Arge Atölyesi: modüler robotlar ve yapay zekâ işletim sistemi
+Yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotları tek bir yapay zekâ işletim sistemi altında buluşturur, her sektöre uyarlarız.
+WhatsApp ile Yazın Robotları İnceleyin
+Robotlarımız
+Modüler Robot Ailesi
+Aynı platform, farklı görev modülleri: insanın girmesinin güç ya da riskli olduğu ortamlar için dört robot.
+Yarı İnsansı Örümcek Robot
+Arge Atölyesi yarı insansı örümcek robot: çok bacaklı gövdesi ve modüler yapısıyla insanların giremeyeceği dar,…
+İncele &rarr;
+Temizlik Robotu
+Arge Atölyesi temizlik robotu: endüstriyel tesisler ve insanın uzun süre kalmasının sakıncalı olduğu ortamlar için…
+İncele &rarr;
+Hafriyat Robotu
+Arge Atölyesi hafriyat robotu: inşaat ve madencilik gibi sahalarda insan gücünü riske atmadan hafriyat çalışmasını…
+İncele &rarr;
+Kazıcı Robot
+Arge Atölyesi kazıcı robot: yer altı, dar kazı ve tehlikeli zemin çalışmaları için insanın girmeyeceği yerlerde kazı…
+İncele &rarr;
+01
+Modüler gövde
+Aynı robot platformu, göreve göre değişen modüllerle farklı işlere uyarlanır; her yeni ihtiyaç için sıfırdan robot gerekmez.
+Ayrıntı
+02
+Yapay zekâ işletim sistemi
+Algılama, görev planlama, güvenlik denetimi ve uzaktan izleme robotların ortak yazılım katmanında toplanır.
+Ayrıntı
+03
+İnsanın giremediği yerlerde
+Dar, riskli ve ulaşılması zor ortamlar için tasarlanan robotlar inşaattan afet bölgelerine kadar farklı sektörlere uyarlanır.
+Ayrıntı
+Robot projenizi birlikte konuşalım
+Sektörünüzü ve ihtiyacınızı WhatsApp üzerinden yazın; hangi robot ve görev modüllerinin uygun olabileceğini birlikte değerlendirelim.
+WhatsApp ile Yazın Sektörler
+
+---
+
+## Robotlar
+https://argeatolyesi.com/tr/robotlar/
+
+Arge Atölyesi modüler robot ailesi: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot — insanların giremeyeceği ortamlar için.
+
+Robotlar
+Modüler Robotlarımız
+Arge Atölyesi, her sektöre uyarlanabilen modüler robotlar üretir. Ortak bir gövde ve ortak bir yazılım üzerine, göreve göre değişen modüller eklenir.
+Neden modüler?
+Her saha farklı bir iş ister. Tek amaçlı bir makine yerine, görev modülü değiştirilebilen bir platform kullandığımızda aynı robot ailesi inşaattan afet bölgesine kadar farklı ihtiyaçlara uyarlanabilir.
+Robot ailesi
+Aşağıdaki robotlar aynı yapay zekâ işletim sistemiyle çalışacak şekilde tasarlanır:
+Yarı İnsansı Örümcek Robot — dar, engebeli ve tehlikeli ortamlar
+Temizlik Robotu — endüstriyel ve riskli ortamlarda temizlik
+Hafriyat Robotu — inşaat ve madencilik sahalarında hafriyat
+Kazıcı Robot — dar ve derin kazı çalışmaları
+Ortak amaç
+Tüm robotlarımızın ortak hedefi, insanı riskli ve ulaşılması zor ortamlardan uzak tutarken işin yapılmasını sağlamaktır.
+Her robotun ayrıntısı için aşağıdaki robot kartlarına göz atın ya da bizimle iletişime geçin .
+Yarı İnsansı Örümcek Robot
+Temizlik Robotu
+Hafriyat Robotu
+Kazıcı Robot
+Robot projenizi birlikte konuşalım
+Sektörünüzü ve ihtiyacınızı WhatsApp üzerinden yazın; hangi robot ve görev modüllerinin uygun olabileceğini birlikte değerlendirelim.
+WhatsApp ile Yazın Sektörler
+
+---
+
+## Yapay Zekâ İşletim Sistemi
+https://argeatolyesi.com/tr/yapay-zeka-isletim-sistemi/
+
+Arge Atölyesi yapay zekâ işletim sistemi: modüler robotları ortak bir yazılım katmanında buluşturan, görev planlama ve izleme sağlayan robot işletim sistemi.
+
+Yapay Zekâ İşletim Sistemi
+Yapay Zekâ İşletim Sistemi
+Arge Atölyesi’nin geliştirdiği yapay zekâ işletim sistemi, farklı robotları ve görev modüllerini ortak bir yazılım katmanında buluşturur.
+Neden ortak bir işletim sistemi?
+Örümcek, temizlik, hafriyat ve kazıcı robotlar farklı işler yapar; ancak hepsi algılama, karar verme ve güvenlik gibi aynı temel işlevlere ihtiyaç duyar. Bu işlevleri her robot için baştan yazmak yerine ortak bir işletim sistemi altında topluyoruz.
+Temel işlevler
+İşletim sistemi katmanının sorumlulukları:
+Robotun algıladığı ortamı anlamlandırma
+Göreve göre iş planı oluşturma ve izleme
+Görev modüllerini tanıma ve yönetme
+Güvenlik sınırlarının denetimi
+Operatör için uzaktan izleme ve müdahale
+Modüllerle birlikte çalışır
+Yeni bir görev modülü robota eklendiğinde işletim sistemi onu tanır ve görev planına dahil eder. Bu sayede aynı yazılım, farklı robot gövdelerinde ve farklı sektörlerde kullanılabilir.
+Yazılımın teknik ayrıntıları proje bazında paylaşılır. Bilgi için bize ulaşın .
+
+---
+
+## Sektörler
+https://argeatolyesi.com/tr/sektorler/
+
+Arge Atölyesi robotlarının kullanım alanları: inşaat, madencilik, endüstriyel temizlik, afet ve arama-kurtarma ile tehlikeli ortamlar.
+
+Sektörler
+Hizmet Verdiğimiz Sektörler
+Modüler yapımız sayesinde aynı robot platformu, insanın girmesinin güç ya da riskli olduğu birçok sektöre uyarlanabilir.
+İnşaat
+Hafriyat, kazı ve saha hazırlığında insan gücünü riskli bölgelerden uzak tutar.
+Madencilik
+Riskli galeri, cephe ve taş ocağı bölgelerinde keşif ve malzeme taşıma görevlerine uyarlanır.
+Endüstriyel temizlik
+Üretim tesislerinde ve insanın uzun süre kalmasının sakıncalı olduğu alanlarda temizlik görevini üstlenir.
+Afet ve arama-kurtarma
+Enkaz ve göçük alanlarında insanın giremediği noktalara ulaşarak keşif yapar.
+Tehlikeli ortamlar
+Gaz, sıcaklık ya da çökme riski bulunan alanlarda insan yerine algılama ve müdahale görevi görür.
+Ortak yaklaşım
+Her sektörde süreç aynıdır: önce sahadaki ihtiyaç ve koşullar netleştirilir, ardından uygun robot gövdesi ve görev modülleri seçilir. Sayısal kapasite ve süre gibi değerler, proje bazında birlikte belirlenir.
+Sektörünüze özel bir ihtiyaç mı var? Bize yazın ; ihtiyacı birlikte değerlendirelim.
+
+---
+
+## Ar-Ge ve Teknoloji
+https://argeatolyesi.com/tr/arge-teknoloji/
+
+Arge Atölyesi Ar-Ge yaklaşımı: modüler robot donanımı ile yapay zekâ işletim sistemini birlikte geliştiren araştırma-geliştirme çalışması.
+
+Ar-Ge ve Teknoloji
+Ar-Ge ve Teknoloji
+Arge Atölyesi’nde robot donanımı ve yapay zekâ yazılımı aynı çatı altında, birlikte geliştirilir.
+Yaklaşımımız
+Modüler robot tasarımı ile yapay zekâ işletim sistemini ayrı değil, birbirini tamamlayan iki parça olarak ele alıyoruz. Donanımın ihtiyacı yazılımı, yazılımın olanakları donanımı şekillendirir.
+Çalışma alanlarımız
+Ar-Ge çalışmalarının odağındaki başlıklar:
+Çok bacaklı ve modüler robot gövdeleri
+Algılama ve ortam anlama
+Görev planlama ve robot işletim sistemi
+Tehlikeli ortamlar için güvenli çalışma
+Sahaya yakın geliştirme
+Amacımız laboratuvarda kalan bir teknoloji değil, gerçek sahada işe yarayan robotlardır. Bu nedenle geliştirme sürecini kullanım alanındaki ihtiyaçlarla birlikte yürütmeyi hedefleriz.
+Modülerlik neden önemli?
+Modüler tasarım, her yeni ihtiyaç için sıfırdan robot üretmek yerine mevcut platformun yeni bir görev modülüyle genişletilmesini sağlar. Bu yaklaşım hem geliştirme hem de saha uyarlama sürecini sadeleştirmeyi amaçlar.
+Ar-Ge iş birliği ve proje talepleri için iletişime geçin .
+
+---
+
+## Kurumsal
+https://argeatolyesi.com/tr/kurumsal/
+
+Arge Atölyesi kurumsal: yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten firmamızın temel kurumsal sayfaları.
+
+Kurumsal
+Kurumsal
+Arge Atölyesi, yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten bir teknoloji firmasıdır.
+Bu bölümde neler var?
+Firmamızı tanımanız için temel kurumsal sayfalarımızı bir arada sunuyoruz. Çalışma biçimimizi, ilkelerimizi ve firma bilgilerimizi bu sayfalardan inceleyebilirsiniz.
+Hakkımızda — firmamızın ne yaptığı ve nasıl çalıştığı
+Misyon ve Vizyon — temel ilkelerimiz
+Ar-Ge ve Teknoloji — donanım ve yazılımı birlikte geliştirme yaklaşımımız
+Ne yapıyoruz?
+Her sektöre uyarlanabilen modüler robotlar üretiyoruz: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot. Bu robotların hepsi, insanların girmesinin güç ya da riskli olduğu ortamlar için tasarlanır ve ortak bir yapay zekâ işletim sistemi altında çalışır.
+Bize ulaşın
+Robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için iletişim sayfamızı kullanabilir ya da doğrudan WhatsApp üzerinden yazabilirsiniz. Mesajlarınıza ilk fırsatta dönüş yapılır.
+
+---
+
+## İletişim
+https://argeatolyesi.com/tr/iletisim/
+
+Arge Atölyesi iletişim: WhatsApp ve telefon ile robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için bize ulaşın.
+
+İletişim
+Bize Ulaşın
++90 531 679 10 14
+WhatsApp ile yazın
+Şehitkamil / Gaziantep
+
+---
+
+## Yarı İnsansı Örümcek Robot
+https://argeatolyesi.com/tr/orumcek-robot/
+
+Arge Atölyesi yarı insansı örümcek robot: çok bacaklı gövdesi ve modüler yapısıyla insanların giremeyeceği dar, engebeli ve tehlikeli ortamlar için geliştirilen robot ailesi.
+
+Yarı İnsansı Örümcek Robot
+Yarı İnsansı Örümcek Robot
+Çok bacaklı gövdesiyle engebeli ve dar alanlarda ilerlemek üzere tasarlanan, insan benzeri kol ve algılama yeteneklerini örümcek benzeri bir gövdeyle birleştiren modüler robotumuz.
+Nerede kullanılır?
+Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:
+Enkaz altı ve dar geçitli arama-kurtarma çalışmaları
+Gaz, sıcaklık ya da çökme riski bulunan tehlikeli ortamlarda keşif
+Yapı ve tesis içinde insanın ulaşamadığı bölmelerin denetimi
+Nasıl çalışır?
+Robot, tek bir amaca kilitli değildir: gövde ortak kalır, görev modülleri sahaya göre değiştirilir. Böylece aynı platform farklı sektörlerin ihtiyacına uyarlanabilir.
+Çok bacaklı yürüyüş sayesinde düz olmayan zeminde hareket
+Kamera ve sensörlerle ortamı algılama; verileri uzaktan operatöre aktarma
+Göreve göre değiştirilebilen modüller (ör. algılama, tutma, ölçüm)
+Yapay zekâ işletim sistemi ile görev planlama ve izleme
+Modüler yapı ve yazılım
+Hareket, algılama ve görev yönetimi Arge Atölyesi’nin geliştirdiği yapay zekâ işletim sistemi tarafından koordine edilir.
+Teknik bilgi: Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için bizimle iletişime geçin .
+
+---
+
+## Temizlik Robotu
+https://argeatolyesi.com/tr/temizlik-robotu/
+
+Arge Atölyesi temizlik robotu: endüstriyel tesisler ve insanın uzun süre kalmasının sakıncalı olduğu ortamlar için modüler, yapay zekâ destekli temizlik robotu.
+
+Temizlik Robotu
+Temizlik Robotu
+Endüstriyel alanlarda ve insanın uzun süre kalmasının sakıncalı olduğu ortamlarda temizlik görevini üstlenmek üzere geliştirilen modüler robot.
+Nerede kullanılır?
+Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:
+Endüstriyel tesis ve üretim alanlarının temizliği
+Kimyasal, toz ya da sıcaklık nedeniyle riskli sayılan ortamlar
+Dar ve ulaşılması zor bölmeler, kanallar ve alt yapı alanları
+Nasıl çalışır?
+Aynı gövde, farklı temizlik modülleriyle farklı işlere uyarlanır. Modül değişimi, robotun tamamının yeniden üretilmesini gerektirmez.
+Temizlenecek alanı algılayıp kendi güzergâhını planlama
+Görev modülünün (ör. fırçalama, toplama, yıkama) sahaya göre değiştirilmesi
+Çalışma durumunun uzaktan izlenmesi
+Yapay zekâ işletim sistemi ile görev ve güvenlik denetimi
+Modüler yapı ve yazılım
+Görev planlaması ve güvenlik kuralları, ortak yapay zekâ işletim sistemi üzerinden yönetilir.
+Teknik bilgi: Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için bizimle iletişime geçin .
+
+---
+
+## Hafriyat Robotu
+https://argeatolyesi.com/tr/hafriyat-robotu/
+
+Arge Atölyesi hafriyat robotu: inşaat ve madencilik gibi sahalarda insan gücünü riske atmadan hafriyat çalışmasını üstlenmek üzere geliştirilen modüler robot.
+
+Hafriyat Robotu
+Hafriyat Robotu
+İnşaat ve madencilik gibi sahalarda hafriyat işini, insanı riskli bölgeden uzak tutarak yürütmek üzere tasarlanan modüler robotumuz.
+Nerede kullanılır?
+Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:
+İnşaat sahalarında temel ve çevre düzenleme hafriyatı
+Madencilik ve taş ocağı sahalarında riskli bölgelerde malzeme taşıma
+Çökme ya da kayma riski bulunan zeminlerde çalışma
+Nasıl çalışır?
+Hafriyat robotu, ortak robot platformunun saha işine uyarlanmış hâlidir; ekipman modülleri işin türüne göre seçilir.
+Sahayı algılayıp görev alanını tanıma
+Kazı ve yükleme gibi görevler için değiştirilebilir ekipman modülleri
+Operatörün uzaktan izlemesi ve müdahale edebilmesi
+Yapay zekâ işletim sistemi ile iş planı ve güvenlik denetimi
+Modüler yapı ve yazılım
+İş planı ve güvenlik sınırları yapay zekâ işletim sistemi tarafından izlenir.
+Teknik bilgi: Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için bizimle iletişime geçin .
+
+---
+
+## Kazıcı Robot
+https://argeatolyesi.com/tr/kazici-robot/
+
+Arge Atölyesi kazıcı robot: yer altı, dar kazı ve tehlikeli zemin çalışmaları için insanın girmeyeceği yerlerde kazı yapmak üzere geliştirilen modüler robot.
+
+Kazıcı Robot
+Kazıcı Robot
+Dar, derin ya da tehlikeli kazı alanlarında insan yerine çalışmak üzere geliştirilen modüler kazıcı robot.
+Nerede kullanılır?
+Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:
+Dar ve derin kazı gerektiren yer altı çalışmaları
+Madencilik sahalarında riskli galeri ve cephe bölgeleri
+Afet sonrası göçük alanlarında ulaşım açma çalışmaları
+Nasıl çalışır?
+Kazıcı robot, aynı modüler platform üzerinde kazı modülünü taşıyan konfigürasyondur; diğer robot ailesiyle ortak yazılımı paylaşır.
+Kazı yapılacak zemini algılama ve çalışma yönünü planlama
+Zemine ve işe göre değiştirilebilen kazı modülleri
+Çalışma verisinin uzaktan izlenmesi
+Yapay zekâ işletim sistemi ile görev yönetimi ve güvenlik denetimi
+Modüler yapı ve yazılım
+Kazı görevi, güvenlik kuralları ve robot durumu ortak yapay zekâ işletim sistemi üzerinden yönetilir.
+Teknik bilgi: Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için bizimle iletişime geçin .
+
+---
+
+## Hakkımızda
+https://argeatolyesi.com/tr/hakkimizda/
+
+Arge Atölyesi hakkında: yapay zekâ işletim sistemi geliştiren ve her sektöre uygun modüler robotlar üreten teknoloji firması.
+
+Hakkımızda
+Hakkımızda
+Arge Atölyesi, yapay zekâ işletim sistemi geliştiren ve robotik projeler üreten bir teknoloji firmasıdır.
+Ne yapıyoruz?
+Her sektöre uyarlanabilen modüler robotlar üretiyoruz: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot gibi, insanların giremeyeceği ya da girmesinin riskli olduğu yerlerde çalışan robotlar.
+Neye inanıyoruz?
+Temel yaklaşımımız şudur:
+İnsanı riskli işlerden uzak tutmak
+Tek amaçlı makineler yerine modüler platformlar kurmak
+Donanım ve yazılımı birlikte geliştirmek
+Gerçek sahadaki ihtiyaçtan yola çıkmak
+Çalışma biçimimiz
+Her projeye önce sahadaki ihtiyacı dinleyerek başlarız. Robotun yapacağı işi, çalışacağı ortamı ve güvenlik koşullarını birlikte netleştirir, ardından uygun modüler yapıyı seçeriz.
+İletişim
+Projeleriniz ve işbirliği talepleriniz için WhatsApp ya da iletişim sayfamız üzerinden bize ulaşabilirsiniz.
+Kuruluş yılı, ekip ve referans bilgileri firma tarafından onaylandığında bu sayfaya eklenecektir.
+
+---
+
+## Misyon
+https://argeatolyesi.com/tr/misyon/
+
+Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş…
+
+Misyon
+Misyonumuz
+Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş ortaklarımıza ve içinde bulunduğumuz topluma karşı sorumluluklarımızı gözetmektir.
+Müşterilerimiz için
+Her müşterimizin beklentisini dikkatle dinler, ona uygun çözümü birlikte belirleriz. Söz verdiğimiz kalitede ve zamanda teslim etmeyi, sonrasında da destek olmayı işimizin doğal bir parçası sayarız.
+Ekibimiz ve iş ortaklarımız için
+Güvenli, saygılı ve öğrenmeye açık bir çalışma ortamı oluşturmak misyonumuzun ayrılmaz bir parçasıdır. Bu doğrultuda şu ilkeleri benimseriz:
+Çalışanlarımızın mesleki gelişimini desteklemek
+İş ortaklarımızla açık, adil ve sürdürülebilir ilişkiler kurmak
+Sorumlulukları netleştirmek ve başarıyı birlikte paylaşmak
+Geri bildirimi bir gelişim aracı olarak görmek
+Topluma ve çevreye karşı
+Faaliyetlerimizi yürürlükteki mevzuata uygun biçimde sürdürmeyi, kaynakları verimli kullanmayı ve çevresel etkilerimizi azaltacak uygulamaları benimsemeyi taahhüt ederiz. Toplumsal sorumluluğu, gündelik kararlarımıza yansıyan bir tutum olarak görürüz.
+Kısaca: Yaptığımız her işte güvenilir olmak, anlaşılır olmak ve sözümüzü tutmak misyonumuzun özüdür.
+
+---
+
+## Vizyon
+https://argeatolyesi.com/tr/vizyon/
+
+Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.
+
+Vizyon
+Vizyonumuz
+Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.
+Geleceğe bakışımız
+Sektörümüzdeki gelişmeleri yakından izliyor, yeni yöntem ve teknolojileri müşterilerimize gerçek fayda sağlayacak biçimde işimize katmayı hedefliyoruz. Büyümeyi yalnızca ölçek olarak değil, sunduğumuz hizmetin derinliği ve kalitesi olarak tanımlıyoruz. Değişimi bir risk olarak değil, daha iyisini yapabilmek için bir fırsat olarak görüyoruz.
+Hedeflerimiz
+Vizyonumuza ulaşmak için odaklandığımız başlıca alanlar şunlardır:
+Müşteri deneyimini her temas noktasında iyileştirmek
+Süreçlerimizi ölçülebilir ve sürekli gelişen bir yapıya kavuşturmak
+Ekibimizin yetkinliklerini yeni ihtiyaçlara göre geliştirmek
+Çevreye ve topluma duyarlı iş yapış biçimlerini yaygınlaştırmak
+Kalıcı değer
+Kısa vadeli kazanımlar yerine uzun soluklu güven ilişkileri kurmayı önemsiyoruz. Müşterilerimizin, çalışanlarımızın ve iş ortaklarımızın bizimle çalışmaktan memnun olduğu, birlikte büyüdüğümüz bir gelecek tasarlıyoruz.
+Yolumuzu belirleyen: Değişime açık olmak, ama değerlerimizden ödün vermemek.
+
+---
+
+## Kalite Politikamız
+https://argeatolyesi.com/tr/kalitepolitikamiz/
+
+Kalite, firmamız için yalnızca bir sonuç değil, işin her aşamasına yerleştirilmiş bir çalışma biçimidir.
+
+Kalite Politikamız
+Kalite Politikamız
+Kalite, firmamız için yalnızca bir sonuç değil, işin her aşamasına yerleştirilmiş bir çalışma biçimidir. Müşteri memnuniyetini, yasal gerekliliklere uyumu ve sürekli iyileştirmeyi kalite anlayışımızın temeli olarak kabul ederiz.
+Temel ilkelerimiz
+Kalite politikamız aşağıdaki ilkeler üzerine kuruludur:
+Müşteri beklentilerini doğru anlamak ve bunları karşılayan ürün ve hizmetler sunmak
+Faaliyetlerimizi ilgili mevzuata ve üstlendiğimiz yükümlülüklere uygun yürütmek
+Süreçlerimizi tanımlı, izlenebilir ve ölçülebilir hâle getirmek
+Hataları kaynağında önlemeye yönelik kontroller uygulamak
+Çalışanlarımızın eğitimini ve katılımını desteklemek
+Sürekli iyileştirme
+Müşteri geri bildirimlerini, iç değerlendirmelerimizi ve süreç verilerimizi düzenli olarak gözden geçirir, iyileştirme fırsatlarını belirleriz. Belirlenen iyileştirmeleri planlı biçimde uygular ve sonuçlarını takip ederiz.
+Sorumluluk ve paylaşım
+Kalite, firmamızdaki her çalışanın ortak sorumluluğudur. Tedarikçilerimiz ve iş ortaklarımızla da aynı anlayışı paylaşmayı, beklentilerimizi açıkça ifade etmeyi ve birlikte gelişmeyi hedefleriz.
+Geri bildiriminiz değerlidir: Ürün ve hizmetlerimizle ilgili her türlü görüş ve öneriniz, kalite çalışmalarımızın önemli bir girdisidir.
+
+---
+
+## Gizlilik Politikası
+https://argeatolyesi.com/tr/gizlilikpolitikasi/
+
+Bu Gizlilik Politikası, Arge Atölyesi tarafından işletilen argeatolyesi.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi kullandığınızda…
+
+Gizlilik Politikası
+Gizlilik Politikası
+Bu Gizlilik Politikası, Arge Atölyesi tarafından işletilen argeatolyesi.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi kullandığınızda bilgilerinizin nasıl ele alındığını açıklar. Kişisel verileriniz 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili mevzuata uygun olarak işlenir.
+Toplanan bilgiler
+Sitemizi kullanımınıza bağlı olarak aşağıdaki bilgi türleri işlenebilir:
+İletişim formları aracılığıyla ilettiğiniz ad, e-posta, telefon ve mesaj içeriği
+Site güvenliği ve ilgili mevzuattan doğan yükümlülükler için gerekli IP adresi, tarayıcı ve erişim kayıtları
+Tercihlerinize bağlı olarak çerezler aracılığıyla elde edilen kullanım bilgileri
+Sipariş veya hizmet talebi oluşturmanız hâlinde işlemin gerektirdiği bilgiler
+Bilgilerin kullanımı ve paylaşımı
+Bilgileriniz; taleplerinizi yanıtlamak, hizmetlerimizi sunmak, siteyi güvenli ve çalışır durumda tutmak ve yasal yükümlülüklerimizi yerine getirmek amacıyla kullanılır. Bilgileriniz satılmaz; yalnızca hizmetin sağlanması için gerekli olan hizmet sağlayıcılarla veya yasal olarak yetkili kurum ve kuruluşlarla, mevzuatın izin verdiği ölçüde paylaşılır.
+Güvenlik ve saklama
+Bilgilerinizi yetkisiz erişime, kayba ve kötüye kullanıma karşı korumak için makul teknik ve idari tedbirleri alırız. Bilgiler, işlenme amacının gerektirdiği veya mevzuatın öngördüğü süre boyunca saklanır; bu süre sonunda silinir, yok edilir ya da anonim hâle getirilir.
+Haklarınız ve iletişim
+Kişisel verilerinize ilişkin haklarınızı 6698 sayılı Kanun çerçevesinde kullanabilirsiniz. Ayrıntılı bilgi için Kişisel Verilerin Korunması ve Aydınlatma Metni sayfamızı inceleyebilir, sorularınızı İletişim sayfamızdaki telefon ve WhatsApp hattı (+90 531 679 10 14) üzerinden iletebilirsiniz.
+Değişiklikler: Bu politika gerektiğinde güncellenebilir; güncel sürüm her zaman bu sayfada yayımlanır. Son güncelleme: 2026-11-02.
+
+---
+
+## Kişisel Veriler
+https://argeatolyesi.com/tr/kisiselveriler/
+
+Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10.
+
+Kişisel Veriler
+KVKK Kişisel Verilerin Korunması ve Aydınlatma Metni
+Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ uyarınca, veri sorumlusu sıfatıyla Arge Atölyesi tarafından hazırlanmıştır.
+İşleme amaçları
+Kişisel verileriniz, aşağıdaki amaçlarla ve bu amaçlarla bağlantılı, sınırlı ve ölçülü biçimde işlenir:
+Talep ve şikâyetlerinizin alınması ve yanıtlanması
+Ürün ve hizmetlerin sunulması, sözleşme süreçlerinin yürütülmesi
+Mevzuattan doğan yükümlülüklerin yerine getirilmesi ve yetkili kurumlara bilgi verilmesi
+Bilgi güvenliğinin ve site işleyişinin sağlanması
+Açık rızanız bulunması hâlinde tanıtım ve bilgilendirme iletişiminin yapılması
+Hukuki sebepler ve toplama yöntemi
+Verileriniz; site formları, e-posta, telefon, fiziki başvurular ve çerezler aracılığıyla otomatik veya kısmen otomatik yollarla toplanır ve Kanun’un 5. maddesindeki sözleşmenin kurulması veya ifası, hukuki yükümlülük, bir hakkın tesisi, kullanılması veya korunması ve meşru menfaat sebeplerine; bunların bulunmadığı hâllerde açık rızanıza dayanılarak işlenir. Özel nitelikli kişisel veriler yalnızca Kanun’un 6. maddesindeki şartlar sağlandığında işlenir.
+Aktarım
+Verileriniz, amaçlarla sınırlı olarak yetkili kamu kurumlarına ve barındırma, yazılım, kargo, muhasebe gibi tedarikçilerimize Kanun’un 8. ve 9. maddelerine uygun olarak aktarılabilir.
+Kanun’un 11. maddesi kapsamındaki haklarınız
+Veri sorumlusuna başvurarak:
+Verilerinizin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme
+İşlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme
+Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme
+Eksik veya yanlış işlenmişse düzeltilmesini, Kanun’un 7. maddesi çerçevesinde silinmesini veya yok edilmesini ve bu işlemlerin aktarıldığı üçüncü kişilere bildirilmesini isteme
+Münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonucun ortaya çıkmasına itiraz etme
+Kanuna aykırı işlenme sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme
+haklarına sahipsiniz.
+Başvuru yöntemi
+Başvurularınızı, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ’e uygun olarak yazılı şekilde Şehitkamil / Gaziantep adresine, adresine ya da +90 531 679 10 14 numaralı telefon / WhatsApp hattımız üzerinden iletebilirsiniz. Başvurular, Kanun’un 13. maddesi uyarınca en geç otuz gün içinde ücretsiz sonuçlandırılır; işlem ayrıca maliyet gerektirirse Kurul tarifesindeki ücret alınabilir.
+Son güncelleme: 2026-11-02.
+
+---
+
+## Kullanıcı Hakları
+https://argeatolyesi.com/tr/kullanicahaklari/
+
+argeatolyesi.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir.
+
+Kullanıcı Hakları
+Kullanıcı Hakları
+argeatolyesi.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir. Bu sayfa, Arge Atölyesi ile ilişkinizde başlıca haklarınızı ve bunları nasıl kullanabileceğinizi özetler.
+Kişisel verilere ilişkin haklar
+6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 11. maddesi kapsamında kişisel verilerinizin işlenip işlenmediğini öğrenme, bilgi talep etme, düzeltme, silme veya yok edilmesini isteme, itiraz etme ve zararın giderilmesini talep etme haklarına sahipsiniz. Bu hakları kullanma yöntemi Aydınlatma Metnimizde açıklanmıştır.
+Tüketici olarak haklarınız
+Sitemiz üzerinden mal veya hizmet satın almanız hâlinde 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği kapsamındaki haklarınız saklıdır. Bunlar arasında şunlar yer alır:
+Sözleşme kurulmadan önce açık ve anlaşılır biçimde bilgilendirilme
+Yönetmelikte belirtilen istisnalar dışında on dört gün içinde cayma hakkı
+Ayıplı mal veya hizmet durumunda Kanun’da sayılan seçimlik haklar
+Uyuşmazlıklarda Tüketici Hakem Heyeti veya Tüketici Mahkemesine başvurma
+Ticari elektronik iletiler
+6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun uyarınca, onayınız olmadan size ticari elektronik ileti gönderilmez. Onay verdiyseniz, herhangi bir gerekçe göstermeksizin dilediğiniz zaman ret hakkınızı kullanarak ileti almayı durdurabilirsiniz.
+Başvuru ve iletişim
+Haklarınızla ilgili taleplerinizi +90 531 679 10 14 numaralı telefon / WhatsApp hattımız üzerinden veya Şehitkamil / Gaziantep adresine yazılı olarak iletebilirsiniz. Başvurularınız mevzuatta öngörülen süreler içinde değerlendirilir.
+Önemli: Bu sayfa bilgilendirme amaçlıdır; haklarınızın kapsamını ilgili mevzuat belirler.
+
+---
+
+## Yasal Uyarı
+https://argeatolyesi.com/tr/yasaluyari/
+
+argeatolyesi.com internet sitesi Arge Atölyesi tarafından işletilmektedir.
+
+Yasal Uyarı
+Yasal Uyarı
+argeatolyesi.com internet sitesi Arge Atölyesi tarafından işletilmektedir. Siteyi ziyaret eden veya kullanan herkes, aşağıdaki koşulları okumuş ve kabul etmiş sayılır. Koşulları kabul etmiyorsanız lütfen siteyi kullanmayınız.
+Fikri ve sınai haklar
+Sitede yer alan metin, görsel, logo, tasarım, yazılım ve diğer tüm içerikler, aksi belirtilmedikçe Arge Atölyesi adına korunmaktadır ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile ilgili mevzuat kapsamındadır. Bu içerikler önceden yazılı izin alınmaksızın kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.
+Bilgilerin doğruluğu
+Sitedeki bilgiler genel bilgilendirme amacı taşır ve özenle hazırlanır; ancak bilgilerin her zaman eksiksiz ve güncel olacağı garanti edilmez. Firmamız, önceden bildirimde bulunmaksızın içerikte değişiklik yapma hakkını saklı tutar. Özellikle şu hususlara dikkat edilmesini rica ederiz:
+Ürün, hizmet ve fiyat bilgileri değişiklik gösterebilir; bağlayıcı bilgiler sözleşme aşamasında sunulur
+Sitedeki içerikler profesyonel danışmanlık yerine geçmez
+Siteye erişimde yaşanabilecek teknik kesintilerden doğan zararlardan, mevzuatın izin verdiği ölçüde sorumluluk kabul edilmez
+Üçüncü taraf içerikler
+Sitede başka internet sitelerine yönlendirme bulunması hâlinde, bu sitelerin içerik ve gizlilik uygulamalarından ilgili site işletenleri sorumludur. 5651 sayılı Kanun kapsamında, bağlantı verilen içeriklerin benimsendiği açıkça anlaşılmadıkça bu içeriklerden sorumluluk doğmaz.
+Uygulanacak hukuk
+Bu koşulların yorumlanmasında ve uygulanmasında Türkiye Cumhuriyeti hukuku uygulanır. Tüketici işlemlerinden doğan uyuşmazlıklarda tüketicinin kanuni hakları saklıdır.
+İletişim: Sorularınız için +90 531 679 10 14 numaralı telefon / WhatsApp hattımız üzerinden bize ulaşabilirsiniz. Son güncelleme: 2026-11-02.
+
+---
+
+## Çerez Politikası
+https://argeatolyesi.com/tr/cerez-politikasi/
+
+Bu politika, Arge Atölyesi tarafından işletilen argeatolyesi.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…
+
+Çerez Politikası
+Çerez Politikası
+Bu politika, Arge Atölyesi tarafından işletilen argeatolyesi.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve tercihlerinizi nasıl yönetebileceğinizi açıklar. Çerezler aracılığıyla elde edilen kişisel veriler 6698 sayılı Kişisel Verilerin Korunması Kanunu’na uygun olarak işlenir.
+Çerez nedir?
+Çerezler, bir internet sitesini ziyaret ettiğinizde tarayıcınız aracılığıyla cihazınıza kaydedilen küçük metin dosyalarıdır. Oturumunuzun sürdürülmesi, tercihlerinizin hatırlanması ve sitenin nasıl kullanıldığının anlaşılması gibi amaçlara hizmet eder. Çerezler, tarayıcı kapatıldığında silinen oturum çerezleri veya belirli bir süre cihazda kalan kalıcı çerezler olabilir.
+Kullandığımız çerez türleri
+Sitemizde aşağıdaki kategorilerde çerezler kullanılabilir:
+Zorunlu çerezler: Sitenin temel işlevlerinin, güvenliğin ve oturumun sağlanması için gereklidir; devre dışı bırakılmaları sitenin çalışmasını engelleyebilir.
+İşlevsel çerezler: Dil, bölge veya görünüm gibi tercihlerinizi hatırlayarak daha kişisel bir deneyim sunar.
+Analitik çerezler: Ziyaretçilerin siteyi nasıl kullandığını toplu olarak ölçerek sitenin iyileştirilmesine yardımcı olur.
+Pazarlama çerezleri: İlgi alanlarınıza uygun içerik ve reklamların gösterilmesi amacıyla kullanılır.
+Onay ve tercihlerin yönetimi
+Zorunlu çerezler dışındaki çerezler yalnızca açık rızanız alınarak kullanılır. Sitemizi ilk ziyaretinizde gösterilen çerez bildirimi üzerinden tercihlerinizi belirleyebilir, verdiğiniz onayı dilediğiniz zaman geri alabilirsiniz.
+Ayrıca tarayıcınızın ayarlar bölümündeki gizlilik veya site verileri seçenekleri aracılığıyla çerezleri görüntüleyebilir, silebilir ya da engelleyebilirsiniz. Çerezleri tamamen engellemeniz hâlinde sitenin bazı bölümleri beklendiği gibi çalışmayabilir.
+Haklarınız
+Çerezler aracılığıyla işlenen kişisel verilerinize ilişkin olarak Kanun’un 11. maddesindeki haklarınızı kullanmak için +90 531 679 10 14 numaralı telefon / WhatsApp hattımız üzerinden ya da Şehitkamil / Gaziantep adresine yazılı olarak başvurabilirsiniz.
+Son güncelleme: 2026-11-02. Kullandığımız çerezlerde değişiklik olduğunda bu politika güncellenir.

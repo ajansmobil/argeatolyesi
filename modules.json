@@ -1,0 +1,591 @@
+{
+  "data": [
+    {
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "desing": {
+        "bgcolor": "#1170b4",
+        "color": "#fff",
+        "stil": "",
+        "showlang": true,
+        "img": "",
+        "imgwidth": "250px"
+      },
+      "id": "q5kqht",
+      "index": 0
+    },
+    {
+      "name": "İletişim",
+      "path": "contact",
+      "local": "body",
+      "desing": {
+        "color": "var(--mx-site-primary, #1170B4)",
+        "name": {
+          "tr": "Bize Ulaşın"
+        }
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "+90 531 679 10 14",
+          "url": "tel:+905316791014"
+        },
+        {
+          "icon": "chat",
+          "text": "WhatsApp ile yazın",
+          "url": "https://wa.me/905316791014"
+        },
+        {
+          "icon": "map",
+          "text": "Şehitkamil / Gaziantep"
+        }
+      ],
+      "id": "wve3hc",
+      "index": 1
+    },
+    {
+      "name": "Menü ",
+      "path": "menu-2",
+      "local": "header",
+      "desing": {
+        "logo": "logo.png",
+        "bgcolor": "#FFFFFF",
+        "color": "#14202B",
+        "activebgcolor": "#1170B4",
+        "activecolor": "#FFFFFF",
+        "height": "84px",
+        "ariaToggle": {
+          "tr": "Menüyü aç/kapat",
+          "en": "Toggle menu",
+          "ar": "تبديل القائمة"
+        },
+        "ariaClose": {
+          "tr": "Menüyü kapat",
+          "en": "Close menu"
+        },
+        "logobg": "transparent",
+        "logoborder": "none",
+        "logoradius": "0",
+        "logopad": "6px 0",
+        "logopadmobil": "0",
+        "logomaxh": "76px",
+        "logoimg": "",
+        "langcolor": "currentColor",
+        "langbg": "transparent"
+      },
+      "id": "ft40uo",
+      "index": 2
+    },
+    {
+      "index": 3,
+      "name": "Hizmetlerimiz",
+      "path": "page-slider",
+      "local": "body",
+      "desing": {
+        "page": "services",
+        "color": "#0455d8",
+        "aspect-ratio": "3/2",
+        "delay": "3000",
+        "name": {
+          "tr": "Hizmetlerimiz"
+        }
+      },
+      "id": "u51cif",
+      "category": "page-slider"
+    },
+    {
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "desing": {
+        "delay": 3000,
+        "margin": "0px 0 0 0"
+      },
+      "data": [
+        {
+          "img": "1.jpg"
+        },
+        {
+          "img": "2.jpg"
+        },
+        {
+          "img": "3.jpg"
+        }
+      ],
+      "id": "n40izb",
+      "index": 4
+    },
+    {
+      "name": "Page Desing",
+      "path": "page-desing",
+      "local": "body",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "textcolor": "#ffffff"
+      },
+      "id": "bv6ng9",
+      "index": 5
+    },
+    {
+      "index": 6,
+      "name": "Hizmetlerimiz Sayfası",
+      "path": "page-list-2",
+      "local": "body",
+      "desing": {
+        "bgcolor": "#fff",
+        "color": "#000",
+        "page": "services",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "1 / 1"
+      },
+      "id": "ulicmh",
+      "category": "page-list"
+    },
+    {
+      "name": "Page Desing 2",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "textcolor": "#fff",
+        "category": "page"
+      },
+      "category": "page",
+      "description": "Page Desing 2 modülü. 2 farklı web projesinde kullanılmaktadır. İçerik sunumu ve görsel düzenleme için tasarlanmıştır.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "94gz6y",
+      "path": "page-text",
+      "local": "body",
+      "data": [],
+      "index": 7
+    },
+    {
+      "name": "Hero 2 (Ortalanmış)",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(150deg, #09111A 0%, #123652 55%, #09111A 100%)",
+        "glow1": "rgba(141, 194, 31, 0.35)",
+        "glow2": "rgba(17, 112, 180, 0.55)",
+        "btnbg": "#8DC21F",
+        "btncolor": "#09111A",
+        "badge": {
+          "tr": "Yapay Zekâ İşletim Sistemi · Modüler Robotlar"
+        },
+        "title": {
+          "tr": "Arge Atölyesi: modüler robotlar ve yapay zekâ işletim sistemi"
+        },
+        "description": {
+          "tr": "Yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotları tek bir yapay zekâ işletim sistemi altında buluşturur, her sektöre uyarlarız."
+        },
+        "btn1Text": {
+          "tr": "WhatsApp ile Yazın"
+        },
+        "btn1Url": "https://wa.me/905316791014",
+        "btn2Text": {
+          "tr": "Robotları İnceleyin"
+        },
+        "btn2Url": "/tr/robotlar/"
+      },
+      "category": "hero",
+      "description": "Ortalanmış hero varyantı (hero-1'in split düzenine alternatif). Blur glow arka plan animasyonları, rozet, büyük başlık ve iki CTA butonu; tamamen desing token'larıyla renklendirilir.",
+      "version": "1.0.0",
+      "icon": "hero",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "dpeanh",
+      "path": "hero-2",
+      "local": "body",
+      "data": [],
+      "index": 8
+    },
+    {
+      "name": "Hizmet Grid 1",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "#F6FAFD",
+        "accent": "#1170B4",
+        "titlecolor": "#14202B",
+        "textcolor": "#3A4856",
+        "badge": {
+          "tr": "Robotlarımız"
+        },
+        "title": {
+          "tr": "Modüler Robot Ailesi"
+        },
+        "description": {
+          "tr": "Aynı platform, farklı görev modülleri: insanın girmesinin güç ya da riskli olduğu ortamlar için dört robot."
+        },
+        "page": "services",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "1 / 1",
+        "linkText": {
+          "tr": "İncele"
+        },
+        "accentText": "#FFFFFF"
+      },
+      "category": "page-list",
+      "description": "Hizmet/sayfa grid modülü. page-list mantığı ile webmakerdata[page].data okur; üstte rozet + başlık, kartlarda görsel, başlık, kısa açıklama ve hover.",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "hoearh",
+      "path": "hizmet-grid-1",
+      "local": "body",
+      "data": [],
+      "index": 9
+    },
+    {
+      "name": "Zigzag Özellik",
+      "description": "Görsel-metin sırası satır satır değişen (sol/sağ) özellik anlatımı: numara rozeti, h3, paragraf, mini CTA; görsel kenarında dekoratif çerçeve/gölge. Kaydırmada satırlar sırayla belirir (IntersectionObserver; reduced-motion ya da JS yoksa hep görünür). desing.stil: cerceve | yuzen | sade. RTL'de sıra kendiliğinden aynalanır. Veri: data[] = [{baslik{tr,en,ar}, metin{}, img, alt{}, url, ctaLabel{}?}]. Renkler yalnız token; koyu mod otomatik.",
+      "version": "1.0.0",
+      "icon": "view_agenda",
+      "category": "ozellik",
+      "tags": [
+        "özellik",
+        "zigzag",
+        "features",
+        "görsel-metin",
+        "ar"
+      ],
+      "desing": {
+        "stil": "cerceve",
+        "max": "1200px",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "20px",
+        "numara": true,
+        "eyebrow": {
+          "tr": "Neden Arge Atölyesi?"
+        },
+        "title": {
+          "tr": "Modüler gövde, ortak yapay zekâ"
+        },
+        "description": {
+          "tr": "Donanımı ve yazılımı birlikte geliştiriyoruz; böylece aynı yapı farklı sektörlerde işe yarıyor."
+        },
+        "ctaLabel": {
+          "tr": "Ayrıntı"
+        }
+      },
+      "data": [
+        {
+          "baslik": {
+            "tr": "Modüler gövde"
+          },
+          "metin": {
+            "tr": "Aynı robot platformu, göreve göre değişen modüllerle farklı işlere uyarlanır; her yeni ihtiyaç için sıfırdan robot gerekmez."
+          },
+          "img": "7zea1i/hero-moduler-robotlar.webp",
+          "alt": {
+            "tr": "Modüler robot platformu"
+          },
+          "url": "/tr/robotlar/"
+        },
+        {
+          "baslik": {
+            "tr": "Yapay zekâ işletim sistemi"
+          },
+          "metin": {
+            "tr": "Algılama, görev planlama, güvenlik denetimi ve uzaktan izleme robotların ortak yazılım katmanında toplanır."
+          },
+          "img": "7zea1i/hero-yapay-zeka-isletim-sistemi.webp",
+          "alt": {
+            "tr": "Yapay zekâ işletim sistemi"
+          },
+          "url": "/tr/yapay-zeka-isletim-sistemi/"
+        },
+        {
+          "baslik": {
+            "tr": "İnsanın giremediği yerlerde"
+          },
+          "metin": {
+            "tr": "Dar, riskli ve ulaşılması zor ortamlar için tasarlanan robotlar inşaattan afet bölgelerine kadar farklı sektörlere uyarlanır."
+          },
+          "img": "7zea1i/hero-tehlikeli-ortam-robotu.webp",
+          "alt": {
+            "tr": "Tehlikeli ortamlarda çalışan robot"
+          },
+          "url": "/tr/sektorler/"
+        }
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "1r9rnd",
+      "path": "ozellik-zigzag",
+      "local": "body",
+      "index": 10
+    },
+    {
+      "name": "CTA Şerit 1",
+      "desing": {
+        "stil": "",
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #09111A 0%, #123652 100%)",
+        "btnbg": "#8DC21F",
+        "btncolor": "#09111A",
+        "title": {
+          "tr": "Robot projenizi birlikte konuşalım"
+        },
+        "description": {
+          "tr": "Sektörünüzü ve ihtiyacınızı WhatsApp üzerinden yazın; hangi robot ve görev modüllerinin uygun olabileceğini birlikte değerlendirelim."
+        },
+        "btn1Text": {
+          "tr": "WhatsApp ile Yazın"
+        },
+        "btn1Url": "https://wa.me/905316791014",
+        "btn2Text": {
+          "tr": "Sektörler"
+        },
+        "btn2Url": "sektorler"
+      },
+      "category": "cta",
+      "description": "Harekete geçirici çağrı (CTA) şerit modülü. Gradient arka plan üzerinde başlık, açıklama ve iki buton gösterir. Buton URL'leri dil öneki olmadan pathnext (iletisim, urunler) — site routing ekler. Çok dilli metin ve animasyonlu giriş içerir. Görsel varyant desing.stil (31 Eki 2026): \"\" klasik (gradient anahtarı tam genişlik bant, bugünkü görünüm) · \"gradient\" (token gradient primary→koyu, yuvarlak köşeli iç bant, ortalı yığın, ışık daireleri, hap düğmeler) · \"kart-yuzen\" (sayfa zemininde yüzen yüzey kartı, dekoratif primary daireler, sol vurgu çizgisi). Varyant renkleri yalnız var(--mx-site-*) token çiftleri.",
+      "version": "1.2.0",
+      "icon": "campaign",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "7a3ei7",
+      "path": "cta-1",
+      "local": "body",
+      "data": [],
+      "index": 11
+    },
+    {
+      "name": "Footer 3",
+      "desing": {
+        "showlang": true,
+        "bgcolor": "#0B1B2B",
+        "color": "#FFFFFF",
+        "bordercolor": "#1E3A52",
+        "minimal_design": true,
+        "social_media": false,
+        "logo_maxh": "64px",
+        "logo_plate": true,
+        "contact_line": "auto"
+      },
+      "category": "footer",
+      "data": [],
+      "description": "Web sitesi alt bilgi (footer) bölümü. Logo, telif hakları, iletişim bilgileri ve sosyal medya linklerini içerir. Tüm sayfa türlerinde kullanılabilir evrensel modüldür. logo_maxh: logo tavan yüksekliği (oran korunur); logo_plate: true → logonun arkasında beyaz plaka (koyu zeminde koyu logo); contact_line: auto → setting.phone/email varsa tek satır «tel · e-posta», false → yok.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "mo23gt",
+      "path": "footer-3",
+      "local": "footer",
+      "index": 12
+    },
+    {
+      "name": "WhatsApp 2",
+      "desing": {
+        "number": "905316791014",
+        "name": {
+          "tr": "WhatsApp ile Yazın"
+        },
+        "message": {
+          "tr": "Merhaba, Arge Atölyesi robotları ve yapay zekâ işletim sistemi hakkında bilgi almak istiyorum."
+        },
+        "position": "fixed",
+        "color": "#25D366",
+        "z_index": 10000,
+        "hover_effects": true,
+        "shadow_animation": true
+      },
+      "category": "contact",
+      "data": [],
+      "description": "WhatsApp iletişim widget'ı. Ziyaretçilerin tek tıkla WhatsApp üzerinden mesaj göndermesini sağlar. Floating button ve chat görünümü ile müşteri desteği için idealdir. 0 projede aktif.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "d9z0u8",
+      "path": "whatsapp-2",
+      "local": "footer",
+      "index": 13
+    },
+    {
+      "name": "Slider Text",
+      "data": [
+        {
+          "bg": "hero-moduler-robotlar.webp",
+          "img": "",
+          "layout": "left",
+          "title": {
+            "tr": "İnsanların giremeyeceği yerlere giren robotlar"
+          },
+          "description": {
+            "tr": "Yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlar: modüler yapı, ortak yapay zekâ."
+          },
+          "button": {
+            "tr": "Robotları İnceleyin"
+          },
+          "link": "robotlar"
+        },
+        {
+          "bg": "hero-yapay-zeka-isletim-sistemi.webp",
+          "img": "",
+          "layout": "left",
+          "title": {
+            "tr": "Yapay zekâ işletim sistemi"
+          },
+          "description": {
+            "tr": "Algılama, görev planlama ve izleme, robotların ortak yazılım katmanında toplanır."
+          },
+          "button": {
+            "tr": "Sistemi İnceleyin"
+          },
+          "link": "yapay-zeka-isletim-sistemi"
+        },
+        {
+          "bg": "hero-tehlikeli-ortam-robotu.webp",
+          "img": "",
+          "layout": "left",
+          "title": {
+            "tr": "Her sektöre uyarlanabilir"
+          },
+          "description": {
+            "tr": "İnşaat, madencilik, endüstriyel temizlik, afet ve arama-kurtarma, tehlikeli ortamlar."
+          },
+          "button": {
+            "tr": "Sektörler"
+          },
+          "link": "sektorler"
+        }
+      ],
+      "desing": {
+        "delay": 6000,
+        "height": "560px",
+        "max": "1200px",
+        "overlay": "0.5",
+        "align": "left",
+        "layout": "",
+        "titlecolor": "#FFFFFF",
+        "desccolor": "rgba(255, 255, 255, 0.92)",
+        "btncolor": "#09111A",
+        "btnbg": "#8DC21F",
+        "border_radius": "8px",
+        "margin": "0",
+        "bgcolor": "#09111A",
+        "prevLabel": {
+          "tr": "Önceki slayt",
+          "en": "Previous slide",
+          "ar": "الشريحة السابقة"
+        },
+        "nextLabel": {
+          "tr": "Sonraki slayt",
+          "en": "Next slide",
+          "ar": "الشريحة التالية"
+        }
+      },
+      "category": "slider",
+      "description": "Hero slider: bg arka plan, img on plan. layout: left (gorsel sol) veya right (gorsel sag); yoksa sirali alternatif. img yoksa metin ortada.",
+      "version": "2.3.2",
+      "icon": "view_carousel",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "7zea1i",
+      "path": "slider-text",
+      "local": "header",
+      "index": 14
+    },
+    {
+      "name": "Page Desing 2",
+      "desing": {
+        "height": "140",
+        "opacity": "0.5",
+        "font-size": "40",
+        "backgroundcolor": "#09111A",
+        "textcolor": "#FFFFFF",
+        "category": "page"
+      },
+      "category": "page",
+      "description": "Page Desing 2 modülü. 2 farklı web projesinde kullanılmaktadır. İçerik sunumu ve görsel düzenleme için tasarlanmıştır.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "3g708l",
+      "path": "page-text",
+      "local": "body",
+      "data": [],
+      "index": 15
+    },
+    {
+      "name": "İletişim",
+      "desing": {
+        "stil": "",
+        "color": "var(--mx-site-primary, #1170B4)",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "margin": "30px 0px 30px 0px",
+        "linkcolor": "var(--mx-site-primary, #1170B4)"
+      },
+      "data": [
+        {
+          "icon": "phone",
+          "text": "+90 531 679 10 14",
+          "url": "tel:+905316791014"
+        },
+        {
+          "icon": "chat",
+          "text": "WhatsApp ile yazın",
+          "url": "https://wa.me/905316791014"
+        },
+        {
+          "icon": "map",
+          "text": "Şehitkamil / Gaziantep"
+        }
+      ],
+      "category": "contact",
+      "description": "İletişim bilgileri görüntüleme modülü. Telefon, email ve adres bilgilerini icon ile şık tasarımda sunar. 26 farklı projede kullanılır: kurumsal şirketler, restoranlar, e-ticaret siteleri, sağlık kuruluşları ve hizmet sektöründe. Responsive kart düzeni ve tıklanabilir telefon/email linkleri içerir. Görsel varyant desing.stil (31 Eki 2026): \"\" klasik (çerçeveli liste, bugünkü görünüm) · \"kartli\" (her bilgi ortalı bir kart, 3→2→1 sütun) · \"koyu-panel\" (sol koyu başlık paneli primary/primary-contrast + sağda ayraçlı liste). Varyant renkleri yalnız var(--mx-site-*) token.",
+      "version": "1.1.0",
+      "icon": "contact_mail",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "o82f9j",
+      "path": "contact-3",
+      "local": "body",
+      "index": 16
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "snyf9ao0z7",
+  "name": {
+    "tr": "Ar-Ge ve Teknoloji"
+  },
+  "description": {
+    "tr": "Arge Atölyesi Ar-Ge yaklaşımı: modüler robot donanımı ile yapay zekâ işletim sistemini birlikte geliştiren araştırma-geliştirme çalışması."
+  },
+  "keyword": {
+    "tr": "robotik ar-ge, yapay zeka ar-ge, modüler robot teknolojisi, robot yazılımı geliştirme, Arge Atölyesi"
+  },
+  "path": "arge-teknoloji",
+  "icon": "article",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "title": {
+    "tr": "Ar-Ge ve Teknoloji"
+  },
+  "date": "2026-11-02T05:38:36.010Z",
+  "update": "2026-11-02T05:48:36.322Z"
+}

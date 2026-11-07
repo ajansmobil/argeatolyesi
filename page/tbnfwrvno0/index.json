@@ -1,0 +1,30 @@
+{
+  "name": {
+    "tr": "Yapay Zekâ İşletim Sistemi"
+  },
+  "status": "play",
+  "category": "",
+  "id": "tbnfwrvno0",
+  "path": "yapay-zeka-isletim-sistemi",
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "description": {
+    "tr": "Arge Atölyesi yapay zekâ işletim sistemi: modüler robotları ortak bir yazılım katmanında buluşturan, görev planlama ve izleme sağlayan robot işletim sistemi."
+  },
+  "externalUrl": "",
+  "keyword": {
+    "tr": "yapay zeka işletim sistemi, robot işletim sistemi, robot yazılımı, otonom robot, modüler robot yazılımı"
+  },
+  "spot": {
+    "tr": "Güncel Haberler"
+  },
+  "title": {
+    "tr": "Yapay Zekâ İşletim Sistemi"
+  },
+  "desc": {},
+  "update": "2026-11-02T05:48:36.848Z"
+}

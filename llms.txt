@@ -1,0 +1,31 @@
+# Arge Atölyesi
+
+> Arge Atölyesi — yapay zekâ işletim sistemi geliştirir ve her sektöre uyarlanabilen modüler robotlar üretir: insanların giremeyeceği ortamlar için yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlar.
+
+Web: https://argeatolyesi.com/tr/ · Telefon: +90 531 679 10 14
+
+## Sayfalar
+- [Arge Atölyesi](https://argeatolyesi.com/tr/): Arge Atölyesi — yapay zekâ işletim sistemi geliştirir ve her sektöre uyarlanabilen modüler robotlar üretir: insanların giremeyeceği ortamlar için yarı insansı örümcek, temizlik, hafriyat ve kazıcı…
+- [Robotlar](https://argeatolyesi.com/tr/robotlar/): Arge Atölyesi modüler robot ailesi: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot — insanların giremeyeceği ortamlar için.
+- [Yapay Zekâ İşletim Sistemi](https://argeatolyesi.com/tr/yapay-zeka-isletim-sistemi/): Arge Atölyesi yapay zekâ işletim sistemi: modüler robotları ortak bir yazılım katmanında buluşturan, görev planlama ve izleme sağlayan robot işletim sistemi.
+- [Sektörler](https://argeatolyesi.com/tr/sektorler/): Arge Atölyesi robotlarının kullanım alanları: inşaat, madencilik, endüstriyel temizlik, afet ve arama-kurtarma ile tehlikeli ortamlar.
+- [Ar-Ge ve Teknoloji](https://argeatolyesi.com/tr/arge-teknoloji/): Arge Atölyesi Ar-Ge yaklaşımı: modüler robot donanımı ile yapay zekâ işletim sistemini birlikte geliştiren araştırma-geliştirme çalışması.
+- [Kurumsal](https://argeatolyesi.com/tr/kurumsal/): Arge Atölyesi kurumsal: yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten firmamızın temel kurumsal sayfaları.
+- [İletişim](https://argeatolyesi.com/tr/iletisim/): Arge Atölyesi iletişim: WhatsApp ve telefon ile robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için bize ulaşın.
+- [Yarı İnsansı Örümcek Robot](https://argeatolyesi.com/tr/orumcek-robot/): Arge Atölyesi yarı insansı örümcek robot: çok bacaklı gövdesi ve modüler yapısıyla insanların giremeyeceği dar, engebeli ve tehlikeli ortamlar için geliştirilen robot ailesi.
+- [Temizlik Robotu](https://argeatolyesi.com/tr/temizlik-robotu/): Arge Atölyesi temizlik robotu: endüstriyel tesisler ve insanın uzun süre kalmasının sakıncalı olduğu ortamlar için modüler, yapay zekâ destekli temizlik robotu.
+- [Hafriyat Robotu](https://argeatolyesi.com/tr/hafriyat-robotu/): Arge Atölyesi hafriyat robotu: inşaat ve madencilik gibi sahalarda insan gücünü riske atmadan hafriyat çalışmasını üstlenmek üzere geliştirilen modüler robot.
+- [Kazıcı Robot](https://argeatolyesi.com/tr/kazici-robot/): Arge Atölyesi kazıcı robot: yer altı, dar kazı ve tehlikeli zemin çalışmaları için insanın girmeyeceği yerlerde kazı yapmak üzere geliştirilen modüler robot.
+- [Hakkımızda](https://argeatolyesi.com/tr/hakkimizda/): Arge Atölyesi hakkında: yapay zekâ işletim sistemi geliştiren ve her sektöre uygun modüler robotlar üreten teknoloji firması.
+- [Misyon](https://argeatolyesi.com/tr/misyon/): Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş…
+- [Vizyon](https://argeatolyesi.com/tr/vizyon/): Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.
+- [Kalite Politikamız](https://argeatolyesi.com/tr/kalitepolitikamiz/): Kalite, firmamız için yalnızca bir sonuç değil, işin her aşamasına yerleştirilmiş bir çalışma biçimidir.
+- [Gizlilik Politikası](https://argeatolyesi.com/tr/gizlilikpolitikasi/): Bu Gizlilik Politikası, Arge Atölyesi tarafından işletilen argeatolyesi.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi kullandığınızda…
+- [Kişisel Veriler](https://argeatolyesi.com/tr/kisiselveriler/): Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10.
+- [Kullanıcı Hakları](https://argeatolyesi.com/tr/kullanicahaklari/): argeatolyesi.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir.
+- [Yasal Uyarı](https://argeatolyesi.com/tr/yasaluyari/): argeatolyesi.com internet sitesi Arge Atölyesi tarafından işletilmektedir.
+- [Çerez Politikası](https://argeatolyesi.com/tr/cerez-politikasi/): Bu politika, Arge Atölyesi tarafından işletilen argeatolyesi.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…
+
+## Diger
+- [sitemap.xml](https://argeatolyesi.com/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://argeatolyesi.com/llms-full.txt): sayfa govdeleri duz metin

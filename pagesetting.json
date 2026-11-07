@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Sayfalar"
+      },
+      "path": "page",
+      "desc": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [
+          "3g708l"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": false
+      }
+    },
+    {
+      "name": {
+        "tr": "Ürünler (taslak)"
+      },
+      "path": "products",
+      "desc": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true
+      }
+    },
+    {
+      "name": {
+        "tr": "Robotlarımız"
+      },
+      "path": "services",
+      "desc": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "bv6ng9"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "detail": true,
+        "spot": false
+      }
+    },
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": true,
+        "img": false
+      },
+      "active": true
+    }
+  ]
+}

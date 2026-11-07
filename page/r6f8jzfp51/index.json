@@ -1,0 +1,33 @@
+{
+  "name": {
+    "tr": "Yarı İnsansı Örümcek Robot"
+  },
+  "status": "play",
+  "category": "",
+  "id": "r6f8jzfp51",
+  "path": "orumcek-robot",
+  "description": {
+    "tr": "Arge Atölyesi yarı insansı örümcek robot: çok bacaklı gövdesi ve modüler yapısıyla insanların giremeyeceği dar, engebeli ve tehlikeli ortamlar için geliştirilen robot ailesi."
+  },
+  "index": 0,
+  "img": "index.webp",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "keyword": {
+    "tr": "yarı insansı robot, örümcek robot, çok bacaklı robot, tehlikeli ortam robotu, arama kurtarma robotu, modüler robot"
+  },
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Yarı İnsansı Örümcek Robot</h2>\n<p class=\"lead\">Çok bacaklı gövdesiyle engebeli ve dar alanlarda ilerlemek üzere tasarlanan, insan benzeri kol ve algılama yeteneklerini örümcek benzeri bir gövdeyle birleştiren modüler robotumuz.</p>\n<h3>Nerede kullanılır?</h3>\n<p>Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:</p>\n<ul><li>Enkaz altı ve dar geçitli arama-kurtarma çalışmaları</li><li>Gaz, sıcaklık ya da çökme riski bulunan tehlikeli ortamlarda keşif</li><li>Yapı ve tesis içinde insanın ulaşamadığı bölmelerin denetimi</li></ul>\n<h3>Nasıl çalışır?</h3>\n<p>Robot, tek bir amaca kilitli değildir: gövde ortak kalır, görev modülleri sahaya göre değiştirilir. Böylece aynı platform farklı sektörlerin ihtiyacına uyarlanabilir.</p>\n<ul><li>Çok bacaklı yürüyüş sayesinde düz olmayan zeminde hareket</li><li>Kamera ve sensörlerle ortamı algılama; verileri uzaktan operatöre aktarma</li><li>Göreve göre değiştirilebilen modüller (ör. algılama, tutma, ölçüm)</li><li>Yapay zekâ işletim sistemi ile görev planlama ve izleme</li></ul>\n<h3>Modüler yapı ve yazılım</h3>\n<p>Hareket, algılama ve görev yönetimi Arge Atölyesi’nin geliştirdiği yapay zekâ işletim sistemi tarafından koordine edilir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Teknik bilgi:</strong> Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için <a href=\"/tr/iletisim/\">bizimle iletişime geçin</a>.</aside>\n</article>"
+  },
+  "spot": {
+    "tr": "Geleceğin robotik teknolojilerini şekillendirin!"
+  },
+  "title": {
+    "tr": "Yarı İnsansı Örümcek Robot"
+  },
+  "desc": {},
+  "update": "2026-11-02T05:40:41.183Z"
+}

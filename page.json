@@ -1,0 +1,147 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Robotlar"
+      },
+      "status": "play",
+      "category": "",
+      "id": "w33bzrq0b4",
+      "path": "robotlar",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [
+          "ulicmh",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Arge Atölyesi modüler robot ailesi: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot — insanların giremeyeceği ortamlar için."
+      },
+      "text": {
+        "tr": "<article class=\"wm-metin\">\n<h2>Modüler Robotlarımız</h2>\n<p class=\"lead\">Arge Atölyesi, her sektöre uyarlanabilen modüler robotlar üretir. Ortak bir gövde ve ortak bir yazılım üzerine, göreve göre değişen modüller eklenir.</p>\n<h3>Neden modüler?</h3>\n<p>Her saha farklı bir iş ister. Tek amaçlı bir makine yerine, görev modülü değiştirilebilen bir platform kullandığımızda aynı robot ailesi inşaattan afet bölgesine kadar farklı ihtiyaçlara uyarlanabilir.</p>\n<h3>Robot ailesi</h3>\n<p>Aşağıdaki robotlar aynı yapay zekâ işletim sistemiyle çalışacak şekilde tasarlanır:</p>\n<ul><li>Yarı İnsansı Örümcek Robot — dar, engebeli ve tehlikeli ortamlar</li><li>Temizlik Robotu — endüstriyel ve riskli ortamlarda temizlik</li><li>Hafriyat Robotu — inşaat ve madencilik sahalarında hafriyat</li><li>Kazıcı Robot — dar ve derin kazı çalışmaları</li></ul>\n<h3>Ortak amaç</h3>\n<p>Tüm robotlarımızın ortak hedefi, insanı riskli ve ulaşılması zor ortamlardan uzak tutarken işin yapılmasını sağlamaktır.</p>\n<aside class=\"vurgu-kutusu\">Her robotun ayrıntısı için aşağıdaki robot kartlarına göz atın ya da <a href=\"/tr/iletisim/\">bizimle iletişime geçin</a>.</aside>\n</article>"
+      }
+    },
+    {
+      "name": {
+        "tr": "Yapay Zekâ İşletim Sistemi"
+      },
+      "status": "play",
+      "category": "",
+      "id": "tbnfwrvno0",
+      "path": "yapay-zeka-isletim-sistemi",
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "description": {
+        "tr": "Arge Atölyesi yapay zekâ işletim sistemi: modüler robotları ortak bir yazılım katmanında buluşturan, görev planlama ve izleme sağlayan robot işletim sistemi."
+      },
+      "text": {
+        "tr": "<article class=\"wm-metin\">\n<h2>Yapay Zekâ İşletim Sistemi</h2>\n<p class=\"lead\">Arge Atölyesi’nin geliştirdiği yapay zekâ işletim sistemi, farklı robotları ve görev modüllerini ortak bir yazılım katmanında buluşturur.</p>\n<h3>Neden ortak bir işletim sistemi?</h3>\n<p>Örümcek, temizlik, hafriyat ve kazıcı robotlar farklı işler yapar; ancak hepsi algılama, karar verme ve güvenlik gibi aynı temel işlevlere ihtiyaç duyar. Bu işlevleri her robot için baştan yazmak yerine ortak bir işletim sistemi altında topluyoruz.</p>\n<h3>Temel işlevler</h3>\n<p>İşletim sistemi katmanının sorumlulukları:</p>\n<ul><li>Robotun algıladığı ortamı anlamlandırma</li><li>Göreve göre iş planı oluşturma ve izleme</li><li>Görev modüllerini tanıma ve yönetme</li><li>Güvenlik sınırlarının denetimi</li><li>Operatör için uzaktan izleme ve müdahale</li></ul>\n<h3>Modüllerle birlikte çalışır</h3>\n<p>Yeni bir görev modülü robota eklendiğinde işletim sistemi onu tanır ve görev planına dahil eder. Bu sayede aynı yazılım, farklı robot gövdelerinde ve farklı sektörlerde kullanılabilir.</p>\n<aside class=\"vurgu-kutusu\">Yazılımın teknik ayrıntıları proje bazında paylaşılır. Bilgi için <a href=\"/tr/iletisim/\">bize ulaşın</a>.</aside>\n</article>"
+      }
+    },
+    {
+      "id": "cdnt47g1dc",
+      "name": {
+        "tr": "Sektörler"
+      },
+      "description": {
+        "tr": "Arge Atölyesi robotlarının kullanım alanları: inşaat, madencilik, endüstriyel temizlik, afet ve arama-kurtarma ile tehlikeli ortamlar."
+      },
+      "path": "sektorler",
+      "icon": "article",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2,
+      "text": {
+        "tr": "<article class=\"wm-metin\">\n<h2>Hizmet Verdiğimiz Sektörler</h2>\n<p class=\"lead\">Modüler yapımız sayesinde aynı robot platformu, insanın girmesinin güç ya da riskli olduğu birçok sektöre uyarlanabilir.</p>\n<h3>İnşaat</h3>\n<p>Hafriyat, kazı ve saha hazırlığında insan gücünü riskli bölgelerden uzak tutar.</p>\n<h3>Madencilik</h3>\n<p>Riskli galeri, cephe ve taş ocağı bölgelerinde keşif ve malzeme taşıma görevlerine uyarlanır.</p>\n<h3>Endüstriyel temizlik</h3>\n<p>Üretim tesislerinde ve insanın uzun süre kalmasının sakıncalı olduğu alanlarda temizlik görevini üstlenir.</p>\n<h3>Afet ve arama-kurtarma</h3>\n<p>Enkaz ve göçük alanlarında insanın giremediği noktalara ulaşarak keşif yapar.</p>\n<h3>Tehlikeli ortamlar</h3>\n<p>Gaz, sıcaklık ya da çökme riski bulunan alanlarda insan yerine algılama ve müdahale görevi görür.</p>\n<h3>Ortak yaklaşım</h3>\n<p>Her sektörde süreç aynıdır: önce sahadaki ihtiyaç ve koşullar netleştirilir, ardından uygun robot gövdesi ve görev modülleri seçilir. Sayısal kapasite ve süre gibi değerler, proje bazında birlikte belirlenir.</p>\n<aside class=\"vurgu-kutusu\">Sektörünüze özel bir ihtiyaç mı var? <a href=\"/tr/iletisim/\">Bize yazın</a>; ihtiyacı birlikte değerlendirelim.</aside>\n</article>"
+      }
+    },
+    {
+      "id": "snyf9ao0z7",
+      "name": {
+        "tr": "Ar-Ge ve Teknoloji"
+      },
+      "description": {
+        "tr": "Arge Atölyesi Ar-Ge yaklaşımı: modüler robot donanımı ile yapay zekâ işletim sistemini birlikte geliştiren araştırma-geliştirme çalışması."
+      },
+      "path": "arge-teknoloji",
+      "icon": "article",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3,
+      "text": {
+        "tr": "<article class=\"wm-metin\">\n<h2>Ar-Ge ve Teknoloji</h2>\n<p class=\"lead\">Arge Atölyesi’nde robot donanımı ve yapay zekâ yazılımı aynı çatı altında, birlikte geliştirilir.</p>\n<h3>Yaklaşımımız</h3>\n<p>Modüler robot tasarımı ile yapay zekâ işletim sistemini ayrı değil, birbirini tamamlayan iki parça olarak ele alıyoruz. Donanımın ihtiyacı yazılımı, yazılımın olanakları donanımı şekillendirir.</p>\n<h3>Çalışma alanlarımız</h3>\n<p>Ar-Ge çalışmalarının odağındaki başlıklar:</p>\n<ul><li>Çok bacaklı ve modüler robot gövdeleri</li><li>Algılama ve ortam anlama</li><li>Görev planlama ve robot işletim sistemi</li><li>Tehlikeli ortamlar için güvenli çalışma</li></ul>\n<h3>Sahaya yakın geliştirme</h3>\n<p>Amacımız laboratuvarda kalan bir teknoloji değil, gerçek sahada işe yarayan robotlardır. Bu nedenle geliştirme sürecini kullanım alanındaki ihtiyaçlarla birlikte yürütmeyi hedefleriz.</p>\n<h3>Modülerlik neden önemli?</h3>\n<p>Modüler tasarım, her yeni ihtiyaç için sıfırdan robot üretmek yerine mevcut platformun yeni bir görev modülüyle genişletilmesini sağlar. Bu yaklaşım hem geliştirme hem de saha uyarlama sürecini sadeleştirmeyi amaçlar.</p>\n<aside class=\"vurgu-kutusu\">Ar-Ge iş birliği ve proje talepleri için <a href=\"/tr/iletisim/\">iletişime geçin</a>.</aside>\n</article>"
+      }
+    },
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ky67y4ipoj",
+      "path": "kurumsal",
+      "index": 4,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "description": {
+        "tr": "Arge Atölyesi kurumsal: yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten firmamızın temel kurumsal sayfaları."
+      },
+      "text": {
+        "tr": "<article class=\"wm-metin\">\n<h2>Kurumsal</h2>\n<p class=\"lead\">Arge Atölyesi, yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten bir teknoloji firmasıdır.</p>\n<h3>Bu bölümde neler var?</h3>\n<p>Firmamızı tanımanız için temel kurumsal sayfalarımızı bir arada sunuyoruz. Çalışma biçimimizi, ilkelerimizi ve firma bilgilerimizi bu sayfalardan inceleyebilirsiniz.</p>\n<ul><li><a href=\"/tr/hakkimizda/\">Hakkımızda</a> — firmamızın ne yaptığı ve nasıl çalıştığı</li><li><a href=\"/tr/misyon/\">Misyon</a> ve <a href=\"/tr/vizyon/\">Vizyon</a> — temel ilkelerimiz</li><li><a href=\"/tr/arge-teknoloji/\">Ar-Ge ve Teknoloji</a> — donanım ve yazılımı birlikte geliştirme yaklaşımımız</li></ul>\n<h3>Ne yapıyoruz?</h3>\n<p>Her sektöre uyarlanabilen modüler robotlar üretiyoruz: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot. Bu robotların hepsi, insanların girmesinin güç ya da riskli olduğu ortamlar için tasarlanır ve ortak bir yapay zekâ işletim sistemi altında çalışır.</p>\n<h3>Bize ulaşın</h3>\n<p>Robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için <a href=\"/tr/iletisim/\">iletişim sayfamızı</a> kullanabilir ya da doğrudan WhatsApp üzerinden yazabilirsiniz. Mesajlarınıza ilk fırsatta dönüş yapılır.</p>\n</article>"
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "jurds89l6m",
+      "path": "iletisim",
+      "index": 5,
+      "desing": {
+        "header": [],
+        "body": [
+          "o82f9j"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Arge Atölyesi iletişim: WhatsApp ve telefon ile robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için bize ulaşın."
+      }
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [
+      "3g708l"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "body": true,
+    "detail": false
+  }
+}

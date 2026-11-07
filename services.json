@@ -1,0 +1,142 @@
+{
+  "name": "Hizmetlerimiz",
+  "path": "services",
+  "desc": [],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "bv6ng9"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "detail": true,
+    "spot": false
+  },
+  "data": [
+    {
+      "name": {
+        "tr": "Yarı İnsansı Örümcek Robot"
+      },
+      "status": "play",
+      "category": "",
+      "id": "r6f8jzfp51",
+      "path": "orumcek-robot",
+      "description": {
+        "tr": "Arge Atölyesi yarı insansı örümcek robot: çok bacaklı gövdesi ve modüler yapısıyla insanların giremeyeceği dar, engebeli ve tehlikeli ortamlar için geliştirilen robot ailesi."
+      },
+      "index": 0,
+      "img": "index.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Temizlik Robotu"
+      },
+      "status": "play",
+      "category": "",
+      "id": "gg0jp61i3k",
+      "path": "temizlik-robotu",
+      "description": {
+        "tr": "Arge Atölyesi temizlik robotu: endüstriyel tesisler ve insanın uzun süre kalmasının sakıncalı olduğu ortamlar için modüler, yapay zekâ destekli temizlik robotu."
+      },
+      "index": 1,
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Hafriyat Robotu"
+      },
+      "status": "play",
+      "category": "",
+      "id": "arkfk5mp94",
+      "path": "hafriyat-robotu",
+      "description": {
+        "tr": "Arge Atölyesi hafriyat robotu: inşaat ve madencilik gibi sahalarda insan gücünü riske atmadan hafriyat çalışmasını üstlenmek üzere geliştirilen modüler robot."
+      },
+      "index": 2,
+      "img": "index.webp"
+    },
+    {
+      "name": {
+        "tr": "Kazıcı Robot"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yr79zd9jh6",
+      "path": "kazici-robot",
+      "description": {
+        "tr": "Arge Atölyesi kazıcı robot: yer altı, dar kazı ve tehlikeli zemin çalışmaları için insanın girmeyeceği yerlerde kazı yapmak üzere geliştirilen modüler robot."
+      },
+      "index": 3,
+      "img": "index.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "AR/VR Teknolojileri"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "i4q59vg2n5",
+      "path": "ar/vr-teknolojileri",
+      "description": {
+        "tr": "AR ve VR teknolojileri kullanarak inovatif çözümler ve eğitim simülasyonları geliştiriyoruz."
+      },
+      "index": 4,
+      "img": "a82xz.jpeg"
+    },
+    {
+      "name": {
+        "tr": "Veri Bilimi ve Analitik Hizmetler"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "n40pkgnjbk",
+      "path": "veri-bilimi-ve-analitik-hizmetler",
+      "description": {
+        "tr": "Veri odaklı karar verme süreçlerini destekleyen kapsamlı veri bilimi ve analitik hizmetleri sunuyoruz."
+      },
+      "index": 5,
+      "img": "fzalt.jpeg"
+    },
+    {
+      "name": {
+        "tr": "Siber Güvenlik Eğitimleri"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "fnw52yupge",
+      "path": "siber-guvenlik-egitimleri",
+      "description": {
+        "tr": "Endüstriyel sistemler ve yapay zeka odaklı siber güvenlik eğitimleri veriyoruz."
+      },
+      "index": 6,
+      "img": "z083d.jpeg"
+    },
+    {
+      "name": {
+        "tr": "Yazılım Geliştirme"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "djo5sfqybk",
+      "path": "yazilim-gelistirme",
+      "description": {
+        "tr": "İşletmenizin ihtiyaçlarına özel, yapay zeka destekli ve endüstriyel yazılım çözümleri geliştiriyoruz."
+      },
+      "index": 7,
+      "img": "jqa1b.jpeg"
+    }
+  ]
+}

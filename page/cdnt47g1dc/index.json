@@ -1,0 +1,28 @@
+{
+  "id": "cdnt47g1dc",
+  "name": {
+    "tr": "Sektörler"
+  },
+  "description": {
+    "tr": "Arge Atölyesi robotlarının kullanım alanları: inşaat, madencilik, endüstriyel temizlik, afet ve arama-kurtarma ile tehlikeli ortamlar."
+  },
+  "keyword": {
+    "tr": "inşaat robotu, madencilik robotu, endüstriyel temizlik, afet arama kurtarma robotu, tehlikeli ortam robotu"
+  },
+  "path": "sektorler",
+  "icon": "article",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "title": {
+    "tr": "Sektörler"
+  },
+  "date": "2026-11-02T05:38:35.489Z",
+  "update": "2026-11-02T05:48:36.587Z"
+}

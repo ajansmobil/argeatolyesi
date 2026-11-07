@@ -1,0 +1,50 @@
+{
+  "name": {
+    "tr": "AI Robot Yönetimi",
+    "en": "AI Robot Management",
+    "ar": "إدارة روبوتات الذكاء الاصطناعي",
+    "de": "KI-Roboter-Management",
+    "it": "Gestione Robot AI"
+  },
+  "status": "pause",
+  "category": "",
+  "id": "unwzsrj4i0",
+  "path": "ai-robot-yoentimi",
+  "description": {
+    "tr": "Arge Atölyesi'nin AI robot yönetimi eğitimi, endüstriyel robotların ve otomasyon sistemlerinin yönetimi konusunda kapsamlı bilgi sağlar.",
+    "en": "Arge Workshop's AI robot management training provides comprehensive knowledge in managing industrial robots and automation systems. It offers expertise in designing and implementing smart robot systems.",
+    "ar": "يوفر تدريب إدارة روبوتات الذكاء الاصطناعي في ورشة أرجي معرفة شاملة في إدارة الروبوتات الصناعيةأنظمة الأتمتة. يقدم خبرة في تصميم وتنفيذ أنظمة الروبوتات الذكية.",
+    "de": "Das KI-Roboter-Management-Training des Arge Workshops vermittelt umfassende Kenntnisse in der Verwaltung von Industrierobotern und Automatisierungssystemen. Es bietet Expertise in der Gestaltung und Implementierung intelligenter Robotersysteme.",
+    "it": "La formazione sulla gestione dei robot AI del Workshop Arge fornisce una conoscenza completa nella gestione di robot industriali e sistemi di automazione. Offre competenze nella progettazione e implementazione di sistemi robotici intelligenti."
+  },
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "externalUrl": "",
+  "keyword": {
+    "tr": "Arge Atölyesi AI robot yönetimi, robotik sistemler, otomasyon yönetimi, endüstriyel robotlar, akıllı robot sistemleri",
+    "en": "Arge Workshop AI robot management, robotic systems, automation management, industrial robots, smart robot systems",
+    "ar": "ورشة أرجي إدارة روبوتات الذكاء الاصطناعي، الأنظمة الروبوتية، إدارة الأتمتة، الروبوتات الصناعية، أنظمة الروبوتات الذكية",
+    "de": "Arge Workshop KI-Roboter-Management, Robotersysteme, Automatisierungsmanagement, Industrieroboter, intelligente Robotersysteme",
+    "it": "Workshop Arge gestione robot AI, sistemi robotici, gestione automazione, robot industriali, sistemi robotici intelligenti"
+  },
+  "text": {
+    "tr": "Arge Atölyesi'nin AI robot yönetimi eğitimi, endüstriyel robotların ve otomasyon sistemlerinin yönetimi konusunda kapsamlı bilgi sağlar. Akıllı robot sistemlerinin tasarımı ve uygulanması konularında uzmanlaşma imkanı sunar. Eğitimi tamamlayan katılımcılar, endüstriyel robotik sistemlerin yönetimi konusunda bilinçlenmiş ve uzmanlaşmış bireyler olurlar.",
+    "en": "Arge Workshop's AI robot management training provides comprehensive knowledge in managing industrial robots and automation systems. It offers expertise in designing and implementing smart robot systems. Participants who complete this training become conscious and specialized individuals in the management of industrial robotic systems.",
+    "ar": "يوفر تدريب إدارة روبوتات الذكاء الاصطناعي في ورشة أرجي معرفة شاملة في إدارة الروبوتات الصناعية وأنظمة الأتمتة. يوفر خبرة في تصميم وتنفيذ أنظمة الروبوتات الذكية. يصبح المشاركون الذين ينهون هذا التدريب أفرادًا واعين ومتخصصين في إدارة الأنظمة الروبوتية الصناعية.",
+    "de": "Das KI-Roboter-Management-Training des Arge Workshops vermittelt umfassende Kenntnisse in der Verwaltung von Industrierobotern und Automatisierungssystemen. Es bietet Expertise in der Gestaltung und Implementierung intelligenter Robotersysteme. Teilnehmer, die diesen Kurs absolvieren, werden bewusste und spezialisierte Individuen im Management industrieller Robotersysteme.",
+    "it": "La formazione sulla gestione dei robot AI del Workshop Arge fornisce una conoscenza completa nella gestione di robot industriali e sistemi di automazione. Offre competenze nella progettazione e implementazione di sistemi robotici intelligenti. I partecipanti che completano questo training diventano individui coscienti e specializzati nella gestione dei sistemi robotici industriali."
+  },
+  "spot": {
+    "tr": "Endüstriyel Otomasyon",
+    "en": "Industrial Automation",
+    "ar": "الأتمتة الصناعية",
+    "de": "Industrielle Automatisierung",
+    "it": "Automazione Industriale"
+  },
+  "desc": {},
+  "update": "2026-11-02T05:38:22.461Z"
+}

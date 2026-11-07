@@ -1,0 +1,210 @@
+{
+  "name": {
+    "tr": "Kurumsal"
+  },
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "id": "hakkimizda",
+      "name": {
+        "tr": "Hakkımızda"
+      },
+      "description": {
+        "tr": "Arge Atölyesi hakkında: yapay zekâ işletim sistemi geliştiren ve her sektöre uygun modüler robotlar üreten teknoloji firması."
+      },
+      "path": "hakkimizda",
+      "icon": "info",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "misyon",
+      "name": {
+        "tr": "Misyon"
+      },
+      "description": {
+        "tr": "Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş…"
+      },
+      "path": "misyon",
+      "icon": "flag",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "vizyon",
+      "name": {
+        "tr": "Vizyon"
+      },
+      "description": {
+        "tr": "Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır."
+      },
+      "path": "vizyon",
+      "icon": "visibility",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "kalitepolitikamiz",
+      "name": {
+        "tr": "Kalite Politikamız"
+      },
+      "description": {
+        "tr": "Kalite, firmamız için yalnızca bir sonuç değil, işin her aşamasına yerleştirilmiş bir çalışma biçimidir. Müşteri memnuniyetini, yasal gerekliliklere uyumu…"
+      },
+      "path": "kalitepolitikamiz",
+      "icon": "verified",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "gizlilikpolitikasi",
+      "name": {
+        "tr": "Gizlilik Politikası"
+      },
+      "description": {
+        "tr": "Bu Gizlilik Politikası, Arge Atölyesi tarafından işletilen argeatolyesi.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi kullandığınızda…"
+      },
+      "path": "gizlilikpolitikasi",
+      "icon": "privacy_tip",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "kisiselveriler",
+      "name": {
+        "tr": "Kişisel Veriler"
+      },
+      "description": {
+        "tr": "Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar…"
+      },
+      "path": "kisiselveriler",
+      "icon": "shield",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 5
+    },
+    {
+      "id": "kullanicahaklari",
+      "name": {
+        "tr": "Kullanıcı Hakları"
+      },
+      "description": {
+        "tr": "argeatolyesi.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir. Bu sayfa, Arge Atölyesi ile ilişkinizde başlıca…"
+      },
+      "path": "kullanicahaklari",
+      "icon": "gavel",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 6
+    },
+    {
+      "id": "yasaluyari",
+      "name": {
+        "tr": "Yasal Uyarı"
+      },
+      "description": {
+        "tr": "argeatolyesi.com internet sitesi Arge Atölyesi tarafından işletilmektedir. Siteyi ziyaret eden veya kullanan herkes, aşağıdaki koşulları okumuş ve kabul…"
+      },
+      "path": "yasaluyari",
+      "icon": "policy",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 7
+    },
+    {
+      "id": "cerez-politikasi",
+      "name": {
+        "tr": "Çerez Politikası"
+      },
+      "description": {
+        "tr": "Bu politika, Arge Atölyesi tarafından işletilen argeatolyesi.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…"
+      },
+      "path": "cerez-politikasi",
+      "icon": "cookie",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "94gz6y"
+        ],
+        "footer": []
+      },
+      "index": 8
+    }
+  ],
+  "index": 3,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "body": true,
+    "detail": true,
+    "img": false
+  }
+}

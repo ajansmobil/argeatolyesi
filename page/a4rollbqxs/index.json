@@ -1,0 +1,50 @@
+{
+  "name": {
+    "tr": "Yapay Zeka Eğitimi",
+    "en": "Artificial Intelligence Training",
+    "ar": "تدريب الذكاء الاصطناعي",
+    "de": "KI-Schulung",
+    "it": "Formazione sull'Intelligenza Artificiale"
+  },
+  "status": "pause",
+  "category": "",
+  "id": "a4rollbqxs",
+  "externalUrl": "",
+  "path": "yapay-zeka-egitim",
+  "keyword": {
+    "tr": "Arge Atölyesi yapay zeka eğitimi, AI eğitimi, makine öğrenmesi eğitimi, derin öğrenme eğitimi, yapay zeka kursu",
+    "en": "Arge Workshop artificial intelligence training, AI training, machine learning training, deep learning training, artificial intelligence course",
+    "ar": "ورشة أرجي تدريب الذكاء الاصطناعي، تدريب الذكاء الاصطناعي، تدريب التعلم الآلي، تدريب التعلم العميق، دورة الذكاء الاصطناعي",
+    "de": "Arge Workshop KI-Schulung, KI-Training, Machine Learning Training, Deep Learning Training, KI-Kurs",
+    "it": "Workshop Arge formazione intelligenza artificiale, formazione AI, formazione machine learning, formazione deep learning, corso intelligenza artificiale"
+  },
+  "description": {
+    "tr": "Arge Atölyesi'nin yapay zeka eğitimi, temel kavramlardan ileri seviye uygulamalara kadar kapsamlı bir program sunar. Makine öğrenmesi ve derin öğrenme konularında uzmanlaşma fırsatı sağlar.",
+    "en": "Arge Workshop's artificial intelligence training offers a comprehensive program from basic concepts to advanced applications. It provides an opportunity to specialize in machine learning and deep learning topics.",
+    "ar": "يقدم تدريب الذكاء الاصطناعي في ورشة أرجي برنامجًا شاملاً من المفاهيم الأساسية إلى التطبيقات المتقدمة. يوفر فرصة للتخصص في مواضيع التعلم الآلي والتعلم العميق.",
+    "de": "Die KI-Schulung des Arge Workshops bietet ein umfassendes Programm von grundlegenden Konzepten bis hin zu fortgeschrittenen Anwendungen. Es bietet die Möglichkeit, sich in den Bereichen Machine Learning und Deep Learning zu spezialisieren.",
+    "it": "La formazione sull'intelligenza artificiale del Workshop Arge offre un programma completo dai concetti base alle applicazioni avanzate. Fornisce l'opportunità di specializzarsi in machine learning e deep learning."
+  },
+  "text": {
+    "tr": "Arge Atölyesi'nin yapay zeka eğitimi, temel kavramlardan ileri seviye uygulamalara kadar kapsamlı bir program sunar. Makine öğrenmesi ve derin öğrenme konularında uzmanlaşma fırsatı sağlar. Eğitimimizde, katılımcılar yapay zeka ve makine öğrenmesi konularında temel bilgileri öğrendikten sonra, ileri düzey konulara yönelerek uzmanlaşabilirler.",
+    "en": "Arge Workshop's artificial intelligence training offers a comprehensive program from basic concepts to advanced applications. It provides an opportunity to specialize in machine learning and deep learning topics. Our training program allows participants to learn fundamental concepts in AI and machine learning, and then specialize in advanced topics.",
+    "ar": "يقدم تدريب الذكاء الاصطناعي في ورشة أرجي برنامجًا شاملاً من المفاهيم الأساسية إلى التطبيقات المتقدمة. يوفر فرصة للتخصص في مواضيع التعلم الآلي والتعلم العميق. يتيح برنامج تدريبي لدينا للمشاركة تعلم المفاهيم الأساسية في الذكاء الاصطناعي والتعلم الآلي، ثم التخصص في المواضيع المتقدمة.",
+    "de": "Die KI-Schulung des Arge Workshops bietet ein umfassendes Programm von grundlegenden Konzepten bis hin zu fortgeschrittenen Anwendungen. Es bietet die Möglichkeit, sich in den Bereichen Machine Learning und Deep Learning zu spezialisieren. Unser Schulungsprogramm ermöglicht es Teilnehmern, grundlegende Konzepte in KI und Machine Learning zu erlernen, und sich dann auf fortgeschrittene Themen zu spezialisieren.",
+    "it": "La formazione sull'intelligenza artificiale del Workshop Arge offre un programma completo dai concetti base alle applicazioni avanzate. Fornisce l'opportunità di specializzarsi in machine learning e deep learning. Il nostro programma di formazione consente ai partecipanti di apprendere concetti fondamentali in IA e machine learning, per poi specializzarsi in argomenti avanzati."
+  },
+  "spot": {
+    "tr": "Uzmanlaşma Fırsatı",
+    "en": "Specialization Opportunity",
+    "ar": "فرصة التخصص",
+    "de": "Spezialisierungsmöglichkeit",
+    "it": "Opportunità di Specializzazione"
+  },
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-11-02T05:38:22.201Z"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "hakkimizda",
+  "name": {
+    "tr": "Hakkımızda"
+  },
+  "description": {
+    "tr": "Arge Atölyesi hakkında: yapay zekâ işletim sistemi geliştiren ve her sektöre uygun modüler robotlar üreten teknoloji firması."
+  },
+  "keyword": {
+    "tr": "Arge Atölyesi hakkında, robotik firması, yapay zeka işletim sistemi, modüler robot üreticisi"
+  },
+  "path": "hakkimizda",
+  "icon": "info",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "94gz6y"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Hakkımızda</h2>\n<p class=\"lead\">Arge Atölyesi, yapay zekâ işletim sistemi geliştiren ve robotik projeler üreten bir teknoloji firmasıdır.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Her sektöre uyarlanabilen modüler robotlar üretiyoruz: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot gibi, insanların giremeyeceği ya da girmesinin riskli olduğu yerlerde çalışan robotlar.</p>\n<h3>Neye inanıyoruz?</h3>\n<p>Temel yaklaşımımız şudur:</p>\n<ul><li>İnsanı riskli işlerden uzak tutmak</li><li>Tek amaçlı makineler yerine modüler platformlar kurmak</li><li>Donanım ve yazılımı birlikte geliştirmek</li><li>Gerçek sahadaki ihtiyaçtan yola çıkmak</li></ul>\n<h3>Çalışma biçimimiz</h3>\n<p>Her projeye önce sahadaki ihtiyacı dinleyerek başlarız. Robotun yapacağı işi, çalışacağı ortamı ve güvenlik koşullarını birlikte netleştirir, ardından uygun modüler yapıyı seçeriz.</p>\n<h3>İletişim</h3>\n<p>Projeleriniz ve işbirliği talepleriniz için WhatsApp ya da iletişim sayfamız üzerinden bize ulaşabilirsiniz.</p>\n<aside class=\"vurgu-kutusu\">Kuruluş yılı, ekip ve referans bilgileri firma tarafından onaylandığında bu sayfaya eklenecektir.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Hakkımızda"
+  },
+  "date": "2026-11-02T05:35:38.537Z",
+  "update": "2026-11-02T05:38:35.252Z"
+}

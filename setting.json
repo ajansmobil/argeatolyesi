@@ -1,0 +1,39 @@
+{
+  "order": false,
+  "description": {
+    "tr": "Arge Atölyesi — yapay zekâ işletim sistemi geliştirir ve her sektöre uyarlanabilen modüler robotlar üretir: insanların giremeyeceği ortamlar için yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlar."
+  },
+  "keyword": {
+    "tr": "Arge Atölyesi, modüler robot, yapay zekâ işletim sistemi, örümcek robot, temizlik robotu, hafriyat robotu, kazıcı robot, robotik, Gaziantep"
+  },
+  "user": false,
+  "category": "Kurumsal",
+  "name": "Arge Atölyesi",
+  "domain": "argeatolyesi.com",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "sektor": "sanayi-uretim",
+  "phone": "+90 531 679 10 14",
+  "mobile": "+90 531 679 10 14",
+  "theme_color": "#1170B4",
+  "font": {
+    "body": "inter",
+    "heading": "montserrat"
+  },
+  "colorScheme": "auto",
+  "icon": "icon.png",
+  "background_color": "#09111A"
+}

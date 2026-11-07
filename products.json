@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Yapay Zeka Eğitimi",
+        "en": "Artificial Intelligence Training",
+        "ar": "تدريب الذكاء الاصطناعي",
+        "de": "KI-Schulung",
+        "it": "Formazione sull'Intelligenza Artificiale"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "a4rollbqxs",
+      "path": "yapay-zeka-egitim",
+      "description": {
+        "tr": "Arge Atölyesi'nin yapay zeka eğitimi, temel kavramlardan ileri seviye uygulamalara kadar kapsamlı bir program sunar. Makine öğrenmesi ve derin öğrenme konularında uzmanlaşma fırsatı sağlar.",
+        "en": "Arge Workshop's artificial intelligence training offers a comprehensive program from basic concepts to advanced applications. It provides an opportunity to specialize in machine learning and deep learning topics.",
+        "ar": "يقدم تدريب الذكاء الاصطناعي في ورشة أرجي برنامجًا شاملاً من المفاهيم الأساسية إلى التطبيقات المتقدمة. يوفر فرصة للتخصص في مواضيع التعلم الآلي والتعلم العميق.",
+        "de": "Die KI-Schulung des Arge Workshops bietet ein umfassendes Programm von grundlegenden Konzepten bis hin zu fortgeschrittenen Anwendungen. Es bietet die Möglichkeit, sich in den Bereichen Machine Learning und Deep Learning zu spezialisieren.",
+        "it": "La formazione sull'intelligenza artificiale del Workshop Arge offre un programma completo dai concetti base alle applicazioni avanzate. Fornisce l'opportunità di specializzarsi in machine learning e deep learning."
+      },
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "AI Robot Yönetimi",
+        "en": "AI Robot Management",
+        "ar": "إدارة روبوتات الذكاء الاصطناعي",
+        "de": "KI-Roboter-Management",
+        "it": "Gestione Robot AI"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "unwzsrj4i0",
+      "path": "ai-robot-yoentimi",
+      "description": {
+        "tr": "Arge Atölyesi'nin AI robot yönetimi eğitimi, endüstriyel robotların ve otomasyon sistemlerinin yönetimi konusunda kapsamlı bilgi sağlar.",
+        "en": "Arge Workshop's AI robot management training provides comprehensive knowledge in managing industrial robots and automation systems. It offers expertise in designing and implementing smart robot systems.",
+        "ar": "يوفر تدريب إدارة روبوتات الذكاء الاصطناعي في ورشة أرجي معرفة شاملة في إدارة الروبوتات الصناعيةأنظمة الأتمتة. يقدم خبرة في تصميم وتنفيذ أنظمة الروبوتات الذكية.",
+        "de": "Das KI-Roboter-Management-Training des Arge Workshops vermittelt umfassende Kenntnisse in der Verwaltung von Industrierobotern und Automatisierungssystemen. Es bietet Expertise in der Gestaltung und Implementierung intelligenter Robotersysteme.",
+        "it": "La formazione sulla gestione dei robot AI del Workshop Arge fornisce una conoscenza completa nella gestione di robot industriali e sistemi di automazione. Offre competenze nella progettazione e implementazione di sistemi robotici intelligenti."
+      },
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      }
+    }
+  ],
+  "name": "Ürünler",
+  "path": "products",
+  "desc": [],
+  "index": 1,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true
+  }
+}
