@@ -647,6 +647,17 @@
     }
 
     
+    .h0000.h0000menu-open .h0000-mobile-toggle {
+      visibility: hidden;
+    }
+
+    
+    body:has(.h0000.h0000menu-open) .cookie-banner,
+    body:has(.h0000.h0000menu-open) .cookie-reopen {
+      z-index: 998;
+    }
+
+    
     .h0000-lang-top {
       display: inline-block;
     }
