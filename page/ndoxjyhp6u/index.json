@@ -1,0 +1,37 @@
+{
+  "id": "ndoxjyhp6u",
+  "name": {
+    "tr": "Akıllı Tarım"
+  },
+  "description": {
+    "tr": "Yapay zekâ destekli topraksız tarım üretimi: sensör, iklim kontrolü ve verim — Arge Atölyesi."
+  },
+  "keyword": {
+    "tr": "akıllı tarım, topraksız tarım, hidroponik, dikey tarım, sera otomasyonu, iklim kontrolü, verim optimizasyonu, Arge Atölyesi"
+  },
+  "path": "akilli-tarim",
+  "icon": "article",
+  "category": "alan",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Akıllı Tarım: Topraksız Üretimde Yapay Zekâ</h2>\n<p class=\"lead\">Topraksız tarım üretimini sensörler ve yapay zekâyla izleyip yönetiyor; iklim, besin ve ışık kararlarını veriye dayandırıyoruz.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Topraksız tarımda bitki; su, besin çözeltisi, ışık ve sıcaklığa doğrudan bağlıdır. Bu da üretimi hassas ama ölçülebilir kılar. Doğru sensörler ve doğru karar mantığı kurulduğunda, üretimin tekrarlanabilir ve izlenebilir olması mümkün olur.</p>\n<p>Biz hem donanım tarafında sensör ve kontrol altyapısını hem de yazılım tarafında izleme ve karar destek sistemini birlikte geliştiriyoruz. Amaç, üreticinin sera ya da kapalı ortam üretiminde neyin neden olduğunu görebilmesi ve müdahaleyi zamanında yapabilmesidir.</p>\n<ul><li>Sensör altyapısı: sıcaklık, nem, ışık, pH ve iletkenlik ölçümü ile sürekli veri toplama</li><li>İklim ve besin kontrolü: havalandırma, sulama ve besin çözeltisi için kural ve model tabanlı otomasyon</li><li>Verim ve sağlık analizi: bitki görüntülerinden gelişim takibi ve erken uyarı</li><li>Uzaktan izleme: mobil ve web panelden anlık durum, alarm ve geçmiş kayıtlar</li><li>Üretim planlama: tür, tarif ve tesis koşullarına göre üretim döngüsü önerileri</li></ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Her tesis ve her ürün farklıdır; bu yüzden önce küçük bir alanda öğrenir, sonra büyütürüz.</p>\n<ul><li><strong>Keşif:</strong> Tesisi, hedef ürünü ve mevcut üretim yöntemini inceler; hangi ölçümlerin karar için gerekli olduğunu belirleriz.</li><li><strong>Prototip:</strong> Küçük bir üretim modülünde sensör ve izleme prototipini kurar, ilk verilerle üretim koşullarını görünür kılarız.</li><li><strong>Pilot:</strong> Pilot alanda otomatik kontrol ve uyarıları devreye alır; verim ve kaynak kullanımını önceki yöntemle karşılaştırırız.</li><li><strong>Ölçekleme:</strong> Başarılı kurguyu diğer raf, sera ya da tesislere genişletir; uzaktan izleme ve bakım düzenini oluştururuz.</li></ul>\n<h3>Örnek kullanım senaryoları</h3>\n<ul><li>Kapalı ortamda raf bazında sıcaklık, nem ve ışık izleme; sapmada otomatik uyarı</li><li>Besin çözeltisinin pH ve iletkenlik değerlerini sürekli ölçüp dozajı destekleyen kontrol sistemi</li><li>Üretim döngüsü boyunca bitki gelişiminin görüntüyle kaydedilip karşılaştırılması</li><li>Birden çok tesisin tek panelden uzaktan izlenmesi ve raporlanması</li></ul>\n<h3>Ne teslim ediyoruz?</h3>\n<ul><li>Sensör ve kontrol donanımı ile kurulum şeması</li><li>İzleme paneli, alarm kuralları ve veri kaydı</li><li>Üretim koşullarını ve sonuçlarını karşılaştıran dönem raporu</li></ul>\n<h3>Kullandığımız teknolojiler</h3>\n<p>Donanım ve yazılımı birlikte tasarladığımız için sensörden panele kadar tek bir veri hattı kurabiliyoruz.</p>\n<ul><li>Mikrodenetleyici tabanlı sensör ve eyleyici kartları, endüstriyel iletişim protokolleri</li><li>MQTT ile veri toplama ve zaman serisi veritabanı</li><li>Görüntü işleme ile bitki gelişim ve hastalık işareti takibi</li><li>Kural ve makine öğrenmesi tabanlı iklim ve besin kontrolü</li><li>Web ve mobil izleme panelleri, alarm bildirimleri</li></ul>\n<h3>Uygun olduğu sektörler</h3>\n<p>Topraksız ve dikey tarım yatırımcıları, sera işletmeleri, yaprak ve yeşillik üreticileri, tarımsal Ar-Ge merkezleri ve gıda üretimini kapalı ortamda yapmak isteyen işletmeler.</p>\n<h3>Neden Arge Atölyesi?</h3>\n<p>Tarımsal bilgiyi mühendislikle buluşturuyoruz. Tesisin ihtiyacına göre sade başlayıp, ölçülen veriyle adım adım gelişen sistemler kuruyoruz.</p>\n<aside class=\"vurgu-kutusu\">Topraksız üretim projeniz için neyi ölçmek ve otomatikleştirmek istediğinizi bize yazın. <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Akıllı Tarım"
+  },
+  "date": "2026-11-08T05:42:15.671Z",
+  "update": "2026-11-08T05:46:00.675Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

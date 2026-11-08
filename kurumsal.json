@@ -11,7 +11,7 @@
         "tr": "Hakkımızda"
       },
       "description": {
-        "tr": "Arge Atölyesi hakkında: yapay zekâ işletim sistemi geliştiren ve her sektöre uygun modüler robotlar üreten teknoloji firması."
+        "tr": "Arge Atölyesi hakkında: yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan, uzmanlık alanlarında çözüm üreten şirket. Çalışma biçimimiz ve deneyimimiz."
       },
       "path": "hakkimizda",
       "icon": "info",
@@ -20,11 +20,13 @@
       "desing": {
         "header": [],
         "body": [
-          "94gz6y"
+          "lxixmc"
         ],
         "footer": []
       },
-      "index": 0
+      "index": 0,
+      "img": "index.webp",
+      "bgimg": "1.webp"
     },
     {
       "id": "misyon",
@@ -32,7 +34,7 @@
         "tr": "Misyon"
       },
       "description": {
-        "tr": "Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş…"
+        "tr": "Arge Atölyesi misyonu: yapay zekâ ve ileri teknolojiyi işletmelerin gerçek ihtiyaçlarına karşılık veren, güvenilir çözümlere dönüştürmek."
       },
       "path": "misyon",
       "icon": "flag",
@@ -53,7 +55,7 @@
         "tr": "Vizyon"
       },
       "description": {
-        "tr": "Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır."
+        "tr": "Arge Atölyesi vizyonu: yapay zekâ ve ileri teknoloji alanında güvenilirliği ve uygulanabilir çözümleriyle tercih edilen bir Ar-Ge şirketi olmak."
       },
       "path": "vizyon",
       "icon": "visibility",

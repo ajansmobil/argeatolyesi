@@ -12,17 +12,17 @@
   "path": "sektorler",
   "icon": "article",
   "category": "",
-  "status": "play",
+  "status": "pause",
   "desing": {
     "header": [],
     "body": [],
     "footer": []
   },
-  "index": 2,
+  "index": 6,
   "url": "",
   "title": {
     "tr": "Sektörler"
   },
   "date": "2026-11-02T05:38:35.489Z",
-  "update": "2026-11-02T05:48:36.587Z"
+  "update": "2026-11-08T05:46:05.145Z"
 }

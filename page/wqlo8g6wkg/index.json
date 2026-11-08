@@ -1,0 +1,35 @@
+{
+  "id": "wqlo8g6wkg",
+  "name": {
+    "tr": "Uzmanlık Alanları"
+  },
+  "description": {
+    "tr": "Arge Atölyesi uzmanlık alanları: yapay zekâ, görüntü işleme, lojistik ve depo yapay zekâsı, akıllı tarım, robotik, yazılım entegrasyonu, siber güvenlik ve ürün tasarımı."
+  },
+  "keyword": {
+    "tr": "uzmanlık alanları, yapay zeka, görüntü işleme, akıllı tarım, robotik, siber güvenlik, yazılım entegrasyonu, Arge Atölyesi"
+  },
+  "path": "uzmanlik-alanlari",
+  "icon": "article",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "hoearh",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "title": {
+    "tr": "Uzmanlık Alanları"
+  },
+  "date": "2026-11-08T05:45:19.047Z",
+  "update": "2026-11-08T05:46:00.760Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

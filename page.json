@@ -1,14 +1,116 @@
 {
   "data": [
     {
+      "id": "wqlo8g6wkg",
       "name": {
-        "tr": "Robotlar"
+        "tr": "Uzmanlık Alanları"
+      },
+      "description": {
+        "tr": "Arge Atölyesi uzmanlık alanları: yapay zekâ, görüntü işleme, lojistik ve depo yapay zekâsı, akıllı tarım, robotik, yazılım entegrasyonu, siber güvenlik ve ürün tasarımı."
+      },
+      "path": "uzmanlik-alanlari",
+      "icon": "article",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "hoearh",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 0,
+      "img": "index.webp",
+      "bgimg": "1.webp",
+      "text": {
+        "tr": "<article class=\"wm-metin\">\n<h2>Uzmanlık alanlarımız</h2>\n<p class=\"lead\">Arge Atölyesi, yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan ve çözüm üreten bir şirkettir. Sekiz uzmanlık alanımızda, fikri çalışan bir ürüne dönüştüren dört aşamalı bir düzenle çalışıyoruz.</p>\n<h3>Sekiz alan, tek çalışma anlayışı</h3>\n<p>Uzmanlık alanlarımız birbirinden kopuk hizmetler değildir; aynı mühendislik birikiminin farklı yüzleridir. Bir lojistik projesinde görüntü işleme, bir tarım projesinde sensör ve yazılım, bir robot projesinde yapay zekâ ve güvenlik bir arada çalışır. Bu yüzden bir alanda başlayan çalışma, ihtiyaç doğdukça diğer alanlarla desteklenebilir.</p>\n<p>Alanlarımızın her birinin ayrıntısını aşağıdaki kartlardan inceleyebilirsiniz.</p>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Her alanda aynı yolu izleriz: önce ihtiyacı ve veriyi anlamak için <strong>keşif</strong>, ardından fikri hızlıca test eden bir <strong>prototip</strong>, gerçek koşullarda sınırlı bir <strong>pilot</strong> ve doğrulanan çözümün yaygınlaştırıldığı <strong>ölçekleme</strong>. Her aşamanın sonunda ne öğrendiğimizi ve bir sonraki adımın neden mantıklı olduğunu yazılı olarak paylaşırız. <a href=\"/tr/arge-yaklasimi/\">Ar-Ge yaklaşımımızı</a> ayrıca anlattık.</p>\n<h3>Kimler için?</h3>\n<p>Üretim ve sanayi işletmeleri, lojistik ve depo operasyonları, tarım yatırımcıları, inşaat ve madencilik, yazılım ve e-ticaret firmaları ile kendi ürününü yapay zekâyla güçlendirmek isteyen ekipler bizimle çalışabilir. Kanada, Almanya ve BAE’deki uluslararası projelerden edindiğimiz deneyimi, yerel ihtiyaçlara uyarlayarak kullanıyoruz.</p>\n<aside class=\"vurgu-kutusu\">Hangi alanda başlamanız gerektiğinden emin değilseniz <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınıza uygun alanı birlikte belirleyelim.</aside>\n</article>"
+      }
+    },
+    {
+      "id": "snyf9ao0z7",
+      "name": {
+        "tr": "Ar-Ge Yaklaşımı"
+      },
+      "description": {
+        "tr": "Arge Atölyesi Ar-Ge yaklaşımı: keşif, prototip, pilot ve ölçekleme aşamalarıyla fikri çalışan çözüme dönüştüren düzen; çalışma ilkelerimiz ve teknoloji yığınımız."
+      },
+      "path": "arge-yaklasimi",
+      "icon": "article",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "g7tek1",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 1,
+      "text": {
+        "tr": "<article class=\"wm-metin\">\n<h2>Ar-Ge yaklaşımımız</h2>\n<p class=\"lead\">Fikri hemen büyük bir projeye çevirmiyoruz. Küçük, ölçülebilir adımlarla ilerliyor, her adımda gerçek veriyle neyin işe yaradığını ve neyin yaramadığını gösteriyoruz.</p>\n<h3>Keşif → prototip → pilot → ölçekleme</h3>\n<p>Tüm uzmanlık alanlarımızda aynı dört aşamalı düzeni kullanıyoruz. Bu düzen, belirsizliği erken azaltır ve yanlış yöne büyük yatırım yapılmasını önler.</p>\n<ul>\n<li><strong>Keşif:</strong> İhtiyacı, mevcut süreci, veriyi ve kısıtları anlarız. Çalışmanın başarı ölçütünü birlikte yazarız; neyin “işe yaramış” sayılacağı baştan bellidir.</li>\n<li><strong>Prototip:</strong> En riskli varsayımı hızlıca sınayan, dar kapsamlı bir ilk sürüm kurarız. Amaç mükemmel ürün değil, öğrenmektir.</li>\n<li><strong>Pilot:</strong> Prototipi gerçek koşullarda, sınırlı bir alanda ve gerçek kullanıcılarla çalıştırırız. Sonuçları mevcut yöntemle karşılaştırır, ayarları buna göre yaparız.</li>\n<li><strong>Ölçekleme:</strong> Pilotta doğrulanan çözümü daha geniş bir alana taşır, izleme, bakım ve güncelleme düzenini kurarız.</li>\n</ul>\n<h3>Çalışma ilkelerimiz</h3>\n<ul>\n<li><strong>Donanım ve yazılım birlikte:</strong> Sensörden arayüze kadar tüm katmanı aynı ekipte tasarlarız; bu, parçaların birbirine uymamasından doğan kayıpları azaltır.</li>\n<li><strong>Veriyle doğrulama:</strong> Bir çözümün çalıştığını söylemek yerine gösteririz. Başarı ve sınırlar yazılı raporlanır.</li>\n<li><strong>Güvenlik ve uyum baştan:</strong> Veri gizliliği, erişim yetkisi ve izlenebilirlik sonradan eklenen bir madde değil, tasarımın parçasıdır.</li>\n<li><strong>Belgeleme ve devir:</strong> Kaynak kodu, kurulum bilgisi ve kullanım belgelerini teslim ederiz; sistemi ekibiniz sürdürebilir.</li>\n<li><strong>Dürüst beklenti:</strong> Bir yaklaşımın sorunumuza uygun olmadığını görürsek bunu erken söyleriz.</li>\n</ul>\n<h3>Ortak teknoloji yığınımız</h3>\n<p>Uzmanlık alanlarımız farklı olsa da ortak bir araç setimiz var: Python ve Node.js ile servis geliştirme, derin öğrenme ve dil modelleri, görüntü işleme, sensör ve gömülü yazılım, Flutter ile mobil ve web arayüzleri, bulut ve konteyner tabanlı dağıtım. Projeye göre en uygun aracı seçer, gerektiğinde verinin kurum dışına çıkmadığı yerel kurulum yaparız.</p>\n<h3>Uluslararası deneyim</h3>\n<p>Kanada, Almanya ve BAE’deki uluslararası projelerde çalışmanın getirdiği farklı standart, dil ve beklenti deneyimini de süreçlerimize taşıyoruz. Bu, özellikle uyum, belgeleme ve çok paydaşlı proje yönetiminde işimize yarıyor.</p>\n<aside class=\"vurgu-kutusu\">Bir fikriniz ya da çözülmesi gereken bir sorununuz varsa keşif aşamasından başlayalım: <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın.</aside>\n</article>"
+      },
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "name": {
+        "tr": "Kurumsal"
       },
       "status": "play",
       "category": "",
+      "id": "ky67y4ipoj",
+      "path": "kurumsal",
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Arge Atölyesi kurumsal: hakkımızda, misyon, vizyon, kalite politikamız ve yasal sayfalar."
+      },
+      "text": {
+        "tr": "<article class=\"wm-metin\">\n<h2>Kurumsal</h2>\n<p class=\"lead\">Arge Atölyesi’nin şirket bilgileri, ilkeleri ve yasal metinleri bu bölümde.</p>\n<p>Arge Atölyesi, yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan bir şirkettir. Bu bölümde şirketimizi, çalışma ilkelerimizi ve sitemizi kullanırken geçerli olan yasal metinleri bulabilirsiniz. Her sayfa sade bir dille yazılmıştır; sorularınız için iletişim sayfamızdan bize ulaşabilirsiniz.</p>\n<h3>Şirketimiz</h3>\n<ul>\n<li><a href=\"/tr/hakkimizda/\">Hakkımızda</a> — kim olduğumuz ve nasıl çalıştığımız</li>\n<li><a href=\"/tr/misyon/\">Misyon</a> — neden varız</li>\n<li><a href=\"/tr/vizyon/\">Vizyon</a> — nereye gidiyoruz</li>\n<li><a href=\"/tr/kalitepolitikamiz/\">Kalite Politikamız</a> — çalışma ilkelerimiz</li>\n</ul>\n<h3>Çalışma ilkelerimiz</h3>\n<p>Her projede keşif, prototip, pilot ve ölçekleme adımlarını izler; sonuçları veriyle gösterir ve belgeleriz. Müşterilerimizin verisini yalnızca anlaştığımız amaçla kullanır, güvenlik ve erişim yetkisini tasarımın başına koyarız. Yapay zekâ ve robotik gibi hızla gelişen alanlarda çalıştığımız için yaklaşımımızı düzenli olarak gözden geçirir, uygulamalarımızı kalite politikamız çerçevesinde iyileştiririz.</p>\n<h3>Yasal metinler</h3>\n<ul>\n<li><a href=\"/tr/gizlilikpolitikasi/\">Gizlilik Politikası</a></li>\n<li><a href=\"/tr/kisiselveriler/\">Kişisel Veriler</a></li>\n<li><a href=\"/tr/kullanicahaklari/\">Kullanıcı Hakları</a></li>\n<li><a href=\"/tr/yasaluyari/\">Yasal Uyarı</a></li>\n<li><a href=\"/tr/cerez-politikasi/\">Çerez Politikası</a></li>\n</ul>\n<aside class=\"vurgu-kutusu\">Çalıştığımız alanlar için <a href=\"/tr/uzmanlik-alanlari/\">uzmanlık alanları</a> sayfasına, bize ulaşmak için <a href=\"/tr/iletisim/\">iletişim</a> sayfasına bakabilirsiniz.</aside>\n</article>"
+      },
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "jurds89l6m",
+      "path": "iletisim",
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [
+          "k6y6ml"
+        ],
+        "footer": []
+      },
+      "description": {
+        "tr": "Arge Atölyesi iletişim: projenizi form ya da WhatsApp ile bize anlatın; yapay zekâ, görüntü işleme, robotik, akıllı tarım ve diğer uzmanlık alanlarında dönüş yapalım."
+      }
+    },
+    {
+      "name": {
+        "tr": "Robotlar"
+      },
+      "status": "pause",
+      "category": "",
       "id": "w33bzrq0b4",
       "path": "robotlar",
-      "index": 0,
+      "index": 4,
       "desing": {
         "header": [],
         "body": [
@@ -28,11 +130,11 @@
       "name": {
         "tr": "Yapay Zekâ İşletim Sistemi"
       },
-      "status": "play",
+      "status": "pause",
       "category": "",
       "id": "tbnfwrvno0",
       "path": "yapay-zeka-isletim-sistemi",
-      "index": 1,
+      "index": 5,
       "desing": {
         "header": [],
         "body": [],
@@ -56,87 +158,22 @@
       "path": "sektorler",
       "icon": "article",
       "category": "",
-      "status": "play",
+      "status": "pause",
       "desing": {
         "header": [],
         "body": [],
         "footer": []
       },
-      "index": 2,
+      "index": 6,
       "text": {
         "tr": "<article class=\"wm-metin\">\n<h2>Hizmet Verdiğimiz Sektörler</h2>\n<p class=\"lead\">Modüler yapımız sayesinde aynı robot platformu, insanın girmesinin güç ya da riskli olduğu birçok sektöre uyarlanabilir.</p>\n<h3>İnşaat</h3>\n<p>Hafriyat, kazı ve saha hazırlığında insan gücünü riskli bölgelerden uzak tutar.</p>\n<h3>Madencilik</h3>\n<p>Riskli galeri, cephe ve taş ocağı bölgelerinde keşif ve malzeme taşıma görevlerine uyarlanır.</p>\n<h3>Endüstriyel temizlik</h3>\n<p>Üretim tesislerinde ve insanın uzun süre kalmasının sakıncalı olduğu alanlarda temizlik görevini üstlenir.</p>\n<h3>Afet ve arama-kurtarma</h3>\n<p>Enkaz ve göçük alanlarında insanın giremediği noktalara ulaşarak keşif yapar.</p>\n<h3>Tehlikeli ortamlar</h3>\n<p>Gaz, sıcaklık ya da çökme riski bulunan alanlarda insan yerine algılama ve müdahale görevi görür.</p>\n<h3>Ortak yaklaşım</h3>\n<p>Her sektörde süreç aynıdır: önce sahadaki ihtiyaç ve koşullar netleştirilir, ardından uygun robot gövdesi ve görev modülleri seçilir. Sayısal kapasite ve süre gibi değerler, proje bazında birlikte belirlenir.</p>\n<aside class=\"vurgu-kutusu\">Sektörünüze özel bir ihtiyaç mı var? <a href=\"/tr/iletisim/\">Bize yazın</a>; ihtiyacı birlikte değerlendirelim.</aside>\n</article>"
-      }
-    },
-    {
-      "id": "snyf9ao0z7",
-      "name": {
-        "tr": "Ar-Ge ve Teknoloji"
-      },
-      "description": {
-        "tr": "Arge Atölyesi Ar-Ge yaklaşımı: modüler robot donanımı ile yapay zekâ işletim sistemini birlikte geliştiren araştırma-geliştirme çalışması."
-      },
-      "path": "arge-teknoloji",
-      "icon": "article",
-      "category": "",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 3,
-      "text": {
-        "tr": "<article class=\"wm-metin\">\n<h2>Ar-Ge ve Teknoloji</h2>\n<p class=\"lead\">Arge Atölyesi’nde robot donanımı ve yapay zekâ yazılımı aynı çatı altında, birlikte geliştirilir.</p>\n<h3>Yaklaşımımız</h3>\n<p>Modüler robot tasarımı ile yapay zekâ işletim sistemini ayrı değil, birbirini tamamlayan iki parça olarak ele alıyoruz. Donanımın ihtiyacı yazılımı, yazılımın olanakları donanımı şekillendirir.</p>\n<h3>Çalışma alanlarımız</h3>\n<p>Ar-Ge çalışmalarının odağındaki başlıklar:</p>\n<ul><li>Çok bacaklı ve modüler robot gövdeleri</li><li>Algılama ve ortam anlama</li><li>Görev planlama ve robot işletim sistemi</li><li>Tehlikeli ortamlar için güvenli çalışma</li></ul>\n<h3>Sahaya yakın geliştirme</h3>\n<p>Amacımız laboratuvarda kalan bir teknoloji değil, gerçek sahada işe yarayan robotlardır. Bu nedenle geliştirme sürecini kullanım alanındaki ihtiyaçlarla birlikte yürütmeyi hedefleriz.</p>\n<h3>Modülerlik neden önemli?</h3>\n<p>Modüler tasarım, her yeni ihtiyaç için sıfırdan robot üretmek yerine mevcut platformun yeni bir görev modülüyle genişletilmesini sağlar. Bu yaklaşım hem geliştirme hem de saha uyarlama sürecini sadeleştirmeyi amaçlar.</p>\n<aside class=\"vurgu-kutusu\">Ar-Ge iş birliği ve proje talepleri için <a href=\"/tr/iletisim/\">iletişime geçin</a>.</aside>\n</article>"
-      }
-    },
-    {
-      "name": {
-        "tr": "Kurumsal"
-      },
-      "status": "play",
-      "category": "",
-      "id": "ky67y4ipoj",
-      "path": "kurumsal",
-      "index": 4,
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "description": {
-        "tr": "Arge Atölyesi kurumsal: yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten firmamızın temel kurumsal sayfaları."
-      },
-      "text": {
-        "tr": "<article class=\"wm-metin\">\n<h2>Kurumsal</h2>\n<p class=\"lead\">Arge Atölyesi, yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten bir teknoloji firmasıdır.</p>\n<h3>Bu bölümde neler var?</h3>\n<p>Firmamızı tanımanız için temel kurumsal sayfalarımızı bir arada sunuyoruz. Çalışma biçimimizi, ilkelerimizi ve firma bilgilerimizi bu sayfalardan inceleyebilirsiniz.</p>\n<ul><li><a href=\"/tr/hakkimizda/\">Hakkımızda</a> — firmamızın ne yaptığı ve nasıl çalıştığı</li><li><a href=\"/tr/misyon/\">Misyon</a> ve <a href=\"/tr/vizyon/\">Vizyon</a> — temel ilkelerimiz</li><li><a href=\"/tr/arge-teknoloji/\">Ar-Ge ve Teknoloji</a> — donanım ve yazılımı birlikte geliştirme yaklaşımımız</li></ul>\n<h3>Ne yapıyoruz?</h3>\n<p>Her sektöre uyarlanabilen modüler robotlar üretiyoruz: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot. Bu robotların hepsi, insanların girmesinin güç ya da riskli olduğu ortamlar için tasarlanır ve ortak bir yapay zekâ işletim sistemi altında çalışır.</p>\n<h3>Bize ulaşın</h3>\n<p>Robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için <a href=\"/tr/iletisim/\">iletişim sayfamızı</a> kullanabilir ya da doğrudan WhatsApp üzerinden yazabilirsiniz. Mesajlarınıza ilk fırsatta dönüş yapılır.</p>\n</article>"
-      }
-    },
-    {
-      "name": {
-        "tr": "İletişim"
-      },
-      "status": "play",
-      "category": "",
-      "id": "jurds89l6m",
-      "path": "iletisim",
-      "index": 5,
-      "desing": {
-        "header": [],
-        "body": [
-          "o82f9j"
-        ],
-        "footer": []
-      },
-      "description": {
-        "tr": "Arge Atölyesi iletişim: WhatsApp ve telefon ile robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için bize ulaşın."
       }
     }
   ],
   "desc": [],
   "desing": {
     "header": [],
-    "body": [
-      "3g708l"
-    ],
+    "body": [],
     "footer": []
   },
   "modulestatus": {

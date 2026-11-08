@@ -1,0 +1,37 @@
+{
+  "id": "8vcmiq4b4q",
+  "name": {
+    "tr": "Robotik ve Otonom Sistemler"
+  },
+  "description": {
+    "tr": "Modüler robotlar (örümcek, temizlik, hafriyat, kazıcı) ve yapay zekâ işletim sistemi — Arge Atölyesi."
+  },
+  "keyword": {
+    "tr": "robotik, otonom sistemler, modüler robot, örümcek robot, temizlik robotu, hafriyat robotu, kazıcı robot, yapay zeka işletim sistemi, Arge Atölyesi"
+  },
+  "path": "robotik-ve-otonom-sistemler",
+  "icon": "article",
+  "category": "alan",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Robotik ve Otonom Sistemler</h2>\n<p class=\"lead\">İnsanların giremeyeceği ya da girmesinin riskli olduğu ortamlar için modüler robotlar ve bu robotları ortak yöneten bir yapay zekâ işletim sistemi geliştiriyoruz.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Her saha farklı bir iş ister. Tek amaçlı bir makine yerine, ortak bir gövde ve ortak bir yazılım üzerine göreve göre değişen modüller ekleyen bir platform yaklaşımı izliyoruz. Aynı robot ailesi böylece inşaat sahasından dar ve tehlikeli ortamlara kadar farklı ihtiyaçlara uyarlanabilir.</p>\n<p>Robotların ortak beyni, geliştirdiğimiz yapay zekâ işletim sistemidir. Algılama, görev planlama, güvenlik denetimi ve uzaktan izleme gibi işlevleri her robot için baştan yazmak yerine tek bir yazılım katmanında topluyoruz.</p>\n<ul><li><a href=\"/tr/orumcek-robot/\">Yarı insansı örümcek robot</a>: dar, engebeli ve tehlikeli ortamlarda hareket için</li><li><a href=\"/tr/temizlik-robotu/\">Temizlik robotu</a>: endüstriyel ve riskli ortamlarda temizlik için</li><li><a href=\"/tr/hafriyat-robotu/\">Hafriyat robotu</a>: inşaat ve madencilik sahalarında hafriyat için</li><li><a href=\"/tr/kazici-robot/\">Kazıcı robot</a>: dar ve derin kazı çalışmaları için</li><li>Yapay zekâ işletim sistemi: robotların ortak algılama, planlama, güvenlik ve izleme katmanı</li></ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Robot projelerinde risk yüksektir; bu yüzden aşamaları küçük ve doğrulanabilir tutarız.</p>\n<ul><li><strong>Keşif:</strong> Sahayı, görevi ve güvenlik gereksinimlerini inceler; robotun neyi yapması ve neyi asla yapmaması gerektiğini yazarız.</li><li><strong>Prototip:</strong> Görev modülünü ve yazılım katmanını önce benzetim ve masa başı prototipte denetler, ilk donanım denemesini yaparız.</li><li><strong>Pilot:</strong> Kontrollü bir sahada, uzaktan izleme ve güvenlik sınırlarıyla pilot çalışma yürütürüz.</li><li><strong>Ölçekleme:</strong> Pilotta doğrulanan yapıyı ek görev modülleri ve yeni sahalar için çoğaltır, bakım ve izleme düzenini kurarız.</li></ul>\n<h3>Örnek kullanım senaryoları</h3>\n<ul><li>Çökme riski olan ya da havası solunamayan dar bir alanda keşif yapan örümcek robot</li><li>Tehlikeli madde barındıran tank ve tesislerde insansız temizlik</li><li>Riskli zeminlerde insanı uzak tutan hafriyat çalışması</li><li>Dar ve derin kazı gerektiren altyapı işlerinde kazıcı robot kullanımı</li></ul>\n<h3>Ne teslim ediyoruz?</h3>\n<ul><li>Prototip ya da pilot robot ve görev modülü</li><li>Yapay zekâ işletim sistemi yazılımı ve izleme arayüzü</li><li>Güvenlik sınırlarını, test sonuçlarını ve kullanım koşullarını anlatan belgeler</li></ul>\n<h3>Kullandığımız teknolojiler</h3>\n<p>Donanım, gömülü yazılım ve yapay zekâyı aynı ekipte geliştirdiğimiz için robotun tüm katmanlarını birlikte tasarlayabiliyoruz.</p>\n<ul><li>Modüler mekanik tasarım ve prototipleme</li><li>Gömülü yazılım, sensör birleştirme ve hareket kontrolü</li><li>Algılama ve engel tanıma için görüntü işleme ile derin öğrenme</li><li>Görev planlama, güvenlik denetimi ve uzaktan izleme yazılımı</li><li>Robotlar için ortak yapay zekâ işletim sistemi katmanı</li></ul>\n<h3>Uygun olduğu sektörler</h3>\n<p>İnşaat ve hafriyat, madencilik ve taş ocakları, endüstriyel tesis bakımı, afet ve arama kurtarma hazırlığı ile insanın girmesinin güç olduğu dar ve riskli alanlar.</p>\n<h3>Neden Arge Atölyesi?</h3>\n<p>Robotu yalnızca makine olarak değil, yazılım, algılama ve güvenlikle bir bütün olarak geliştiriyoruz. Her robotun ortak bir işletim sistemini kullanması, yeni görev modüllerini daha hızlı hayata geçirmemizi sağlar.</p>\n<aside class=\"vurgu-kutusu\">Robotla çözmek istediğiniz sahayı ve görevi bize anlatın. <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Robotik ve Otonom Sistemler"
+  },
+  "date": "2026-11-08T05:42:15.695Z",
+  "update": "2026-11-08T05:46:00.691Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

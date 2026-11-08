@@ -2,11 +2,11 @@
   "name": {
     "tr": "Yapay Zekâ İşletim Sistemi"
   },
-  "status": "play",
+  "status": "pause",
   "category": "",
   "id": "tbnfwrvno0",
   "path": "yapay-zeka-isletim-sistemi",
-  "index": 1,
+  "index": 5,
   "desing": {
     "header": [],
     "body": [],
@@ -26,5 +26,5 @@
     "tr": "Yapay Zekâ İşletim Sistemi"
   },
   "desc": {},
-  "update": "2026-11-02T05:48:36.848Z"
+  "update": "2026-11-08T05:46:05.120Z"
 }

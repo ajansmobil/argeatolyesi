@@ -4,10 +4,10 @@
     "tr": "Hakkımızda"
   },
   "description": {
-    "tr": "Arge Atölyesi hakkında: yapay zekâ işletim sistemi geliştiren ve her sektöre uygun modüler robotlar üreten teknoloji firması."
+    "tr": "Arge Atölyesi hakkında: yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan, uzmanlık alanlarında çözüm üreten şirket. Çalışma biçimimiz ve deneyimimiz."
   },
   "keyword": {
-    "tr": "Arge Atölyesi hakkında, robotik firması, yapay zeka işletim sistemi, modüler robot üreticisi"
+    "tr": "Arge Atölyesi hakkında, yapay zeka Ar-Ge şirketi, uzmanlık alanları, Gaziantep teknoloji şirketi"
   },
   "path": "hakkimizda",
   "icon": "info",
@@ -16,18 +16,21 @@
   "desing": {
     "header": [],
     "body": [
-      "94gz6y"
+      "lxixmc"
     ],
     "footer": []
   },
   "index": 0,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\">\n<h2>Hakkımızda</h2>\n<p class=\"lead\">Arge Atölyesi, yapay zekâ işletim sistemi geliştiren ve robotik projeler üreten bir teknoloji firmasıdır.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Her sektöre uyarlanabilen modüler robotlar üretiyoruz: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot gibi, insanların giremeyeceği ya da girmesinin riskli olduğu yerlerde çalışan robotlar.</p>\n<h3>Neye inanıyoruz?</h3>\n<p>Temel yaklaşımımız şudur:</p>\n<ul><li>İnsanı riskli işlerden uzak tutmak</li><li>Tek amaçlı makineler yerine modüler platformlar kurmak</li><li>Donanım ve yazılımı birlikte geliştirmek</li><li>Gerçek sahadaki ihtiyaçtan yola çıkmak</li></ul>\n<h3>Çalışma biçimimiz</h3>\n<p>Her projeye önce sahadaki ihtiyacı dinleyerek başlarız. Robotun yapacağı işi, çalışacağı ortamı ve güvenlik koşullarını birlikte netleştirir, ardından uygun modüler yapıyı seçeriz.</p>\n<h3>İletişim</h3>\n<p>Projeleriniz ve işbirliği talepleriniz için WhatsApp ya da iletişim sayfamız üzerinden bize ulaşabilirsiniz.</p>\n<aside class=\"vurgu-kutusu\">Kuruluş yılı, ekip ve referans bilgileri firma tarafından onaylandığında bu sayfaya eklenecektir.</aside>\n</article>"
+    "tr": "<article class=\"wm-metin\">\n<h2>Hakkımızda</h2>\n<p class=\"lead\">Arge Atölyesi, yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan, bu birikimi işletmelerin gerçek sorunlarını çözen sistemlere dönüştüren bir şirkettir.</p>\n<h3>Biz kimiz?</h3>\n<p>Arge Atölyesi’nin sahibi Yunus Sevğane’nin uzmanlık alanlarında iş yapan bir Ar-Ge ve teknoloji şirketiyiz. Yapay zekâ çözümleri, görüntü işleme, lojistik ve depo yapay zekâsı, akıllı tarım, robotik ve otonom sistemler, yazılım ve sistem entegrasyonu, siber güvenlik ve uyum ile ürün tasarımı alanlarında çalışıyoruz.</p>\n<p>Çalışma biçimimizin merkezinde atölye anlayışı var: fikri hızlıca bir prototipe çevirir, gerçek koşullarda dener, öğrendiklerimizle iyileştirir ve ancak doğrulanınca büyütürüz.</p>\n<h3>Ne için varız?</h3>\n<ul>\n<li>İşletmelerin yapay zekâdan gerçek ve ölçülebilir fayda sağlamasına yardım etmek</li>\n<li>İnsanı riskli ve ağır işlerden uzak tutan robotik ve otomasyon çözümleri geliştirmek</li>\n<li>Donanımı ve yazılımı birlikte düşünen, güvenli ve belgelenmiş sistemler kurmak</li>\n<li>Ar-Ge birikimini müşterilerimizin kendi ekipleriyle sürdürebileceği biçimde devretmek</li>\n</ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Her proje keşif, prototip, pilot ve ölçekleme aşamalarından geçer. Ayrıntılar için <a href=\"/tr/arge-yaklasimi/\">Ar-Ge yaklaşımı</a> sayfamıza, çalıştığımız alanlar için <a href=\"/tr/uzmanlik-alanlari/\">uzmanlık alanları</a> sayfamıza bakabilirsiniz. Robotik alanındaki çalışmalarımız arasında yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlarla bunları ortak yöneten yapay zekâ işletim sistemi yer alıyor.</p>\n<h3>Deneyim</h3>\n<p>Kanada, Almanya ve BAE’deki uluslararası projelerde çalıştık. Bu deneyim, farklı standartlara ve beklentilere uyum sağlayan, belgelenmiş ve sürdürülebilir çözümler üretmemizi kolaylaştırıyor.</p>\n<h3>İletişim</h3>\n<p>Merkezimiz Gaziantep Şehitkamil’dedir. Projeleriniz ve iş birliği talepleriniz için <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim sayfamızı</a> kullanabilirsiniz.</p>\n</article>"
   },
   "title": {
     "tr": "Hakkımızda"
   },
   "date": "2026-11-02T05:35:38.537Z",
-  "update": "2026-11-02T05:38:35.252Z"
+  "update": "2026-11-08T05:45:35.288Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
 }

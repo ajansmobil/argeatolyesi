@@ -1,181 +1,621 @@
 # Arge Atölyesi
 
-> Arge Atölyesi — yapay zekâ işletim sistemi geliştirir ve her sektöre uyarlanabilen modüler robotlar üretir: insanların giremeyeceği ortamlar için yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlar.
+> Arge Atölyesi: yapay zekâ ve ileri teknoloji Ar-Ge şirketi. Yapay zekâ, görüntü işleme, lojistik, akıllı tarım, robotik, yazılım, siber güvenlik ve ürün tasarımı alanlarında çözümler.
 
 ---
 
 ## Arge Atölyesi
 https://argeatolyesi.com/tr/
 
-Arge Atölyesi — yapay zekâ işletim sistemi geliştirir ve her sektöre uyarlanabilen modüler robotlar üretir: insanların giremeyeceği ortamlar için yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlar.
+Arge Atölyesi: yapay zekâ ve ileri teknoloji Ar-Ge şirketi. Yapay zekâ, görüntü işleme, lojistik, akıllı tarım, robotik, yazılım, siber güvenlik ve ürün tasarımı alanlarında çözümler.
 
-Yapay Zekâ İşletim Sistemi · Modüler Robotlar
-Arge Atölyesi: modüler robotlar ve yapay zekâ işletim sistemi
-Yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotları tek bir yapay zekâ işletim sistemi altında buluşturur, her sektöre uyarlarız.
-WhatsApp ile Yazın Robotları İnceleyin
-Robotlarımız
-Modüler Robot Ailesi
-Aynı platform, farklı görev modülleri: insanın girmesinin güç ya da riskli olduğu ortamlar için dört robot.
-Yarı İnsansı Örümcek Robot
-Arge Atölyesi yarı insansı örümcek robot: çok bacaklı gövdesi ve modüler yapısıyla insanların giremeyeceği dar,…
+Ar-Ge · Yapay Zekâ · Robotik
+Yapay zekâ ve ileri teknoloji Ar-Ge şirketi
+Yapay zekâ, görüntü işleme, lojistik, akıllı tarım, robotik, yazılım, siber güvenlik ve tasarım alanlarında fikri çalışan bir sisteme dönüştürüyoruz.
+WhatsApp ile Yazın Uzmanlık Alanları
+Uzmanlık Alanları
+Sekiz alanda Ar-Ge ve çözüm
+Yapay zekâdan robotiğe, tarımdan siber güvenliğe kadar uzmanlık alanlarımız birbirini tamamlar.
+Yapay Zekâ Çözümleri
+AI ajanları, LLM/RAG sistemleri, model ince ayarı ve kurum içi yapay zekâ asistanları — Arge Atölyesi.
 İncele &rarr;
-Temizlik Robotu
-Arge Atölyesi temizlik robotu: endüstriyel tesisler ve insanın uzun süre kalmasının sakıncalı olduğu ortamlar için…
+Görüntü İşleme
+Görsel denetim, nesne tanıma ve üretim hattında yapay zekâ destekli kalite kontrol — Arge Atölyesi.
 İncele &rarr;
-Hafriyat Robotu
-Arge Atölyesi hafriyat robotu: inşaat ve madencilik gibi sahalarda insan gücünü riske atmadan hafriyat çalışmasını…
+Lojistik ve Depo Yapay Zekâsı
+Kargo ve depo operasyonlarında talep tahmini, rota planlama ve stok optimizasyonu — Arge Atölyesi.
 İncele &rarr;
-Kazıcı Robot
-Arge Atölyesi kazıcı robot: yer altı, dar kazı ve tehlikeli zemin çalışmaları için insanın girmeyeceği yerlerde kazı…
+Akıllı Tarım
+Yapay zekâ destekli topraksız tarım üretimi: sensör, iklim kontrolü ve verim — Arge Atölyesi.
 İncele &rarr;
-01
-Modüler gövde
-Aynı robot platformu, göreve göre değişen modüllerle farklı işlere uyarlanır; her yeni ihtiyaç için sıfırdan robot gerekmez.
-Ayrıntı
-02
-Yapay zekâ işletim sistemi
-Algılama, görev planlama, güvenlik denetimi ve uzaktan izleme robotların ortak yazılım katmanında toplanır.
-Ayrıntı
-03
-İnsanın giremediği yerlerde
-Dar, riskli ve ulaşılması zor ortamlar için tasarlanan robotlar inşaattan afet bölgelerine kadar farklı sektörlere uyarlanır.
-Ayrıntı
-Robot projenizi birlikte konuşalım
-Sektörünüzü ve ihtiyacınızı WhatsApp üzerinden yazın; hangi robot ve görev modüllerinin uygun olabileceğini birlikte değerlendirelim.
-WhatsApp ile Yazın Sektörler
+Robotik ve Otonom Sistemler
+Modüler robotlar (örümcek, temizlik, hafriyat, kazıcı) ve yapay zekâ işletim sistemi — Arge Atölyesi.
+İncele &rarr;
+Yazılım ve Sistem Entegrasyonu
+Web, mobil, pazaryeri ve ERP entegrasyonları ile bulut altyapısı — Arge Atölyesi.
+İncele &rarr;
+Siber Güvenlik ve Uyum
+ISO/IEC 27001, ISO/IEC 42001 ve ISO 9001 uyum danışmanlığı, güvenli yazılım — Arge Atölyesi.
+İncele &rarr;
+Ürün Tasarımı ve UX
+Yazılım, uygulama ve cihaz arayüzleri için deneyim ve arayüz tasarımı — Arge Atölyesi.
+İncele &rarr;
+1
+Adım 1
+Keşif
+İhtiyacı, veriyi ve kısıtları anlar, başarı ölçütünü birlikte yazarız.
+2
+Adım 2
+Prototip
+En riskli varsayımı hızlıca sınayan dar kapsamlı bir ilk sürüm kurarız.
+3
+Adım 3
+Pilot
+Gerçek koşullarda, sınırlı bir alanda ve gerçek kullanıcılarla çalıştırırız.
+4
+Adım 4
+Ölçekleme
+Doğrulanan çözümü yaygınlaştırır, izleme ve bakım düzenini kurarız.
+Sektör
+Üretim ve sanayi
+Görsel denetim, kalite kontrol, bakım tahmini ve robotik otomasyon.
+Sektör
+Lojistik ve depo
+Talep tahmini, rota planlama, stok ve depo içi otomasyon.
+Sektör
+Tarım ve gıda
+Topraksız tarım, sensörlü üretim izleme ve verim analizi.
+Sektör
+İnşaat ve madencilik
+Riskli sahalarda hafriyat, kazı ve keşif için modüler robotlar.
+Sektör
+Yazılım ve e-ticaret
+Pazaryeri, ERP ve mobil entegrasyonlar ile yapay zekâ asistanları.
+Sektör
+Kurumsal hizmetler
+Bilgi yönetimi, güvenlik, uyum danışmanlığı ve ürün tasarımı.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
 
 ---
 
-## Robotlar
-https://argeatolyesi.com/tr/robotlar/
+## Uzmanlık Alanları
+https://argeatolyesi.com/tr/uzmanlik-alanlari/
 
-Arge Atölyesi modüler robot ailesi: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot — insanların giremeyeceği ortamlar için.
+Arge Atölyesi uzmanlık alanları: yapay zekâ, görüntü işleme, lojistik ve depo yapay zekâsı, akıllı tarım, robotik, yazılım entegrasyonu, siber güvenlik ve ürün tasarımı.
 
-Robotlar
-Modüler Robotlarımız
-Arge Atölyesi, her sektöre uyarlanabilen modüler robotlar üretir. Ortak bir gövde ve ortak bir yazılım üzerine, göreve göre değişen modüller eklenir.
-Neden modüler?
-Her saha farklı bir iş ister. Tek amaçlı bir makine yerine, görev modülü değiştirilebilen bir platform kullandığımızda aynı robot ailesi inşaattan afet bölgesine kadar farklı ihtiyaçlara uyarlanabilir.
-Robot ailesi
-Aşağıdaki robotlar aynı yapay zekâ işletim sistemiyle çalışacak şekilde tasarlanır:
-Yarı İnsansı Örümcek Robot — dar, engebeli ve tehlikeli ortamlar
-Temizlik Robotu — endüstriyel ve riskli ortamlarda temizlik
-Hafriyat Robotu — inşaat ve madencilik sahalarında hafriyat
-Kazıcı Robot — dar ve derin kazı çalışmaları
-Ortak amaç
-Tüm robotlarımızın ortak hedefi, insanı riskli ve ulaşılması zor ortamlardan uzak tutarken işin yapılmasını sağlamaktır.
-Her robotun ayrıntısı için aşağıdaki robot kartlarına göz atın ya da bizimle iletişime geçin .
-Yarı İnsansı Örümcek Robot
-Temizlik Robotu
-Hafriyat Robotu
-Kazıcı Robot
-Robot projenizi birlikte konuşalım
-Sektörünüzü ve ihtiyacınızı WhatsApp üzerinden yazın; hangi robot ve görev modüllerinin uygun olabileceğini birlikte değerlendirelim.
-WhatsApp ile Yazın Sektörler
-
----
-
-## Yapay Zekâ İşletim Sistemi
-https://argeatolyesi.com/tr/yapay-zeka-isletim-sistemi/
-
-Arge Atölyesi yapay zekâ işletim sistemi: modüler robotları ortak bir yazılım katmanında buluşturan, görev planlama ve izleme sağlayan robot işletim sistemi.
-
-Yapay Zekâ İşletim Sistemi
-Yapay Zekâ İşletim Sistemi
-Arge Atölyesi’nin geliştirdiği yapay zekâ işletim sistemi, farklı robotları ve görev modüllerini ortak bir yazılım katmanında buluşturur.
-Neden ortak bir işletim sistemi?
-Örümcek, temizlik, hafriyat ve kazıcı robotlar farklı işler yapar; ancak hepsi algılama, karar verme ve güvenlik gibi aynı temel işlevlere ihtiyaç duyar. Bu işlevleri her robot için baştan yazmak yerine ortak bir işletim sistemi altında topluyoruz.
-Temel işlevler
-İşletim sistemi katmanının sorumlulukları:
-Robotun algıladığı ortamı anlamlandırma
-Göreve göre iş planı oluşturma ve izleme
-Görev modüllerini tanıma ve yönetme
-Güvenlik sınırlarının denetimi
-Operatör için uzaktan izleme ve müdahale
-Modüllerle birlikte çalışır
-Yeni bir görev modülü robota eklendiğinde işletim sistemi onu tanır ve görev planına dahil eder. Bu sayede aynı yazılım, farklı robot gövdelerinde ve farklı sektörlerde kullanılabilir.
-Yazılımın teknik ayrıntıları proje bazında paylaşılır. Bilgi için bize ulaşın .
+Uzmanlık Alanları
+Uzmanlık alanlarımız
+Arge Atölyesi, yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan ve çözüm üreten bir şirkettir. Sekiz uzmanlık alanımızda, fikri çalışan bir ürüne dönüştüren dört aşamalı bir düzenle çalışıyoruz.
+Sekiz alan, tek çalışma anlayışı
+Uzmanlık alanlarımız birbirinden kopuk hizmetler değildir; aynı mühendislik birikiminin farklı yüzleridir. Bir lojistik projesinde görüntü işleme, bir tarım projesinde sensör ve yazılım, bir robot projesinde yapay zekâ ve güvenlik bir arada çalışır. Bu yüzden bir alanda başlayan çalışma, ihtiyaç doğdukça diğer alanlarla desteklenebilir.
+Alanlarımızın her birinin ayrıntısını aşağıdaki kartlardan inceleyebilirsiniz.
+Nasıl çalışıyoruz?
+Her alanda aynı yolu izleriz: önce ihtiyacı ve veriyi anlamak için keşif , ardından fikri hızlıca test eden bir prototip , gerçek koşullarda sınırlı bir pilot ve doğrulanan çözümün yaygınlaştırıldığı ölçekleme . Her aşamanın sonunda ne öğrendiğimizi ve bir sonraki adımın neden mantıklı olduğunu yazılı olarak paylaşırız. Ar-Ge yaklaşımımızı ayrıca anlattık.
+Kimler için?
+Üretim ve sanayi işletmeleri, lojistik ve depo operasyonları, tarım yatırımcıları, inşaat ve madencilik, yazılım ve e-ticaret firmaları ile kendi ürününü yapay zekâyla güçlendirmek isteyen ekipler bizimle çalışabilir. Kanada, Almanya ve BAE’deki uluslararası projelerden edindiğimiz deneyimi, yerel ihtiyaçlara uyarlayarak kullanıyoruz.
+Hangi alanda başlamanız gerektiğinden emin değilseniz WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınıza uygun alanı birlikte belirleyelim.
+Uzmanlık Alanları
+Sekiz alanda Ar-Ge ve çözüm
+Yapay zekâdan robotiğe, tarımdan siber güvenliğe kadar uzmanlık alanlarımız birbirini tamamlar.
+Yapay Zekâ Çözümleri
+AI ajanları, LLM/RAG sistemleri, model ince ayarı ve kurum içi yapay zekâ asistanları — Arge Atölyesi.
+İncele &rarr;
+Görüntü İşleme
+Görsel denetim, nesne tanıma ve üretim hattında yapay zekâ destekli kalite kontrol — Arge Atölyesi.
+İncele &rarr;
+Lojistik ve Depo Yapay Zekâsı
+Kargo ve depo operasyonlarında talep tahmini, rota planlama ve stok optimizasyonu — Arge Atölyesi.
+İncele &rarr;
+Akıllı Tarım
+Yapay zekâ destekli topraksız tarım üretimi: sensör, iklim kontrolü ve verim — Arge Atölyesi.
+İncele &rarr;
+Robotik ve Otonom Sistemler
+Modüler robotlar (örümcek, temizlik, hafriyat, kazıcı) ve yapay zekâ işletim sistemi — Arge Atölyesi.
+İncele &rarr;
+Yazılım ve Sistem Entegrasyonu
+Web, mobil, pazaryeri ve ERP entegrasyonları ile bulut altyapısı — Arge Atölyesi.
+İncele &rarr;
+Siber Güvenlik ve Uyum
+ISO/IEC 27001, ISO/IEC 42001 ve ISO 9001 uyum danışmanlığı, güvenli yazılım — Arge Atölyesi.
+İncele &rarr;
+Ürün Tasarımı ve UX
+Yazılım, uygulama ve cihaz arayüzleri için deneyim ve arayüz tasarımı — Arge Atölyesi.
+İncele &rarr;
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
 
 ---
 
-## Sektörler
-https://argeatolyesi.com/tr/sektorler/
+## Ar-Ge Yaklaşımı
+https://argeatolyesi.com/tr/arge-yaklasimi/
 
-Arge Atölyesi robotlarının kullanım alanları: inşaat, madencilik, endüstriyel temizlik, afet ve arama-kurtarma ile tehlikeli ortamlar.
+Arge Atölyesi Ar-Ge yaklaşımı: keşif, prototip, pilot ve ölçekleme aşamalarıyla fikri çalışan çözüme dönüştüren düzen; çalışma ilkelerimiz ve teknoloji yığınımız.
 
-Sektörler
-Hizmet Verdiğimiz Sektörler
-Modüler yapımız sayesinde aynı robot platformu, insanın girmesinin güç ya da riskli olduğu birçok sektöre uyarlanabilir.
-İnşaat
-Hafriyat, kazı ve saha hazırlığında insan gücünü riskli bölgelerden uzak tutar.
-Madencilik
-Riskli galeri, cephe ve taş ocağı bölgelerinde keşif ve malzeme taşıma görevlerine uyarlanır.
-Endüstriyel temizlik
-Üretim tesislerinde ve insanın uzun süre kalmasının sakıncalı olduğu alanlarda temizlik görevini üstlenir.
-Afet ve arama-kurtarma
-Enkaz ve göçük alanlarında insanın giremediği noktalara ulaşarak keşif yapar.
-Tehlikeli ortamlar
-Gaz, sıcaklık ya da çökme riski bulunan alanlarda insan yerine algılama ve müdahale görevi görür.
-Ortak yaklaşım
-Her sektörde süreç aynıdır: önce sahadaki ihtiyaç ve koşullar netleştirilir, ardından uygun robot gövdesi ve görev modülleri seçilir. Sayısal kapasite ve süre gibi değerler, proje bazında birlikte belirlenir.
-Sektörünüze özel bir ihtiyaç mı var? Bize yazın ; ihtiyacı birlikte değerlendirelim.
-
----
-
-## Ar-Ge ve Teknoloji
-https://argeatolyesi.com/tr/arge-teknoloji/
-
-Arge Atölyesi Ar-Ge yaklaşımı: modüler robot donanımı ile yapay zekâ işletim sistemini birlikte geliştiren araştırma-geliştirme çalışması.
-
-Ar-Ge ve Teknoloji
-Ar-Ge ve Teknoloji
-Arge Atölyesi’nde robot donanımı ve yapay zekâ yazılımı aynı çatı altında, birlikte geliştirilir.
-Yaklaşımımız
-Modüler robot tasarımı ile yapay zekâ işletim sistemini ayrı değil, birbirini tamamlayan iki parça olarak ele alıyoruz. Donanımın ihtiyacı yazılımı, yazılımın olanakları donanımı şekillendirir.
-Çalışma alanlarımız
-Ar-Ge çalışmalarının odağındaki başlıklar:
-Çok bacaklı ve modüler robot gövdeleri
-Algılama ve ortam anlama
-Görev planlama ve robot işletim sistemi
-Tehlikeli ortamlar için güvenli çalışma
-Sahaya yakın geliştirme
-Amacımız laboratuvarda kalan bir teknoloji değil, gerçek sahada işe yarayan robotlardır. Bu nedenle geliştirme sürecini kullanım alanındaki ihtiyaçlarla birlikte yürütmeyi hedefleriz.
-Modülerlik neden önemli?
-Modüler tasarım, her yeni ihtiyaç için sıfırdan robot üretmek yerine mevcut platformun yeni bir görev modülüyle genişletilmesini sağlar. Bu yaklaşım hem geliştirme hem de saha uyarlama sürecini sadeleştirmeyi amaçlar.
-Ar-Ge iş birliği ve proje talepleri için iletişime geçin .
+Ar-Ge Yaklaşımı
+Ar-Ge yaklaşımımız
+Fikri hemen büyük bir projeye çevirmiyoruz. Küçük, ölçülebilir adımlarla ilerliyor, her adımda gerçek veriyle neyin işe yaradığını ve neyin yaramadığını gösteriyoruz.
+Keşif → prototip → pilot → ölçekleme
+Tüm uzmanlık alanlarımızda aynı dört aşamalı düzeni kullanıyoruz. Bu düzen, belirsizliği erken azaltır ve yanlış yöne büyük yatırım yapılmasını önler.
+Keşif: İhtiyacı, mevcut süreci, veriyi ve kısıtları anlarız. Çalışmanın başarı ölçütünü birlikte yazarız; neyin “işe yaramış” sayılacağı baştan bellidir.
+Prototip: En riskli varsayımı hızlıca sınayan, dar kapsamlı bir ilk sürüm kurarız. Amaç mükemmel ürün değil, öğrenmektir.
+Pilot: Prototipi gerçek koşullarda, sınırlı bir alanda ve gerçek kullanıcılarla çalıştırırız. Sonuçları mevcut yöntemle karşılaştırır, ayarları buna göre yaparız.
+Ölçekleme: Pilotta doğrulanan çözümü daha geniş bir alana taşır, izleme, bakım ve güncelleme düzenini kurarız.
+Çalışma ilkelerimiz
+Donanım ve yazılım birlikte: Sensörden arayüze kadar tüm katmanı aynı ekipte tasarlarız; bu, parçaların birbirine uymamasından doğan kayıpları azaltır.
+Veriyle doğrulama: Bir çözümün çalıştığını söylemek yerine gösteririz. Başarı ve sınırlar yazılı raporlanır.
+Güvenlik ve uyum baştan: Veri gizliliği, erişim yetkisi ve izlenebilirlik sonradan eklenen bir madde değil, tasarımın parçasıdır.
+Belgeleme ve devir: Kaynak kodu, kurulum bilgisi ve kullanım belgelerini teslim ederiz; sistemi ekibiniz sürdürebilir.
+Dürüst beklenti: Bir yaklaşımın sorunumuza uygun olmadığını görürsek bunu erken söyleriz.
+Ortak teknoloji yığınımız
+Uzmanlık alanlarımız farklı olsa da ortak bir araç setimiz var: Python ve Node.js ile servis geliştirme, derin öğrenme ve dil modelleri, görüntü işleme, sensör ve gömülü yazılım, Flutter ile mobil ve web arayüzleri, bulut ve konteyner tabanlı dağıtım. Projeye göre en uygun aracı seçer, gerektiğinde verinin kurum dışına çıkmadığı yerel kurulum yaparız.
+Uluslararası deneyim
+Kanada, Almanya ve BAE’deki uluslararası projelerde çalışmanın getirdiği farklı standart, dil ve beklenti deneyimini de süreçlerimize taşıyoruz. Bu, özellikle uyum, belgeleme ve çok paydaşlı proje yönetiminde işimize yarıyor.
+Bir fikriniz ya da çözülmesi gereken bir sorununuz varsa keşif aşamasından başlayalım: WhatsApp ile yazın ya da iletişim formunu kullanın.
+1
+Adım 1
+Keşif
+İhtiyacı, veriyi ve kısıtları anlar, başarı ölçütünü birlikte yazarız.
+2
+Adım 2
+Prototip
+En riskli varsayımı hızlıca sınayan dar kapsamlı bir ilk sürüm kurarız.
+3
+Adım 3
+Pilot
+Gerçek koşullarda, sınırlı bir alanda ve gerçek kullanıcılarla çalıştırırız.
+4
+Adım 4
+Ölçekleme
+Doğrulanan çözümü yaygınlaştırır, izleme ve bakım düzenini kurarız.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
 
 ---
 
 ## Kurumsal
 https://argeatolyesi.com/tr/kurumsal/
 
-Arge Atölyesi kurumsal: yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten firmamızın temel kurumsal sayfaları.
+Arge Atölyesi kurumsal: hakkımızda, misyon, vizyon, kalite politikamız ve yasal sayfalar.
 
 Kurumsal
 Kurumsal
-Arge Atölyesi, yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten bir teknoloji firmasıdır.
-Bu bölümde neler var?
-Firmamızı tanımanız için temel kurumsal sayfalarımızı bir arada sunuyoruz. Çalışma biçimimizi, ilkelerimizi ve firma bilgilerimizi bu sayfalardan inceleyebilirsiniz.
-Hakkımızda — firmamızın ne yaptığı ve nasıl çalıştığı
-Misyon ve Vizyon — temel ilkelerimiz
-Ar-Ge ve Teknoloji — donanım ve yazılımı birlikte geliştirme yaklaşımımız
-Ne yapıyoruz?
-Her sektöre uyarlanabilen modüler robotlar üretiyoruz: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot. Bu robotların hepsi, insanların girmesinin güç ya da riskli olduğu ortamlar için tasarlanır ve ortak bir yapay zekâ işletim sistemi altında çalışır.
-Bize ulaşın
-Robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için iletişim sayfamızı kullanabilir ya da doğrudan WhatsApp üzerinden yazabilirsiniz. Mesajlarınıza ilk fırsatta dönüş yapılır.
+Arge Atölyesi’nin şirket bilgileri, ilkeleri ve yasal metinleri bu bölümde.
+Arge Atölyesi, yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan bir şirkettir. Bu bölümde şirketimizi, çalışma ilkelerimizi ve sitemizi kullanırken geçerli olan yasal metinleri bulabilirsiniz. Her sayfa sade bir dille yazılmıştır; sorularınız için iletişim sayfamızdan bize ulaşabilirsiniz.
+Şirketimiz
+Hakkımızda — kim olduğumuz ve nasıl çalıştığımız
+Misyon — neden varız
+Vizyon — nereye gidiyoruz
+Kalite Politikamız — çalışma ilkelerimiz
+Çalışma ilkelerimiz
+Her projede keşif, prototip, pilot ve ölçekleme adımlarını izler; sonuçları veriyle gösterir ve belgeleriz. Müşterilerimizin verisini yalnızca anlaştığımız amaçla kullanır, güvenlik ve erişim yetkisini tasarımın başına koyarız. Yapay zekâ ve robotik gibi hızla gelişen alanlarda çalıştığımız için yaklaşımımızı düzenli olarak gözden geçirir, uygulamalarımızı kalite politikamız çerçevesinde iyileştiririz.
+Yasal metinler
+Gizlilik Politikası
+Kişisel Veriler
+Kullanıcı Hakları
+Yasal Uyarı
+Çerez Politikası
+Çalıştığımız alanlar için uzmanlık alanları sayfasına, bize ulaşmak için iletişim sayfasına bakabilirsiniz.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
 
 ---
 
 ## İletişim
 https://argeatolyesi.com/tr/iletisim/
 
-Arge Atölyesi iletişim: WhatsApp ve telefon ile robot projeleri, yapay zekâ işletim sistemi ve iş birliği talepleriniz için bize ulaşın.
+Arge Atölyesi iletişim: projenizi form ya da WhatsApp ile bize anlatın; yapay zekâ, görüntü işleme, robotik, akıllı tarım ve diğer uzmanlık alanlarında dönüş yapalım.
 
 İletişim
-Bize Ulaşın
-+90 531 679 10 14
-WhatsApp ile yazın
-Şehitkamil / Gaziantep
+İletişim Bilgileri
+Arge Atölyesi — yapay zekâ ve ileri teknoloji Ar-Ge şirketi. Bize telefonla, WhatsApp ile ya da formla ulaşabilirsiniz.
+Adres Şehitkamil / Gaziantep
+Telefon +90 531 679 10 14
+Hızlı iletişim Mesajınıza WhatsApp üzerinden dönüş yaparız.
+Haritada gör
+Mesaj Gönderin
+Ad Soyad
+E-posta
+Telefon (isteğe bağlı)
+Konu Konu seçin Yapay Zekâ Çözümleri Görüntü İşleme Lojistik ve Depo Yapay Zekâsı Akıllı Tarım Robotik ve Otonom Sistemler Yazılım ve Sistem Entegrasyonu Siber Güvenlik ve Uyum Ürün Tasarımı ve UX Diğer
+Mesajınız
+Kişisel verilerimin iletişim amacıyla işlenmesine ilişkin aydınlatma metnini okudum, onaylıyorum.
+
+---
+
+## Yapay Zekâ Çözümleri
+https://argeatolyesi.com/tr/yapay-zeka-cozumleri/
+
+AI ajanları, LLM/RAG sistemleri, model ince ayarı ve kurum içi yapay zekâ asistanları — Arge Atölyesi.
+
+Yapay Zekâ Çözümleri
+Yapay Zekâ Çözümleri
+Kurumunuzun kendi belgeleri, verisi ve süreçleriyle çalışan yapay zekâ sistemleri tasarlıyor, prototipten canlı kullanıma kadar birlikte geliştiriyoruz.
+Ne yapıyoruz?
+Hazır bir sohbet robotunu sitenize eklemekle yetinmiyoruz. Amacımız, işinizin gerçek bir sorununu çözen, ölçülebilir ve sürdürülebilir bir yapay zekâ bileşeni kurmak. Bunun için önce veriyi, iş akışını ve beklenen sonucu netleştiriyoruz; sonra uygun modeli ve mimariyi seçiyoruz.
+Büyük dil modelleriyle (LLM) çalışırken yanıtların kurumunuzun kendi kaynaklarına dayanması bizim için esastır. Bu nedenle RAG (bilgi getirerek üretme) yaklaşımını, yanıtlara kaynak gösterimini ve yetki sınırlarını tasarımın başına koyuyoruz.
+AI ajanları: belirli bir görevi adım adım planlayan, araç çağıran ve sonucu raporlayan yazılım ajanları
+LLM ve RAG sistemleri: kurum içi belge, mevzuat ve bilgi tabanı üzerinde soru-cevap ve özetleme
+Model ince ayarı (fine-tuning): alanınıza özgü dil ve görev için mevcut modelleri uyarlama
+Kurum içi yapay zekâ asistanları: ekiplerin günlük işini hızlandıran, yetkiye duyarlı asistanlar
+Yerel ve özel kurulum: verinin kurum dışına çıkmasını istemeyen ortamlar için kendi sunucunuzda çalışan çözümler
+Nasıl çalışıyoruz?
+Her projede aynı dört aşamalı Ar-Ge düzenini izliyoruz; böylece her aşamada ne elde edeceğiniz baştan bellidir.
+Keşif: Verinizi, mevcut iş akışınızı ve çözülmesi gereken problemi inceler; başarının nasıl ölçüleceğini birlikte yazarız.
+Prototip: Dar bir kapsamda çalışan ilk sürümü kurar, gerçek örnekler üzerinde doğruluğu ve sınırlarını gösteririz.
+Pilot: Seçilen bir ekip ya da süreçte gerçek kullanımla denenir; geri bildirimle yanıt kalitesi ve güvenlik ayarları iyileştirilir.
+Ölçekleme: Çalışan çözümü diğer ekiplere ve sistemlere yaygınlaştırır; izleme, güncelleme ve bakım düzenini kurarız.
+Örnek kullanım senaryoları
+Yüzlerce sayfalık sözleşme, şartname ve prosedürde saniyeler içinde kaynaklı yanıt veren kurum içi bilgi asistanı
+Gelen talepleri sınıflandırıp ilgili ekibe yönlendiren ve taslak yanıt hazırlayan destek ajanı
+Teknik servis notlarından arıza özetleri ve bakım önerileri çıkaran asistan
+Raporları, toplantı notlarını ve e-postaları özetleyip eylem listesine çeviren yardımcı
+Ne teslim ediyoruz?
+Çalışan sistem, kaynak kodu ve kurulum belgeleri
+Doğruluk ve sınır durumlarını gösteren değerlendirme raporu
+Ekibinizin kullanımı ve bakımı için kısa eğitim ve el kitabı
+Kullandığımız teknolojiler
+Proje ihtiyacına göre açık kaynak ve ticari modeller arasından seçim yapar, hepsini aynı mühendislik disiplini içinde kullanırız.
+Python, Node.js ve REST/WebSocket tabanlı servis mimarisi
+Yerel LLM çalıştırma (Ollama benzeri çözümler) ve bulut model arayüzleri
+Gömme (embedding) modelleri ve vektör araması ile RAG hattı
+Araç çağırma (tool use) ve MCP benzeri ajan arayüzleri
+İnce ayar için LoRA tabanlı yöntemler, değerlendirme ve test setleri
+Uygun olduğu sektörler
+Hukuk ve mevzuat takibi, üretim ve bakım, müşteri hizmetleri, eğitim, kamu ve kurumsal bilgi yönetimi, perakende ve e-ticaret operasyonları gibi çok belgeli ve tekrar eden bilgi işi olan her alan bu çözümlerden fayda sağlayabilir.
+Neden Arge Atölyesi?
+Yapay zekâyı bir gösteri değil, işletmenizin gerçek verisiyle sınanmış bir araç olarak ele alıyoruz. Hata yapabildiği yerleri açıkça söyler, güvenilir olmadığı alanlarda insan onayını sürecin parçası yaparız.
+Kurumunuzda yapay zekânın nerede işe yarayacağını merak ediyorsanız bize yazın. WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
+
+---
+
+## Görüntü İşleme
+https://argeatolyesi.com/tr/goruntu-isleme/
+
+Görsel denetim, nesne tanıma ve üretim hattında yapay zekâ destekli kalite kontrol — Arge Atölyesi.
+
+Görüntü İşleme
+Görüntü İşleme (Computer Vision)
+Kameranın gördüğünü anlamlı bir karara çeviriyoruz: parça doğru mu, ürün sağlam mı, sahada beklenmeyen bir durum var mı?
+Ne yapıyoruz?
+Görüntü işleme, insan gözünün yorulduğu, hızın yetmediği ya da sürekliliğin gerektiği işlerde en çok değer üretir. Üretim hattında hatalı ürünü ayıklamak, depoda paketi tanımak, sahada ekipman durumunu izlemek bunların örnekleridir.
+Her ortamın ışığı, kamera açısı ve hatalı ürün tipi farklıdır. Bu yüzden hazır bir model satmak yerine, sizin görüntülerinizle eğitilen ve sizin ortamınızda doğrulanan bir sistem kuruyoruz.
+Görsel denetim: yüzey çizikleri, eksik parça, hatalı montaj ve etiket kontrolü
+Nesne tanıma ve sayma: hat üzerinde ya da depoda ürün, palet ve koli tespiti
+Kalite kontrol: kabul ve red kararının kayıtlı, izlenebilir hâle getirilmesi
+Saha izleme: ekipman, güvenlik donanımı ve alan kullanımının görüntüden takibi
+Uç cihazda çalışma: kamerayı bulut bağlantısına bağlı kalmadan yerelde analiz etme
+Nasıl çalışıyoruz?
+Görüntü işleme projelerinde başarı, doğru veriyle başlar; bu yüzden ilk iş sahadan örnek toplamaktır.
+Keşif: Ortamı, kamera ve aydınlatma koşullarını ve tespit edilecek durumları inceler; örnek görüntü toplama planı çıkarırız.
+Prototip: Toplanan görüntüleri etiketleyip ilk modeli eğitir, hata türlerini ayırt edip edemediğini gösteririz.
+Pilot: Sistemi hat ya da sahada paralel çalıştırır; insan kararıyla karşılaştırıp eşik değerlerini ayarlarız.
+Ölçekleme: Onaylanan çözümü diğer hat ve noktalara taşır; yeni ürün tipleri için yeniden eğitim düzeni kurarız.
+Örnek kullanım senaryoları
+Üretim hattında ürünün yüzeyindeki çizik, çatlak ya da eksik parçayı anında işaretleyen denetim istasyonu
+Palet ve kolilerin sayısını, etiketini ve hasar durumunu depo girişinde kamerayla kontrol eden sistem
+Sahada çalışanların koruyucu ekipman kullanımını ve yasak bölge ihlallerini uyaran izleme sistemi
+Tarımda bitki gelişimini ve yaprak sağlığını görüntüden takip eden çözüm
+Ne teslim ediyoruz?
+Sizin görüntülerinizle eğitilmiş ve doğrulanmış model
+Kamera, aydınlatma ve kurulum önerileri ile entegrasyon yazılımı
+Hata türlerine göre başarı raporu ve yeniden eğitim yönergesi
+Kullandığımız teknolojiler
+Model seçimi, hız ve doğruluk dengesine göre yapılır; gerektiğinde uç cihazda çalışacak şekilde küçültülür.
+OpenCV ile görüntü ön işleme ve geometrik ölçüm
+Derin öğrenme tabanlı sınıflandırma, nesne tespiti ve segmentasyon modelleri
+Model eğitimi için PyTorch ve veri artırma yöntemleri
+ONNX ile taşınabilir model dağıtımı ve GPU hızlandırma
+Endüstriyel kamera, aydınlatma ve tetikleme donanımıyla entegrasyon
+Uygun olduğu sektörler
+İmalat ve metal işleme, plastik ve ambalaj, gıda üretimi, elektronik montaj, depo ve lojistik, tarım ve inşaat sahası gibi görsel kontrolün yoğun olduğu sektörler.
+Neden Arge Atölyesi?
+Kamera ve yazılımı ayrı düşünmüyoruz; aydınlatmadan model seçimine kadar tüm zinciri birlikte tasarlıyoruz. Böylece laboratuvarda çalışan değil, sahada çalışan bir sistem teslim ediyoruz.
+Hattınızdaki ya da sahanızdaki görsel kontrol sorununu anlatın. WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
+
+---
+
+## Lojistik ve Depo Yapay Zekâsı
+https://argeatolyesi.com/tr/lojistik-ve-depo-yapay-zekasi/
+
+Kargo ve depo operasyonlarında talep tahmini, rota planlama ve stok optimizasyonu — Arge Atölyesi.
+
+Lojistik ve Depo Yapay Zekâsı
+Lojistik ve Depo Yapay Zekâsı
+Kargo, depo ve dağıtım operasyonlarında verinin içindeki örüntüyü bulup tahmine, rotaya ve stok kararına dönüştürüyoruz.
+Ne yapıyoruz?
+Lojistikte küçük verimsizlikler büyük maliyete dönüşür: yanlış yerde bekleyen stok, dolu gitmeyen araç, gecikmiş sevkiyat. Bu sorunların çoğu zaten sizin sistemlerinizde kayıtlı veride görünür; mesele onu zamanında ve doğru okumaktır.
+Mevcut depo yönetim, nakliye ve sipariş sistemlerinizi değiştirmeden, onların üzerine tahmin ve öneri katmanı kuruyoruz. Karar yine ekibinizde kalır; sistem seçenekleri ve gerekçelerini sunar.
+Talep ve hacim tahmini: dönemsellik ve kampanya etkisini gözeten sevkiyat öngörüsü
+Rota ve yükleme planlama: teslimat sırası, araç kapasitesi ve zaman penceresi optimizasyonu
+Stok ve yerleşim önerileri: raf yerleşimi, güvenlik stoku ve yeniden sipariş noktaları
+Sevkiyat ve depo anomali tespiti: gecikme, kayıp ve olağan dışı hareket uyarıları
+Depo içi otomasyon entegrasyonu: etiket, barkod ve görüntü işleme ile birleşen akışlar
+Nasıl çalışıyoruz?
+Operasyon verisi her işletmede farklı kalitededir; bu yüzden işe gerçekçi bir veri incelemesiyle başlıyoruz.
+Keşif: Mevcut sistemleri, veri kaynaklarını ve operasyonun darboğazlarını inceler; öncelikli kullanım senaryosunu seçeriz.
+Prototip: Geçmiş veriyle tahmin ya da planlama modelinin ilk sürümünü kurar, mevcut yönteminizle karşılaştırırız.
+Pilot: Tek bir depo, hat ya da bölgede canlı veriyle çalıştırır; ekibin geri bildirimiyle öneri kalitesini artırırız.
+Ölçekleme: Çözümü diğer depo ve bölgelere yayar; veri akışı, izleme ve yeniden eğitim düzenini kurarız.
+Örnek kullanım senaryoları
+Mevsim ve kampanya etkisini hesaba katan haftalık sevkiyat hacmi tahmini
+Günlük teslimat rotalarını araç kapasitesi ve zaman pencerelerine göre yeniden planlayan öneri sistemi
+Hızlı dönen ürünleri toplama noktasına yaklaştıran depo yerleşim önerileri
+Normalden uzun süren sevkiyatları ve stok sapmalarını erken uyaran izleme paneli
+Ne teslim ediyoruz?
+Mevcut sistemlerinize bağlanan tahmin ve öneri servisi
+Gösterge paneli ve uyarı bildirimleri
+Mevcut yönteminizle karşılaştırmalı sonuç raporu
+Kullandığımız teknolojiler
+Klasik yöntemlerle makine öğrenmesini birlikte kullanır, açıklanabilir sonuç veren yaklaşımları tercih ederiz.
+Zaman serisi tahmini ve gradyan artırmalı modeller
+Rota ve çizelge optimizasyonu için kısıt tabanlı çözücüler
+ERP, WMS ve pazaryeri sistemleriyle API entegrasyonu
+Veri ambarı, ETL hattı ve gösterge panelleri
+Barkod, etiket ve görüntü işleme ile depo içi veri toplama
+Uygun olduğu sektörler
+E-ticaret ve pazaryeri satıcıları, kargo ve nakliye firmaları, üretici ve toptancı depoları, perakende zincirleri ile soğuk zincir ve gıda dağıtımı.
+Neden Arge Atölyesi?
+Lojistik ekiplerinin sahadaki bilgisi her modelden değerlidir. Sistemleri, bu bilgiyi dışlayan değil, onu veriyle destekleyen araçlar olarak tasarlıyoruz. Başlangıçta büyük bir dönüşüm projesi önermeyiz; tek bir akışta fark yarattığını gösterdiğimiz küçük bir pilotla başlar, sonuç ölçüldükten sonra genişletiriz.
+Operasyonunuzda tahmin ya da planlamayla çözülebilecek bir sorun varsa bize anlatın. WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
+
+---
+
+## Akıllı Tarım
+https://argeatolyesi.com/tr/akilli-tarim/
+
+Yapay zekâ destekli topraksız tarım üretimi: sensör, iklim kontrolü ve verim — Arge Atölyesi.
+
+Akıllı Tarım
+Akıllı Tarım: Topraksız Üretimde Yapay Zekâ
+Topraksız tarım üretimini sensörler ve yapay zekâyla izleyip yönetiyor; iklim, besin ve ışık kararlarını veriye dayandırıyoruz.
+Ne yapıyoruz?
+Topraksız tarımda bitki; su, besin çözeltisi, ışık ve sıcaklığa doğrudan bağlıdır. Bu da üretimi hassas ama ölçülebilir kılar. Doğru sensörler ve doğru karar mantığı kurulduğunda, üretimin tekrarlanabilir ve izlenebilir olması mümkün olur.
+Biz hem donanım tarafında sensör ve kontrol altyapısını hem de yazılım tarafında izleme ve karar destek sistemini birlikte geliştiriyoruz. Amaç, üreticinin sera ya da kapalı ortam üretiminde neyin neden olduğunu görebilmesi ve müdahaleyi zamanında yapabilmesidir.
+Sensör altyapısı: sıcaklık, nem, ışık, pH ve iletkenlik ölçümü ile sürekli veri toplama
+İklim ve besin kontrolü: havalandırma, sulama ve besin çözeltisi için kural ve model tabanlı otomasyon
+Verim ve sağlık analizi: bitki görüntülerinden gelişim takibi ve erken uyarı
+Uzaktan izleme: mobil ve web panelden anlık durum, alarm ve geçmiş kayıtlar
+Üretim planlama: tür, tarif ve tesis koşullarına göre üretim döngüsü önerileri
+Nasıl çalışıyoruz?
+Her tesis ve her ürün farklıdır; bu yüzden önce küçük bir alanda öğrenir, sonra büyütürüz.
+Keşif: Tesisi, hedef ürünü ve mevcut üretim yöntemini inceler; hangi ölçümlerin karar için gerekli olduğunu belirleriz.
+Prototip: Küçük bir üretim modülünde sensör ve izleme prototipini kurar, ilk verilerle üretim koşullarını görünür kılarız.
+Pilot: Pilot alanda otomatik kontrol ve uyarıları devreye alır; verim ve kaynak kullanımını önceki yöntemle karşılaştırırız.
+Ölçekleme: Başarılı kurguyu diğer raf, sera ya da tesislere genişletir; uzaktan izleme ve bakım düzenini oluştururuz.
+Örnek kullanım senaryoları
+Kapalı ortamda raf bazında sıcaklık, nem ve ışık izleme; sapmada otomatik uyarı
+Besin çözeltisinin pH ve iletkenlik değerlerini sürekli ölçüp dozajı destekleyen kontrol sistemi
+Üretim döngüsü boyunca bitki gelişiminin görüntüyle kaydedilip karşılaştırılması
+Birden çok tesisin tek panelden uzaktan izlenmesi ve raporlanması
+Ne teslim ediyoruz?
+Sensör ve kontrol donanımı ile kurulum şeması
+İzleme paneli, alarm kuralları ve veri kaydı
+Üretim koşullarını ve sonuçlarını karşılaştıran dönem raporu
+Kullandığımız teknolojiler
+Donanım ve yazılımı birlikte tasarladığımız için sensörden panele kadar tek bir veri hattı kurabiliyoruz.
+Mikrodenetleyici tabanlı sensör ve eyleyici kartları, endüstriyel iletişim protokolleri
+MQTT ile veri toplama ve zaman serisi veritabanı
+Görüntü işleme ile bitki gelişim ve hastalık işareti takibi
+Kural ve makine öğrenmesi tabanlı iklim ve besin kontrolü
+Web ve mobil izleme panelleri, alarm bildirimleri
+Uygun olduğu sektörler
+Topraksız ve dikey tarım yatırımcıları, sera işletmeleri, yaprak ve yeşillik üreticileri, tarımsal Ar-Ge merkezleri ve gıda üretimini kapalı ortamda yapmak isteyen işletmeler.
+Neden Arge Atölyesi?
+Tarımsal bilgiyi mühendislikle buluşturuyoruz. Tesisin ihtiyacına göre sade başlayıp, ölçülen veriyle adım adım gelişen sistemler kuruyoruz.
+Topraksız üretim projeniz için neyi ölçmek ve otomatikleştirmek istediğinizi bize yazın. WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
+
+---
+
+## Robotik ve Otonom Sistemler
+https://argeatolyesi.com/tr/robotik-ve-otonom-sistemler/
+
+Modüler robotlar (örümcek, temizlik, hafriyat, kazıcı) ve yapay zekâ işletim sistemi — Arge Atölyesi.
+
+Robotik ve Otonom Sistemler
+Robotik ve Otonom Sistemler
+İnsanların giremeyeceği ya da girmesinin riskli olduğu ortamlar için modüler robotlar ve bu robotları ortak yöneten bir yapay zekâ işletim sistemi geliştiriyoruz.
+Ne yapıyoruz?
+Her saha farklı bir iş ister. Tek amaçlı bir makine yerine, ortak bir gövde ve ortak bir yazılım üzerine göreve göre değişen modüller ekleyen bir platform yaklaşımı izliyoruz. Aynı robot ailesi böylece inşaat sahasından dar ve tehlikeli ortamlara kadar farklı ihtiyaçlara uyarlanabilir.
+Robotların ortak beyni, geliştirdiğimiz yapay zekâ işletim sistemidir. Algılama, görev planlama, güvenlik denetimi ve uzaktan izleme gibi işlevleri her robot için baştan yazmak yerine tek bir yazılım katmanında topluyoruz.
+Yarı insansı örümcek robot : dar, engebeli ve tehlikeli ortamlarda hareket için
+Temizlik robotu : endüstriyel ve riskli ortamlarda temizlik için
+Hafriyat robotu : inşaat ve madencilik sahalarında hafriyat için
+Kazıcı robot : dar ve derin kazı çalışmaları için
+Yapay zekâ işletim sistemi: robotların ortak algılama, planlama, güvenlik ve izleme katmanı
+Nasıl çalışıyoruz?
+Robot projelerinde risk yüksektir; bu yüzden aşamaları küçük ve doğrulanabilir tutarız.
+Keşif: Sahayı, görevi ve güvenlik gereksinimlerini inceler; robotun neyi yapması ve neyi asla yapmaması gerektiğini yazarız.
+Prototip: Görev modülünü ve yazılım katmanını önce benzetim ve masa başı prototipte denetler, ilk donanım denemesini yaparız.
+Pilot: Kontrollü bir sahada, uzaktan izleme ve güvenlik sınırlarıyla pilot çalışma yürütürüz.
+Ölçekleme: Pilotta doğrulanan yapıyı ek görev modülleri ve yeni sahalar için çoğaltır, bakım ve izleme düzenini kurarız.
+Örnek kullanım senaryoları
+Çökme riski olan ya da havası solunamayan dar bir alanda keşif yapan örümcek robot
+Tehlikeli madde barındıran tank ve tesislerde insansız temizlik
+Riskli zeminlerde insanı uzak tutan hafriyat çalışması
+Dar ve derin kazı gerektiren altyapı işlerinde kazıcı robot kullanımı
+Ne teslim ediyoruz?
+Prototip ya da pilot robot ve görev modülü
+Yapay zekâ işletim sistemi yazılımı ve izleme arayüzü
+Güvenlik sınırlarını, test sonuçlarını ve kullanım koşullarını anlatan belgeler
+Kullandığımız teknolojiler
+Donanım, gömülü yazılım ve yapay zekâyı aynı ekipte geliştirdiğimiz için robotun tüm katmanlarını birlikte tasarlayabiliyoruz.
+Modüler mekanik tasarım ve prototipleme
+Gömülü yazılım, sensör birleştirme ve hareket kontrolü
+Algılama ve engel tanıma için görüntü işleme ile derin öğrenme
+Görev planlama, güvenlik denetimi ve uzaktan izleme yazılımı
+Robotlar için ortak yapay zekâ işletim sistemi katmanı
+Uygun olduğu sektörler
+İnşaat ve hafriyat, madencilik ve taş ocakları, endüstriyel tesis bakımı, afet ve arama kurtarma hazırlığı ile insanın girmesinin güç olduğu dar ve riskli alanlar.
+Neden Arge Atölyesi?
+Robotu yalnızca makine olarak değil, yazılım, algılama ve güvenlikle bir bütün olarak geliştiriyoruz. Her robotun ortak bir işletim sistemini kullanması, yeni görev modüllerini daha hızlı hayata geçirmemizi sağlar.
+Robotla çözmek istediğiniz sahayı ve görevi bize anlatın. WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
+
+---
+
+## Yazılım ve Sistem Entegrasyonu
+https://argeatolyesi.com/tr/yazilim-ve-sistem-entegrasyonu/
+
+Web, mobil, pazaryeri ve ERP entegrasyonları ile bulut altyapısı — Arge Atölyesi.
+
+Yazılım ve Sistem Entegrasyonu
+Yazılım ve Sistem Entegrasyonu
+Yapay zekâ ve otomasyon çözümlerinin işe yaraması için sistemlerin birbiriyle konuşması gerekir; biz bu bağlantıyı kuruyoruz.
+Ne yapıyoruz?
+Çoğu işletmede veri farklı yerlerde durur: ERP, pazaryerleri, muhasebe, depo, web sitesi, mobil uygulamalar. Biz bu sistemleri güvenilir şekilde birbirine bağlayan, hata durumunu izleyen ve zamanla genişletilebilen yazılımlar geliştiriyoruz.
+Web ve mobil uygulamaları da aynı mühendislik anlayışıyla yapıyoruz: bakımı kolay, test edilebilir ve ihtiyaç değiştiğinde büyüyebilen bir mimari kuruyoruz.
+Web uygulamaları ve yönetim panelleri
+Mobil uygulamalar (iOS ve Android için tek kod tabanıyla)
+Pazaryeri ve e-ticaret entegrasyonları: ürün, stok, sipariş ve fiyat eşleştirme
+ERP, muhasebe ve depo sistemleriyle API ve dosya tabanlı entegrasyon
+Bulut altyapısı: dağıtım, izleme, yedekleme ve ölçekleme
+Nasıl çalışıyoruz?
+Entegrasyon projelerinde asıl risk, sistemlerin gerçekte nasıl davrandığını geç öğrenmektir; bu yüzden önce bağlantıyı deneriz.
+Keşif: Sistemleri, veri akışlarını ve kullanıcıların günlük işini inceler; entegrasyon haritasını ve önceliği çıkarırız.
+Prototip: En kritik akışı uçtan uca çalışan küçük bir prototipte kurar, veri kalitesi ve hata durumlarını erken görürüz.
+Pilot: Gerçek veriyle sınırlı bir kullanıcı grubunda çalıştırır, izleme ve uyarıları devreye alırız.
+Ölçekleme: Kalan sistemleri ve akışları ekler, belgelendirir, bakım ve sürüm yönetimi düzenini kurarız.
+Örnek kullanım senaryoları
+Birden çok pazaryerindeki ürün, stok ve siparişi tek merkezden yöneten entegrasyon
+ERP ile mobil saha uygulaması arasında gerçek zamanlı veri akışı
+Müşteriye özel web paneli ve ona bağlı otomatik raporlama
+Eski bir sistemin verisini yeni bir uygulamaya güvenli şekilde taşıyan geçiş projesi
+Ne teslim ediyoruz?
+Çalışan uygulama ya da entegrasyon, kaynak kodu ve belgeler
+İzleme, günlükleme ve hata bildirimi altyapısı
+Dağıtım ve geri alma prosedürleri
+Kullandığımız teknolojiler
+Teknoloji seçiminde ekibinizin sonradan sürdürebileceği, yaygın ve sağlam araçları öne çıkarırız.
+Node.js ve Python ile servis ve API geliştirme
+Flutter ile tek kod tabanlı mobil ve web uygulamaları
+REST, webhook ve kuyruk tabanlı entegrasyon mimarisi
+Bulut platformları, konteyner tabanlı dağıtım ve otomatik sürüm hattı
+Veritabanı tasarımı, izleme ve günlükleme
+Uygun olduğu sektörler
+E-ticaret ve pazaryeri satıcıları, üretim ve toptan ticaret, lojistik, hizmet işletmeleri ve kurumsal bilgi işlem ekipleri.
+Neden Arge Atölyesi?
+Entegrasyonun işi, sistemler arasında veri taşımaktan fazlasıdır: hatalı durumu yakalamak, tekrar denemek ve izlenebilir kalmak. Bu ayrıntılara baştan önem veriyoruz. Yazdığımız kodun belgesini ve kaynağını teslim ederiz; böylece sistemi ileride siz ya da başka bir ekip rahatça sürdürebilir. Küçük bir entegrasyonla başlayıp ihtiyaç büyüdükçe genişletmek de mümkündür. Güvenlik, yedekleme ve izleme gibi görünmeyen ama kritik başlıkları da kapsamın içinde ele alırız.
+Birbirine bağlamak istediğiniz sistemleri ve çözmek istediğiniz sorunu bize yazın. WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
+
+---
+
+## Siber Güvenlik ve Uyum
+https://argeatolyesi.com/tr/siber-guvenlik-ve-uyum/
+
+ISO/IEC 27001, ISO/IEC 42001 ve ISO 9001 uyum danışmanlığı, güvenli yazılım — Arge Atölyesi.
+
+Siber Güvenlik ve Uyum
+Siber Güvenlik ve Uyum
+Bilgi güvenliği, yapay zekâ yönetimi ve kalite standartlarına uyumu, işinizi yavaşlatmayan ve belgelenebilir bir düzene çeviriyoruz.
+Ne yapıyoruz?
+Güvenlik ve uyum, ürün ya da hizmet hazır olduktan sonra eklenen bir katman olmamalıdır. Yazılım ve yapay zekâ sistemlerini ilk tasarımdan itibaren güvenli ve denetlenebilir kurmak hem riski hem sonradan düzeltme maliyetini azaltır.
+Danışmanlık tarafında, standartların gerekliliklerini işletmenizin gerçek süreçlerine uyarlıyoruz. Amaç, belge yığını üretmek değil; ekibin gerçekten uyguladığı, denetimde de savunulabilir bir yönetim sistemi kurmaktır. Sertifikasyon kararı bağımsız belgelendirme kuruluşlarına aittir; biz hazırlık ve uyum çalışmasını yürütürüz.
+ISO/IEC 27001 bilgi güvenliği yönetim sistemi için hazırlık ve uyum danışmanlığı
+ISO/IEC 42001 yapay zekâ yönetim sistemi: yapay zekâ kullanımında risk, sorumluluk ve izlenebilirlik düzeni
+ISO 9001 kalite yönetim sistemi için süreç ve dokümantasyon desteği
+Güvenli yazılım geliştirme: tehdit modelleme, kod incelemesi ve bağımlılık denetimi
+Yapay zekâ sistemleri için veri gizliliği, erişim yetkisi ve kayıt tutma tasarımı
+Nasıl çalışıyoruz?
+Uyum çalışmasını da bir Ar-Ge projesi gibi küçük adımlarla ilerletiyoruz.
+Keşif: Mevcut süreçleri, varlıkları ve riskleri inceler; standarda göre boşluk analizi çıkarırız.
+Prototip: Öncelikli politika, prosedür ve kontrollerin ilk sürümünü hazırlar, işletmenizin diline uyarlarız.
+Pilot: Seçilen bir birimde uygulayıp kayıtları toplar, iç denetim ve gözden geçirme çalışmasıyla eksikleri kapatırız.
+Ölçekleme: Uygulamayı tüm kuruma yayar, sürekli iyileştirme ve düzenli gözden geçirme takvimini kurarız.
+Örnek kullanım senaryoları
+Bilgi güvenliği politikalarını yazıp ekibe benimsetmek ve iç denetime hazırlanmak
+Yapay zekâ ürünü geliştiren bir ekibin model, veri ve sorumluluk kayıtlarını ISO/IEC 42001 çerçevesinde düzenlemesi
+Kalite el kitabı, süreç haritaları ve kayıt formlarını gerçek uygulamaya göre sadeleştirmek
+Mevcut bir yazılımda zafiyet taraması ve güvenli geliştirme alışkanlıklarının kurulması
+Ne teslim ediyoruz?
+Boşluk analizi raporu ve öncelikli eylem planı
+Politika, prosedür ve kayıt şablonları
+İç denetim hazırlığı ve yönetim gözden geçirme desteği
+Kullandığımız teknolojiler
+Danışmanlığı, uygulamayı kolaylaştıran güvenlik ve izleme araçlarıyla destekliyoruz.
+Risk değerlendirme ve varlık envanteri çalışma şablonları
+Güvenli yazılım yaşam döngüsü, statik analiz ve bağımlılık tarama araçları
+Erişim yönetimi, şifreleme ve yedekleme tasarımı
+Günlükleme, izleme ve olay müdahale kayıtları
+Yapay zekâ modelleri için veri ve model izlenebilirliği kayıtları
+Uygun olduğu sektörler
+Yazılım ve teknoloji firmaları, yapay zekâ ürünü geliştiren ekipler, üretim ve hizmet işletmeleri ile müşterisinden güvenlik ya da kalite belgesi istenen tedarikçiler.
+Neden Arge Atölyesi?
+Uyumu bir engel değil, işletmenin düzenini güçlendiren bir araç olarak görüyoruz. Sade, uygulanabilir ve yazılım ile yapay zekâ sistemlerinin gerçeğini bilen bir danışmanlık sunmaya çalışıyoruz.
+Hangi standarda uyum sağlamak istediğinizi ve şu anki durumunuzu bize yazın. WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
+
+---
+
+## Ürün Tasarımı ve UX
+https://argeatolyesi.com/tr/urun-tasarimi-ve-ux/
+
+Yazılım, uygulama ve cihaz arayüzleri için deneyim ve arayüz tasarımı — Arge Atölyesi.
+
+Ürün Tasarımı ve UX
+Ürün Tasarımı ve Kullanıcı Deneyimi (UX)
+Teknolojinin kullanılabilir olması için tasarlanması gerekir; yapay zekâ ve robotik ürünlerimizin arayüzünü de, müşterilerimizin ürünlerini de aynı özenle tasarlıyoruz.
+Ne yapıyoruz?
+Güçlü bir teknoloji, anlaşılmayan bir arayüzün arkasında değerini kaybeder. Biz ürün tasarımını sonradan eklenen bir süs olarak değil, mühendislikle birlikte yürüyen bir Ar-Ge faaliyeti olarak ele alıyoruz.
+Kullanıcıyı tanımadan arayüz çizmiyoruz: önce kimin, hangi durumda, neyi yapmaya çalıştığını anlıyor; sonra bunu en az adımla yapabileceği akışları tasarlıyoruz.
+Kullanıcı akışı ve bilgi mimarisi tasarımı
+Web, mobil ve yönetim paneli arayüz tasarımı
+Etkileşimli prototipler ve kullanıcı testleri
+Tasarım sistemi: renk, yazı tipi ve bileşen kitaplığı
+Yapay zekâ ve robot arayüzleri: izleme panelleri, durum ve uyarı ekranları
+Nasıl çalışıyoruz?
+Tasarımı da aynı dört aşamalı Ar-Ge düzeniyle yürütüyoruz; böylece fikirler erkenden test edilir.
+Keşif: Kullanıcıları, kullanım bağlamını ve mevcut sorunları inceler; tasarım hedeflerini yazarız.
+Prototip: Kâğıt ve ekran üzerinde hızlı prototipler çıkarır, akışları gerçek kullanıcılarla deneriz.
+Pilot: Seçilen tasarımı geliştirme ekibiyle birlikte sınırlı bir kullanıcı grubunda canlıya alır, geri bildirim toplarız.
+Ölçekleme: Tasarımı tüm ürüne yayar, tasarım sistemini belgeler ve ekibinize devrederiz.
+Örnek kullanım senaryoları
+Karmaşık bir yönetim panelinin görevleri azaltılarak yeniden tasarlanması
+Robot ya da cihaz operatörü için sade bir durum ve uyarı ekranı
+Yeni bir mobil uygulama için akıştan prototipe uzanan tasarım süreci
+Mevcut uygulamanın tutarsız ekranlarını tek bir tasarım sistemine toplamak
+Ne teslim ediyoruz?
+Akış şemaları, tel kafesler ve etkileşimli prototip
+Tasarım sistemi ve bileşen kitaplığı
+Geliştirme ekibine yönelik tasarım teslim belgeleri
+Kullandığımız teknolojiler
+Tasarım ve geliştirme aynı çatı altında olduğu için, çizilen arayüz gerçekte de uygulanabilir olur.
+Eskiz, tel kafes ve etkileşimli prototip araçları
+Tasarım belirteçleri (design tokens) ve bileşen tabanlı tasarım sistemleri
+Duyarlı (responsive) ve erişilebilir arayüz geliştirme ilkeleri
+Flutter ve web teknolojileriyle tasarımdan uygulamaya geçiş
+Kullanılabilirlik testi ve kullanıcı geri bildirimi toplama yöntemleri
+Uygun olduğu sektörler
+Yazılım ve mobil uygulama girişimleri, endüstriyel cihaz ve robot üreticileri, e-ticaret ve hizmet işletmeleri ile kurum içi uygulamalarını yenilemek isteyen ekipler.
+Neden Arge Atölyesi?
+Tasarımcı ve geliştiricinin aynı masada çalışması, çizilen arayüzün gerçekte de yapılabilir olmasını sağlar. Estetiği değil, kullanıcının işini kolaylaştırmayı önceleriz. Tasarım çalışmasını ürün hedefinize bağlı ölçülebilir ölçütlerle yürütürüz: görev tamamlama süresi, hata sayısı ve kullanıcıların anlatımı gibi. Böylece tasarım kararları zevke değil gözleme dayanır. Her tasarım kararının gerekçesini yazılı tutarız; ekibiniz neden bu şekilde yapıldığını sonradan da görebilir ve ürünü kendi başına geliştirebilir.
+Tasarlamak ya da yenilemek istediğiniz ürünü bize anlatın. WhatsApp ile yazın ya da iletişim formunu kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.
+Projenizi birlikte konuşalım
+İhtiyacınızı ve sektörünüzü WhatsApp üzerinden yazın; hangi uzmanlık alanında nasıl bir keşifle başlayabileceğimizi birlikte değerlendirelim.
+WhatsApp ile Yazın Uzmanlık Alanları
 
 ---
 
@@ -201,6 +641,7 @@ Yapay zekâ işletim sistemi ile görev planlama ve izleme
 Modüler yapı ve yazılım
 Hareket, algılama ve görev yönetimi Arge Atölyesi’nin geliştirdiği yapay zekâ işletim sistemi tarafından koordine edilir.
 Teknik bilgi: Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için bizimle iletişime geçin .
+Bu robot, Robotik ve Otonom Sistemler uzmanlık alanımızın parçasıdır. Diğer uzmanlık alanlarımız için uzmanlık alanları sayfasına bakabilirsiniz.
 
 ---
 
@@ -226,6 +667,7 @@ Yapay zekâ işletim sistemi ile görev ve güvenlik denetimi
 Modüler yapı ve yazılım
 Görev planlaması ve güvenlik kuralları, ortak yapay zekâ işletim sistemi üzerinden yönetilir.
 Teknik bilgi: Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için bizimle iletişime geçin .
+Bu robot, Robotik ve Otonom Sistemler uzmanlık alanımızın parçasıdır. Diğer uzmanlık alanlarımız için uzmanlık alanları sayfasına bakabilirsiniz.
 
 ---
 
@@ -251,6 +693,7 @@ Yapay zekâ işletim sistemi ile iş planı ve güvenlik denetimi
 Modüler yapı ve yazılım
 İş planı ve güvenlik sınırları yapay zekâ işletim sistemi tarafından izlenir.
 Teknik bilgi: Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için bizimle iletişime geçin .
+Bu robot, Robotik ve Otonom Sistemler uzmanlık alanımızın parçasıdır. Diğer uzmanlık alanlarımız için uzmanlık alanları sayfasına bakabilirsiniz.
 
 ---
 
@@ -276,74 +719,72 @@ Yapay zekâ işletim sistemi ile görev yönetimi ve güvenlik denetimi
 Modüler yapı ve yazılım
 Kazı görevi, güvenlik kuralları ve robot durumu ortak yapay zekâ işletim sistemi üzerinden yönetilir.
 Teknik bilgi: Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için bizimle iletişime geçin .
+Bu robot, Robotik ve Otonom Sistemler uzmanlık alanımızın parçasıdır. Diğer uzmanlık alanlarımız için uzmanlık alanları sayfasına bakabilirsiniz.
 
 ---
 
 ## Hakkımızda
 https://argeatolyesi.com/tr/hakkimizda/
 
-Arge Atölyesi hakkında: yapay zekâ işletim sistemi geliştiren ve her sektöre uygun modüler robotlar üreten teknoloji firması.
+Arge Atölyesi hakkında: yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan, uzmanlık alanlarında çözüm üreten şirket.
 
 Hakkımızda
 Hakkımızda
-Arge Atölyesi, yapay zekâ işletim sistemi geliştiren ve robotik projeler üreten bir teknoloji firmasıdır.
-Ne yapıyoruz?
-Her sektöre uyarlanabilen modüler robotlar üretiyoruz: yarı insansı örümcek robot, temizlik robotu, hafriyat robotu ve kazıcı robot gibi, insanların giremeyeceği ya da girmesinin riskli olduğu yerlerde çalışan robotlar.
-Neye inanıyoruz?
-Temel yaklaşımımız şudur:
-İnsanı riskli işlerden uzak tutmak
-Tek amaçlı makineler yerine modüler platformlar kurmak
-Donanım ve yazılımı birlikte geliştirmek
-Gerçek sahadaki ihtiyaçtan yola çıkmak
-Çalışma biçimimiz
-Her projeye önce sahadaki ihtiyacı dinleyerek başlarız. Robotun yapacağı işi, çalışacağı ortamı ve güvenlik koşullarını birlikte netleştirir, ardından uygun modüler yapıyı seçeriz.
+Arge Atölyesi, yapay zekâ ve ileri teknoloji alanında Ar-Ge yapan, bu birikimi işletmelerin gerçek sorunlarını çözen sistemlere dönüştüren bir şirkettir.
+Biz kimiz?
+Arge Atölyesi’nin sahibi Yunus Sevğane’nin uzmanlık alanlarında iş yapan bir Ar-Ge ve teknoloji şirketiyiz. Yapay zekâ çözümleri, görüntü işleme, lojistik ve depo yapay zekâsı, akıllı tarım, robotik ve otonom sistemler, yazılım ve sistem entegrasyonu, siber güvenlik ve uyum ile ürün tasarımı alanlarında çalışıyoruz.
+Çalışma biçimimizin merkezinde atölye anlayışı var: fikri hızlıca bir prototipe çevirir, gerçek koşullarda dener, öğrendiklerimizle iyileştirir ve ancak doğrulanınca büyütürüz.
+Ne için varız?
+İşletmelerin yapay zekâdan gerçek ve ölçülebilir fayda sağlamasına yardım etmek
+İnsanı riskli ve ağır işlerden uzak tutan robotik ve otomasyon çözümleri geliştirmek
+Donanımı ve yazılımı birlikte düşünen, güvenli ve belgelenmiş sistemler kurmak
+Ar-Ge birikimini müşterilerimizin kendi ekipleriyle sürdürebileceği biçimde devretmek
+Nasıl çalışıyoruz?
+Her proje keşif, prototip, pilot ve ölçekleme aşamalarından geçer. Ayrıntılar için Ar-Ge yaklaşımı sayfamıza, çalıştığımız alanlar için uzmanlık alanları sayfamıza bakabilirsiniz. Robotik alanındaki çalışmalarımız arasında yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlarla bunları ortak yöneten yapay zekâ işletim sistemi yer alıyor.
+Deneyim
+Kanada, Almanya ve BAE’deki uluslararası projelerde çalıştık. Bu deneyim, farklı standartlara ve beklentilere uyum sağlayan, belgelenmiş ve sürdürülebilir çözümler üretmemizi kolaylaştırıyor.
 İletişim
-Projeleriniz ve işbirliği talepleriniz için WhatsApp ya da iletişim sayfamız üzerinden bize ulaşabilirsiniz.
-Kuruluş yılı, ekip ve referans bilgileri firma tarafından onaylandığında bu sayfaya eklenecektir.
+Merkezimiz Gaziantep Şehitkamil’dedir. Projeleriniz ve iş birliği talepleriniz için WhatsApp ile yazın ya da iletişim sayfamızı kullanabilirsiniz.
 
 ---
 
 ## Misyon
 https://argeatolyesi.com/tr/misyon/
 
-Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş…
+Arge Atölyesi misyonu: yapay zekâ ve ileri teknolojiyi işletmelerin gerçek ihtiyaçlarına karşılık veren, güvenilir çözümlere dönüştürmek.
 
 Misyon
 Misyonumuz
-Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş ortaklarımıza ve içinde bulunduğumuz topluma karşı sorumluluklarımızı gözetmektir.
+Yapay zekâ ve ileri teknolojiyi, işletmelerin ve insanların gerçek ihtiyaçlarına karşılık veren, anlaşılır ve güvenilir çözümlere dönüştürmek.
 Müşterilerimiz için
-Her müşterimizin beklentisini dikkatle dinler, ona uygun çözümü birlikte belirleriz. Söz verdiğimiz kalitede ve zamanda teslim etmeyi, sonrasında da destek olmayı işimizin doğal bir parçası sayarız.
+Her müşterimizin ihtiyacını dikkatle dinler, ona uygun çözümü keşif, prototip, pilot ve ölçekleme aşamalarıyla birlikte geliştiririz. Söz verdiğimiz kalitede ve zamanda teslim etmeyi, sonrasında da destek olmayı işimizin doğal bir parçası sayarız.
+İnsan ve toplum için
+Robotik ve otomasyon çözümlerimizin ortak hedefi, insanı riskli, ağır ve tekrarlayan işlerden uzak tutmaktır. Yapay zekâyı kullanırken veri gizliliğini, güvenliği ve izlenebilirliği tasarımın başına koyarız.
 Ekibimiz ve iş ortaklarımız için
-Güvenli, saygılı ve öğrenmeye açık bir çalışma ortamı oluşturmak misyonumuzun ayrılmaz bir parçasıdır. Bu doğrultuda şu ilkeleri benimseriz:
-Çalışanlarımızın mesleki gelişimini desteklemek
-İş ortaklarımızla açık, adil ve sürdürülebilir ilişkiler kurmak
+Öğrenmeye ve denemeye açık bir çalışma ortamı kurmak
+İş ortaklarımızla açık, adil ve sürdürülebilir ilişkiler yürütmek
 Sorumlulukları netleştirmek ve başarıyı birlikte paylaşmak
-Geri bildirimi bir gelişim aracı olarak görmek
-Topluma ve çevreye karşı
-Faaliyetlerimizi yürürlükteki mevzuata uygun biçimde sürdürmeyi, kaynakları verimli kullanmayı ve çevresel etkilerimizi azaltacak uygulamaları benimsemeyi taahhüt ederiz. Toplumsal sorumluluğu, gündelik kararlarımıza yansıyan bir tutum olarak görürüz.
-Kısaca: Yaptığımız her işte güvenilir olmak, anlaşılır olmak ve sözümüzü tutmak misyonumuzun özüdür.
+Geri bildirimi gelişim aracı olarak görmek
 
 ---
 
 ## Vizyon
 https://argeatolyesi.com/tr/vizyon/
 
-Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.
+Arge Atölyesi vizyonu: yapay zekâ ve ileri teknoloji alanında güvenilirliği ve uygulanabilir çözümleriyle tercih edilen bir Ar-Ge şirketi olmak.
 
 Vizyon
 Vizyonumuz
-Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.
+Yapay zekâ ve ileri teknoloji alanında güvenilirliği, açıklığı ve uygulanabilir çözümleriyle tercih edilen bir Ar-Ge şirketi olmak.
 Geleceğe bakışımız
-Sektörümüzdeki gelişmeleri yakından izliyor, yeni yöntem ve teknolojileri müşterilerimize gerçek fayda sağlayacak biçimde işimize katmayı hedefliyoruz. Büyümeyi yalnızca ölçek olarak değil, sunduğumuz hizmetin derinliği ve kalitesi olarak tanımlıyoruz. Değişimi bir risk olarak değil, daha iyisini yapabilmek için bir fırsat olarak görüyoruz.
+Teknolojinin hızla değiştiğini biliyoruz. Bu yüzden yeni yöntemleri yakından izliyor, ancak müşterilerimize gerçek fayda sağladığını gördüğümüzde işimize katıyoruz. Büyümeyi yalnızca ölçek olarak değil, sunduğumuz çözümün derinliği ve kalitesi olarak tanımlıyoruz.
 Hedeflerimiz
-Vizyonumuza ulaşmak için odaklandığımız başlıca alanlar şunlardır:
-Müşteri deneyimini her temas noktasında iyileştirmek
-Süreçlerimizi ölçülebilir ve sürekli gelişen bir yapıya kavuşturmak
-Ekibimizin yetkinliklerini yeni ihtiyaçlara göre geliştirmek
-Çevreye ve topluma duyarlı iş yapış biçimlerini yaygınlaştırmak
+Sekiz uzmanlık alanımızdaki birikimi birbirini tamamlayan çözümlere dönüştürmek
+İnsanın giremeyeceği ortamlarda çalışan robotik sistemleri güvenilir hâle getirmek
+Yapay zekâ kullanımında izlenebilir, güvenli ve uyumlu bir uygulama standardı oluşturmak
+Ar-Ge çalışmalarını belgeleyerek müşterilerimizin ekipleriyle paylaşılabilir hâle getirmek
 Kalıcı değer
-Kısa vadeli kazanımlar yerine uzun soluklu güven ilişkileri kurmayı önemsiyoruz. Müşterilerimizin, çalışanlarımızın ve iş ortaklarımızın bizimle çalışmaktan memnun olduğu, birlikte büyüdüğümüz bir gelecek tasarlıyoruz.
-Yolumuzu belirleyen: Değişime açık olmak, ama değerlerimizden ödün vermemek.
+Kısa vadeli gösterişli sonuçlar yerine, yıllarca kullanılabilecek ve geliştirilebilecek sistemler kurmayı hedefliyoruz.
 
 ---
 

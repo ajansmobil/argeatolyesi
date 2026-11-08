@@ -1,28 +1,35 @@
 {
   "id": "snyf9ao0z7",
   "name": {
-    "tr": "Ar-Ge ve Teknoloji"
+    "tr": "Ar-Ge Yaklaşımı"
   },
   "description": {
-    "tr": "Arge Atölyesi Ar-Ge yaklaşımı: modüler robot donanımı ile yapay zekâ işletim sistemini birlikte geliştiren araştırma-geliştirme çalışması."
+    "tr": "Arge Atölyesi Ar-Ge yaklaşımı: keşif, prototip, pilot ve ölçekleme aşamalarıyla fikri çalışan çözüme dönüştüren düzen; çalışma ilkelerimiz ve teknoloji yığınımız."
   },
   "keyword": {
-    "tr": "robotik ar-ge, yapay zeka ar-ge, modüler robot teknolojisi, robot yazılımı geliştirme, Arge Atölyesi"
+    "tr": "Ar-Ge yaklaşımı, keşif prototip pilot ölçekleme, Ar-Ge süreci, yapay zeka Ar-Ge, Arge Atölyesi"
   },
-  "path": "arge-teknoloji",
+  "path": "arge-yaklasimi",
   "icon": "article",
   "category": "",
   "status": "play",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "lxixmc",
+      "g7tek1",
+      "7a3ei7"
+    ],
     "footer": []
   },
-  "index": 3,
+  "index": 1,
   "url": "",
   "title": {
-    "tr": "Ar-Ge ve Teknoloji"
+    "tr": "Ar-Ge Yaklaşımı"
   },
   "date": "2026-11-02T05:38:36.010Z",
-  "update": "2026-11-02T05:48:36.322Z"
+  "update": "2026-11-08T05:45:35.279Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
 }

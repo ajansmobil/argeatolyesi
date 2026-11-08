@@ -1,0 +1,37 @@
+{
+  "id": "kog67ja4ig",
+  "name": {
+    "tr": "Ürün Tasarımı ve UX"
+  },
+  "description": {
+    "tr": "Yazılım, uygulama ve cihaz arayüzleri için deneyim ve arayüz tasarımı — Arge Atölyesi."
+  },
+  "keyword": {
+    "tr": "ürün tasarımı, UX tasarımı, kullanıcı deneyimi, arayüz tasarımı, UI, prototip, tasarım sistemi, Arge Atölyesi"
+  },
+  "path": "urun-tasarimi-ve-ux",
+  "icon": "article",
+  "category": "alan",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 7,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Ürün Tasarımı ve Kullanıcı Deneyimi (UX)</h2>\n<p class=\"lead\">Teknolojinin kullanılabilir olması için tasarlanması gerekir; yapay zekâ ve robotik ürünlerimizin arayüzünü de, müşterilerimizin ürünlerini de aynı özenle tasarlıyoruz.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Güçlü bir teknoloji, anlaşılmayan bir arayüzün arkasında değerini kaybeder. Biz ürün tasarımını sonradan eklenen bir süs olarak değil, mühendislikle birlikte yürüyen bir Ar-Ge faaliyeti olarak ele alıyoruz.</p>\n<p>Kullanıcıyı tanımadan arayüz çizmiyoruz: önce kimin, hangi durumda, neyi yapmaya çalıştığını anlıyor; sonra bunu en az adımla yapabileceği akışları tasarlıyoruz.</p>\n<ul><li>Kullanıcı akışı ve bilgi mimarisi tasarımı</li><li>Web, mobil ve yönetim paneli arayüz tasarımı</li><li>Etkileşimli prototipler ve kullanıcı testleri</li><li>Tasarım sistemi: renk, yazı tipi ve bileşen kitaplığı</li><li>Yapay zekâ ve robot arayüzleri: izleme panelleri, durum ve uyarı ekranları</li></ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Tasarımı da aynı dört aşamalı Ar-Ge düzeniyle yürütüyoruz; böylece fikirler erkenden test edilir.</p>\n<ul><li><strong>Keşif:</strong> Kullanıcıları, kullanım bağlamını ve mevcut sorunları inceler; tasarım hedeflerini yazarız.</li><li><strong>Prototip:</strong> Kâğıt ve ekran üzerinde hızlı prototipler çıkarır, akışları gerçek kullanıcılarla deneriz.</li><li><strong>Pilot:</strong> Seçilen tasarımı geliştirme ekibiyle birlikte sınırlı bir kullanıcı grubunda canlıya alır, geri bildirim toplarız.</li><li><strong>Ölçekleme:</strong> Tasarımı tüm ürüne yayar, tasarım sistemini belgeler ve ekibinize devrederiz.</li></ul>\n<h3>Örnek kullanım senaryoları</h3>\n<ul><li>Karmaşık bir yönetim panelinin görevleri azaltılarak yeniden tasarlanması</li><li>Robot ya da cihaz operatörü için sade bir durum ve uyarı ekranı</li><li>Yeni bir mobil uygulama için akıştan prototipe uzanan tasarım süreci</li><li>Mevcut uygulamanın tutarsız ekranlarını tek bir tasarım sistemine toplamak</li></ul>\n<h3>Ne teslim ediyoruz?</h3>\n<ul><li>Akış şemaları, tel kafesler ve etkileşimli prototip</li><li>Tasarım sistemi ve bileşen kitaplığı</li><li>Geliştirme ekibine yönelik tasarım teslim belgeleri</li></ul>\n<h3>Kullandığımız teknolojiler</h3>\n<p>Tasarım ve geliştirme aynı çatı altında olduğu için, çizilen arayüz gerçekte de uygulanabilir olur.</p>\n<ul><li>Eskiz, tel kafes ve etkileşimli prototip araçları</li><li>Tasarım belirteçleri (design tokens) ve bileşen tabanlı tasarım sistemleri</li><li>Duyarlı (responsive) ve erişilebilir arayüz geliştirme ilkeleri</li><li>Flutter ve web teknolojileriyle tasarımdan uygulamaya geçiş</li><li>Kullanılabilirlik testi ve kullanıcı geri bildirimi toplama yöntemleri</li></ul>\n<h3>Uygun olduğu sektörler</h3>\n<p>Yazılım ve mobil uygulama girişimleri, endüstriyel cihaz ve robot üreticileri, e-ticaret ve hizmet işletmeleri ile kurum içi uygulamalarını yenilemek isteyen ekipler.</p>\n<h3>Neden Arge Atölyesi?</h3>\n<p>Tasarımcı ve geliştiricinin aynı masada çalışması, çizilen arayüzün gerçekte de yapılabilir olmasını sağlar. Estetiği değil, kullanıcının işini kolaylaştırmayı önceleriz. Tasarım çalışmasını ürün hedefinize bağlı ölçülebilir ölçütlerle yürütürüz: görev tamamlama süresi, hata sayısı ve kullanıcıların anlatımı gibi. Böylece tasarım kararları zevke değil gözleme dayanır. Her tasarım kararının gerekçesini yazılı tutarız; ekibiniz neden bu şekilde yapıldığını sonradan da görebilir ve ürünü kendi başına geliştirebilir.</p>\n<aside class=\"vurgu-kutusu\">Tasarlamak ya da yenilemek istediğiniz ürünü bize anlatın. <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Ürün Tasarımı ve UX"
+  },
+  "date": "2026-11-08T05:42:15.769Z",
+  "update": "2026-11-08T05:46:00.743Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

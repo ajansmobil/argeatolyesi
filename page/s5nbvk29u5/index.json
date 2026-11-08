@@ -1,0 +1,37 @@
+{
+  "id": "s5nbvk29u5",
+  "name": {
+    "tr": "Yapay Zekâ Çözümleri"
+  },
+  "description": {
+    "tr": "AI ajanları, LLM/RAG sistemleri, model ince ayarı ve kurum içi yapay zekâ asistanları — Arge Atölyesi."
+  },
+  "keyword": {
+    "tr": "yapay zeka çözümleri, AI ajanı, LLM, RAG, fine-tuning, model ince ayarı, kurum içi yapay zeka asistanı, Arge Atölyesi"
+  },
+  "path": "yapay-zeka-cozumleri",
+  "icon": "article",
+  "category": "alan",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Yapay Zekâ Çözümleri</h2>\n<p class=\"lead\">Kurumunuzun kendi belgeleri, verisi ve süreçleriyle çalışan yapay zekâ sistemleri tasarlıyor, prototipten canlı kullanıma kadar birlikte geliştiriyoruz.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Hazır bir sohbet robotunu sitenize eklemekle yetinmiyoruz. Amacımız, işinizin gerçek bir sorununu çözen, ölçülebilir ve sürdürülebilir bir yapay zekâ bileşeni kurmak. Bunun için önce veriyi, iş akışını ve beklenen sonucu netleştiriyoruz; sonra uygun modeli ve mimariyi seçiyoruz.</p>\n<p>Büyük dil modelleriyle (LLM) çalışırken yanıtların kurumunuzun kendi kaynaklarına dayanması bizim için esastır. Bu nedenle RAG (bilgi getirerek üretme) yaklaşımını, yanıtlara kaynak gösterimini ve yetki sınırlarını tasarımın başına koyuyoruz.</p>\n<ul><li>AI ajanları: belirli bir görevi adım adım planlayan, araç çağıran ve sonucu raporlayan yazılım ajanları</li><li>LLM ve RAG sistemleri: kurum içi belge, mevzuat ve bilgi tabanı üzerinde soru-cevap ve özetleme</li><li>Model ince ayarı (fine-tuning): alanınıza özgü dil ve görev için mevcut modelleri uyarlama</li><li>Kurum içi yapay zekâ asistanları: ekiplerin günlük işini hızlandıran, yetkiye duyarlı asistanlar</li><li>Yerel ve özel kurulum: verinin kurum dışına çıkmasını istemeyen ortamlar için kendi sunucunuzda çalışan çözümler</li></ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Her projede aynı dört aşamalı Ar-Ge düzenini izliyoruz; böylece her aşamada ne elde edeceğiniz baştan bellidir.</p>\n<ul><li><strong>Keşif:</strong> Verinizi, mevcut iş akışınızı ve çözülmesi gereken problemi inceler; başarının nasıl ölçüleceğini birlikte yazarız.</li><li><strong>Prototip:</strong> Dar bir kapsamda çalışan ilk sürümü kurar, gerçek örnekler üzerinde doğruluğu ve sınırlarını gösteririz.</li><li><strong>Pilot:</strong> Seçilen bir ekip ya da süreçte gerçek kullanımla denenir; geri bildirimle yanıt kalitesi ve güvenlik ayarları iyileştirilir.</li><li><strong>Ölçekleme:</strong> Çalışan çözümü diğer ekiplere ve sistemlere yaygınlaştırır; izleme, güncelleme ve bakım düzenini kurarız.</li></ul>\n<h3>Örnek kullanım senaryoları</h3>\n<ul><li>Yüzlerce sayfalık sözleşme, şartname ve prosedürde saniyeler içinde kaynaklı yanıt veren kurum içi bilgi asistanı</li><li>Gelen talepleri sınıflandırıp ilgili ekibe yönlendiren ve taslak yanıt hazırlayan destek ajanı</li><li>Teknik servis notlarından arıza özetleri ve bakım önerileri çıkaran asistan</li><li>Raporları, toplantı notlarını ve e-postaları özetleyip eylem listesine çeviren yardımcı</li></ul>\n<h3>Ne teslim ediyoruz?</h3>\n<ul><li>Çalışan sistem, kaynak kodu ve kurulum belgeleri</li><li>Doğruluk ve sınır durumlarını gösteren değerlendirme raporu</li><li>Ekibinizin kullanımı ve bakımı için kısa eğitim ve el kitabı</li></ul>\n<h3>Kullandığımız teknolojiler</h3>\n<p>Proje ihtiyacına göre açık kaynak ve ticari modeller arasından seçim yapar, hepsini aynı mühendislik disiplini içinde kullanırız.</p>\n<ul><li>Python, Node.js ve REST/WebSocket tabanlı servis mimarisi</li><li>Yerel LLM çalıştırma (Ollama benzeri çözümler) ve bulut model arayüzleri</li><li>Gömme (embedding) modelleri ve vektör araması ile RAG hattı</li><li>Araç çağırma (tool use) ve MCP benzeri ajan arayüzleri</li><li>İnce ayar için LoRA tabanlı yöntemler, değerlendirme ve test setleri</li></ul>\n<h3>Uygun olduğu sektörler</h3>\n<p>Hukuk ve mevzuat takibi, üretim ve bakım, müşteri hizmetleri, eğitim, kamu ve kurumsal bilgi yönetimi, perakende ve e-ticaret operasyonları gibi çok belgeli ve tekrar eden bilgi işi olan her alan bu çözümlerden fayda sağlayabilir.</p>\n<h3>Neden Arge Atölyesi?</h3>\n<p>Yapay zekâyı bir gösteri değil, işletmenizin gerçek verisiyle sınanmış bir araç olarak ele alıyoruz. Hata yapabildiği yerleri açıkça söyler, güvenilir olmadığı alanlarda insan onayını sürecin parçası yaparız.</p>\n<aside class=\"vurgu-kutusu\">Kurumunuzda yapay zekânın nerede işe yarayacağını merak ediyorsanız bize yazın. <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Yapay Zekâ Çözümleri"
+  },
+  "date": "2026-11-08T05:42:03.737Z",
+  "update": "2026-11-08T05:46:00.625Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

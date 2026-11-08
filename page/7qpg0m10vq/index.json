@@ -1,0 +1,37 @@
+{
+  "id": "7qpg0m10vq",
+  "name": {
+    "tr": "Yazılım ve Sistem Entegrasyonu"
+  },
+  "description": {
+    "tr": "Web, mobil, pazaryeri ve ERP entegrasyonları ile bulut altyapısı — Arge Atölyesi."
+  },
+  "keyword": {
+    "tr": "yazılım geliştirme, sistem entegrasyonu, web uygulaması, mobil uygulama, ERP entegrasyonu, pazaryeri entegrasyonu, bulut, Arge Atölyesi"
+  },
+  "path": "yazilim-ve-sistem-entegrasyonu",
+  "icon": "article",
+  "category": "alan",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 5,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Yazılım ve Sistem Entegrasyonu</h2>\n<p class=\"lead\">Yapay zekâ ve otomasyon çözümlerinin işe yaraması için sistemlerin birbiriyle konuşması gerekir; biz bu bağlantıyı kuruyoruz.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Çoğu işletmede veri farklı yerlerde durur: ERP, pazaryerleri, muhasebe, depo, web sitesi, mobil uygulamalar. Biz bu sistemleri güvenilir şekilde birbirine bağlayan, hata durumunu izleyen ve zamanla genişletilebilen yazılımlar geliştiriyoruz.</p>\n<p>Web ve mobil uygulamaları da aynı mühendislik anlayışıyla yapıyoruz: bakımı kolay, test edilebilir ve ihtiyaç değiştiğinde büyüyebilen bir mimari kuruyoruz.</p>\n<ul><li>Web uygulamaları ve yönetim panelleri</li><li>Mobil uygulamalar (iOS ve Android için tek kod tabanıyla)</li><li>Pazaryeri ve e-ticaret entegrasyonları: ürün, stok, sipariş ve fiyat eşleştirme</li><li>ERP, muhasebe ve depo sistemleriyle API ve dosya tabanlı entegrasyon</li><li>Bulut altyapısı: dağıtım, izleme, yedekleme ve ölçekleme</li></ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Entegrasyon projelerinde asıl risk, sistemlerin gerçekte nasıl davrandığını geç öğrenmektir; bu yüzden önce bağlantıyı deneriz.</p>\n<ul><li><strong>Keşif:</strong> Sistemleri, veri akışlarını ve kullanıcıların günlük işini inceler; entegrasyon haritasını ve önceliği çıkarırız.</li><li><strong>Prototip:</strong> En kritik akışı uçtan uca çalışan küçük bir prototipte kurar, veri kalitesi ve hata durumlarını erken görürüz.</li><li><strong>Pilot:</strong> Gerçek veriyle sınırlı bir kullanıcı grubunda çalıştırır, izleme ve uyarıları devreye alırız.</li><li><strong>Ölçekleme:</strong> Kalan sistemleri ve akışları ekler, belgelendirir, bakım ve sürüm yönetimi düzenini kurarız.</li></ul>\n<h3>Örnek kullanım senaryoları</h3>\n<ul><li>Birden çok pazaryerindeki ürün, stok ve siparişi tek merkezden yöneten entegrasyon</li><li>ERP ile mobil saha uygulaması arasında gerçek zamanlı veri akışı</li><li>Müşteriye özel web paneli ve ona bağlı otomatik raporlama</li><li>Eski bir sistemin verisini yeni bir uygulamaya güvenli şekilde taşıyan geçiş projesi</li></ul>\n<h3>Ne teslim ediyoruz?</h3>\n<ul><li>Çalışan uygulama ya da entegrasyon, kaynak kodu ve belgeler</li><li>İzleme, günlükleme ve hata bildirimi altyapısı</li><li>Dağıtım ve geri alma prosedürleri</li></ul>\n<h3>Kullandığımız teknolojiler</h3>\n<p>Teknoloji seçiminde ekibinizin sonradan sürdürebileceği, yaygın ve sağlam araçları öne çıkarırız.</p>\n<ul><li>Node.js ve Python ile servis ve API geliştirme</li><li>Flutter ile tek kod tabanlı mobil ve web uygulamaları</li><li>REST, webhook ve kuyruk tabanlı entegrasyon mimarisi</li><li>Bulut platformları, konteyner tabanlı dağıtım ve otomatik sürüm hattı</li><li>Veritabanı tasarımı, izleme ve günlükleme</li></ul>\n<h3>Uygun olduğu sektörler</h3>\n<p>E-ticaret ve pazaryeri satıcıları, üretim ve toptan ticaret, lojistik, hizmet işletmeleri ve kurumsal bilgi işlem ekipleri.</p>\n<h3>Neden Arge Atölyesi?</h3>\n<p>Entegrasyonun işi, sistemler arasında veri taşımaktan fazlasıdır: hatalı durumu yakalamak, tekrar denemek ve izlenebilir kalmak. Bu ayrıntılara baştan önem veriyoruz. Yazdığımız kodun belgesini ve kaynağını teslim ederiz; böylece sistemi ileride siz ya da başka bir ekip rahatça sürdürebilir. Küçük bir entegrasyonla başlayıp ihtiyaç büyüdükçe genişletmek de mümkündür. Güvenlik, yedekleme ve izleme gibi görünmeyen ama kritik başlıkları da kapsamın içinde ele alırız.</p>\n<aside class=\"vurgu-kutusu\">Birbirine bağlamak istediğiniz sistemleri ve çözmek istediğiniz sorunu bize yazın. <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Yazılım ve Sistem Entegrasyonu"
+  },
+  "date": "2026-11-08T05:42:15.724Z",
+  "update": "2026-11-08T05:46:00.708Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

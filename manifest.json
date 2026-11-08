@@ -1,7 +1,7 @@
 {
   "name": "Arge Atölyesi",
   "short_name": "Arge Atölyes",
-  "description": "Arge Atölyesi — yapay zekâ işletim sistemi geliştirir ve her sektöre uyarlanabilen modüler robotlar üretir: insanların giremeyeceği ortamlar için yarı insansı örümcek, temizlik, hafriyat ve kazıcı robotlar.",
+  "description": "Arge Atölyesi: yapay zekâ ve ileri teknoloji Ar-Ge şirketi. Yapay zekâ, görüntü işleme, lojistik, akıllı tarım, robotik, yazılım, siber güvenlik ve ürün tasarımı alanlarında çözümler.",
   "start_url": "/tr/",
   "scope": "/",
   "display": "standalone",

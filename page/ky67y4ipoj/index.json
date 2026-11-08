@@ -6,18 +6,21 @@
   "category": "",
   "id": "ky67y4ipoj",
   "path": "kurumsal",
-  "index": 4,
+  "index": 2,
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
     "footer": []
   },
   "description": {
-    "tr": "Arge Atölyesi kurumsal: yapay zekâ işletim sistemi geliştiren ve modüler robotlar üreten firmamızın temel kurumsal sayfaları."
+    "tr": "Arge Atölyesi kurumsal: hakkımızda, misyon, vizyon, kalite politikamız ve yasal sayfalar."
   },
   "externalUrl": "",
   "keyword": {
-    "tr": "Arge Atölyesi kurumsal, hakkımızda, misyon, vizyon"
+    "tr": "Arge Atölyesi kurumsal, hakkımızda, misyon, vizyon, kalite politikası"
   },
   "spot": {
     "tr": "Yenilikçi Çözümler"
@@ -26,5 +29,8 @@
     "tr": "Kurumsal"
   },
   "desc": {},
-  "update": "2026-11-02T05:48:37.109Z"
+  "update": "2026-11-08T05:48:57.784Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
 }

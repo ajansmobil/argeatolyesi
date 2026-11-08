@@ -1,0 +1,37 @@
+{
+  "id": "sqoiz2iue4",
+  "name": {
+    "tr": "Lojistik ve Depo Yapay Zekâsı"
+  },
+  "description": {
+    "tr": "Kargo ve depo operasyonlarında talep tahmini, rota planlama ve stok optimizasyonu — Arge Atölyesi."
+  },
+  "keyword": {
+    "tr": "lojistik yapay zeka, depo yönetimi, talep tahmini, rota optimizasyonu, stok optimizasyonu, kargo operasyonu, Arge Atölyesi"
+  },
+  "path": "lojistik-ve-depo-yapay-zekasi",
+  "icon": "article",
+  "category": "alan",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 2,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Lojistik ve Depo Yapay Zekâsı</h2>\n<p class=\"lead\">Kargo, depo ve dağıtım operasyonlarında verinin içindeki örüntüyü bulup tahmine, rotaya ve stok kararına dönüştürüyoruz.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Lojistikte küçük verimsizlikler büyük maliyete dönüşür: yanlış yerde bekleyen stok, dolu gitmeyen araç, gecikmiş sevkiyat. Bu sorunların çoğu zaten sizin sistemlerinizde kayıtlı veride görünür; mesele onu zamanında ve doğru okumaktır.</p>\n<p>Mevcut depo yönetim, nakliye ve sipariş sistemlerinizi değiştirmeden, onların üzerine tahmin ve öneri katmanı kuruyoruz. Karar yine ekibinizde kalır; sistem seçenekleri ve gerekçelerini sunar.</p>\n<ul><li>Talep ve hacim tahmini: dönemsellik ve kampanya etkisini gözeten sevkiyat öngörüsü</li><li>Rota ve yükleme planlama: teslimat sırası, araç kapasitesi ve zaman penceresi optimizasyonu</li><li>Stok ve yerleşim önerileri: raf yerleşimi, güvenlik stoku ve yeniden sipariş noktaları</li><li>Sevkiyat ve depo anomali tespiti: gecikme, kayıp ve olağan dışı hareket uyarıları</li><li>Depo içi otomasyon entegrasyonu: etiket, barkod ve görüntü işleme ile birleşen akışlar</li></ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Operasyon verisi her işletmede farklı kalitededir; bu yüzden işe gerçekçi bir veri incelemesiyle başlıyoruz.</p>\n<ul><li><strong>Keşif:</strong> Mevcut sistemleri, veri kaynaklarını ve operasyonun darboğazlarını inceler; öncelikli kullanım senaryosunu seçeriz.</li><li><strong>Prototip:</strong> Geçmiş veriyle tahmin ya da planlama modelinin ilk sürümünü kurar, mevcut yönteminizle karşılaştırırız.</li><li><strong>Pilot:</strong> Tek bir depo, hat ya da bölgede canlı veriyle çalıştırır; ekibin geri bildirimiyle öneri kalitesini artırırız.</li><li><strong>Ölçekleme:</strong> Çözümü diğer depo ve bölgelere yayar; veri akışı, izleme ve yeniden eğitim düzenini kurarız.</li></ul>\n<h3>Örnek kullanım senaryoları</h3>\n<ul><li>Mevsim ve kampanya etkisini hesaba katan haftalık sevkiyat hacmi tahmini</li><li>Günlük teslimat rotalarını araç kapasitesi ve zaman pencerelerine göre yeniden planlayan öneri sistemi</li><li>Hızlı dönen ürünleri toplama noktasına yaklaştıran depo yerleşim önerileri</li><li>Normalden uzun süren sevkiyatları ve stok sapmalarını erken uyaran izleme paneli</li></ul>\n<h3>Ne teslim ediyoruz?</h3>\n<ul><li>Mevcut sistemlerinize bağlanan tahmin ve öneri servisi</li><li>Gösterge paneli ve uyarı bildirimleri</li><li>Mevcut yönteminizle karşılaştırmalı sonuç raporu</li></ul>\n<h3>Kullandığımız teknolojiler</h3>\n<p>Klasik yöntemlerle makine öğrenmesini birlikte kullanır, açıklanabilir sonuç veren yaklaşımları tercih ederiz.</p>\n<ul><li>Zaman serisi tahmini ve gradyan artırmalı modeller</li><li>Rota ve çizelge optimizasyonu için kısıt tabanlı çözücüler</li><li>ERP, WMS ve pazaryeri sistemleriyle API entegrasyonu</li><li>Veri ambarı, ETL hattı ve gösterge panelleri</li><li>Barkod, etiket ve görüntü işleme ile depo içi veri toplama</li></ul>\n<h3>Uygun olduğu sektörler</h3>\n<p>E-ticaret ve pazaryeri satıcıları, kargo ve nakliye firmaları, üretici ve toptancı depoları, perakende zincirleri ile soğuk zincir ve gıda dağıtımı.</p>\n<h3>Neden Arge Atölyesi?</h3>\n<p>Lojistik ekiplerinin sahadaki bilgisi her modelden değerlidir. Sistemleri, bu bilgiyi dışlayan değil, onu veriyle destekleyen araçlar olarak tasarlıyoruz. Başlangıçta büyük bir dönüşüm projesi önermeyiz; tek bir akışta fark yarattığını gösterdiğimiz küçük bir pilotla başlar, sonuç ölçüldükten sonra genişletiriz.</p>\n<aside class=\"vurgu-kutusu\">Operasyonunuzda tahmin ya da planlamayla çözülebilecek bir sorun varsa bize anlatın. <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Lojistik ve Depo Yapay Zekâsı"
+  },
+  "date": "2026-11-08T05:42:15.648Z",
+  "update": "2026-11-08T05:46:00.657Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

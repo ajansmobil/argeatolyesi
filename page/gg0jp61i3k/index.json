@@ -3,19 +3,19 @@
     "tr": "Temizlik Robotu"
   },
   "status": "play",
-  "category": "",
+  "category": "robot",
   "id": "gg0jp61i3k",
   "path": "temizlik-robotu",
   "description": {
     "tr": "Arge Atölyesi temizlik robotu: endüstriyel tesisler ve insanın uzun süre kalmasının sakıncalı olduğu ortamlar için modüler, yapay zekâ destekli temizlik robotu."
   },
-  "index": 1,
+  "index": 9,
   "img": "index.webp",
   "keyword": {
     "tr": "temizlik robotu, endüstriyel temizlik robotu, otonom temizlik, modüler robot, yapay zeka robot"
   },
   "text": {
-    "tr": "<article class=\"wm-metin\">\n<h2>Temizlik Robotu</h2>\n<p class=\"lead\">Endüstriyel alanlarda ve insanın uzun süre kalmasının sakıncalı olduğu ortamlarda temizlik görevini üstlenmek üzere geliştirilen modüler robot.</p>\n<h3>Nerede kullanılır?</h3>\n<p>Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:</p>\n<ul><li>Endüstriyel tesis ve üretim alanlarının temizliği</li><li>Kimyasal, toz ya da sıcaklık nedeniyle riskli sayılan ortamlar</li><li>Dar ve ulaşılması zor bölmeler, kanallar ve alt yapı alanları</li></ul>\n<h3>Nasıl çalışır?</h3>\n<p>Aynı gövde, farklı temizlik modülleriyle farklı işlere uyarlanır. Modül değişimi, robotun tamamının yeniden üretilmesini gerektirmez.</p>\n<ul><li>Temizlenecek alanı algılayıp kendi güzergâhını planlama</li><li>Görev modülünün (ör. fırçalama, toplama, yıkama) sahaya göre değiştirilmesi</li><li>Çalışma durumunun uzaktan izlenmesi</li><li>Yapay zekâ işletim sistemi ile görev ve güvenlik denetimi</li></ul>\n<h3>Modüler yapı ve yazılım</h3>\n<p>Görev planlaması ve güvenlik kuralları, ortak yapay zekâ işletim sistemi üzerinden yönetilir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Teknik bilgi:</strong> Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için <a href=\"/tr/iletisim/\">bizimle iletişime geçin</a>.</aside>\n</article>"
+    "tr": "<article class=\"wm-metin\">\n<h2>Temizlik Robotu</h2>\n<p class=\"lead\">Endüstriyel alanlarda ve insanın uzun süre kalmasının sakıncalı olduğu ortamlarda temizlik görevini üstlenmek üzere geliştirilen modüler robot.</p>\n<h3>Nerede kullanılır?</h3>\n<p>Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:</p>\n<ul><li>Endüstriyel tesis ve üretim alanlarının temizliği</li><li>Kimyasal, toz ya da sıcaklık nedeniyle riskli sayılan ortamlar</li><li>Dar ve ulaşılması zor bölmeler, kanallar ve alt yapı alanları</li></ul>\n<h3>Nasıl çalışır?</h3>\n<p>Aynı gövde, farklı temizlik modülleriyle farklı işlere uyarlanır. Modül değişimi, robotun tamamının yeniden üretilmesini gerektirmez.</p>\n<ul><li>Temizlenecek alanı algılayıp kendi güzergâhını planlama</li><li>Görev modülünün (ör. fırçalama, toplama, yıkama) sahaya göre değiştirilmesi</li><li>Çalışma durumunun uzaktan izlenmesi</li><li>Yapay zekâ işletim sistemi ile görev ve güvenlik denetimi</li></ul>\n<h3>Modüler yapı ve yazılım</h3>\n<p>Görev planlaması ve güvenlik kuralları, ortak yapay zekâ işletim sistemi üzerinden yönetilir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Teknik bilgi:</strong> Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için <a href=\"/tr/iletisim/\">bizimle iletişime geçin</a>.</aside>\n<p>Bu robot, <a href=\"/tr/robotik-ve-otonom-sistemler/\">Robotik ve Otonom Sistemler</a> uzmanlık alanımızın parçasıdır. Diğer uzmanlık alanlarımız için <a href=\"/tr/uzmanlik-alanlari/\">uzmanlık alanları</a> sayfasına bakabilirsiniz.</p>\n</article>"
   },
   "spot": {
     "tr": "Dijital dönüşümle geleceğe hazır olun!"
@@ -24,5 +24,14 @@
     "tr": "Temizlik Robotu"
   },
   "desc": {},
-  "update": "2026-11-02T05:40:41.438Z"
+  "update": "2026-11-08T05:45:48.011Z",
+  "bgimg": "1.webp",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc"
+    ],
+    "footer": []
+  },
+  "bg": "1.webp"
 }

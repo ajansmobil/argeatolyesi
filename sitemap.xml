@@ -6,7 +6,7 @@
         <loc>https://argeatolyesi.com/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
@@ -14,39 +14,23 @@
         <loc>https://argeatolyesi.com/tr/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://argeatolyesi.com/tr/robotlar/</loc>
-        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/robotlar/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/robotlar/" />
-        <lastmod>2026-11-02</lastmod>
+        <loc>https://argeatolyesi.com/tr/uzmanlik-alanlari/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/uzmanlik-alanlari/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/uzmanlik-alanlari/" />
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://argeatolyesi.com/tr/yapay-zeka-isletim-sistemi/</loc>
-        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/yapay-zeka-isletim-sistemi/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/yapay-zeka-isletim-sistemi/" />
-        <lastmod>2026-11-02</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://argeatolyesi.com/tr/sektorler/</loc>
-        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/sektorler/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/sektorler/" />
-        <lastmod>2026-11-02</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    <url>
-        <loc>https://argeatolyesi.com/tr/arge-teknoloji/</loc>
-        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/arge-teknoloji/" />
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/arge-teknoloji/" />
-        <lastmod>2026-11-02</lastmod>
+        <loc>https://argeatolyesi.com/tr/arge-yaklasimi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/arge-yaklasimi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/arge-yaklasimi/" />
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -54,7 +38,7 @@
         <loc>https://argeatolyesi.com/tr/kurumsal/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/kurumsal/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/kurumsal/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -62,7 +46,71 @@
         <loc>https://argeatolyesi.com/tr/iletisim/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/iletisim/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/iletisim/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://argeatolyesi.com/tr/yapay-zeka-cozumleri/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/yapay-zeka-cozumleri/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/yapay-zeka-cozumleri/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://argeatolyesi.com/tr/goruntu-isleme/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/goruntu-isleme/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/goruntu-isleme/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://argeatolyesi.com/tr/lojistik-ve-depo-yapay-zekasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/lojistik-ve-depo-yapay-zekasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/lojistik-ve-depo-yapay-zekasi/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://argeatolyesi.com/tr/akilli-tarim/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/akilli-tarim/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/akilli-tarim/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://argeatolyesi.com/tr/robotik-ve-otonom-sistemler/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/robotik-ve-otonom-sistemler/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/robotik-ve-otonom-sistemler/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://argeatolyesi.com/tr/yazilim-ve-sistem-entegrasyonu/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/yazilim-ve-sistem-entegrasyonu/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/yazilim-ve-sistem-entegrasyonu/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://argeatolyesi.com/tr/siber-guvenlik-ve-uyum/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/siber-guvenlik-ve-uyum/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/siber-guvenlik-ve-uyum/" />
+        <lastmod>2026-11-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://argeatolyesi.com/tr/urun-tasarimi-ve-ux/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/urun-tasarimi-ve-ux/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/urun-tasarimi-ve-ux/" />
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -70,7 +118,7 @@
         <loc>https://argeatolyesi.com/tr/orumcek-robot/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/orumcek-robot/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/orumcek-robot/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -78,7 +126,7 @@
         <loc>https://argeatolyesi.com/tr/temizlik-robotu/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/temizlik-robotu/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/temizlik-robotu/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -86,7 +134,7 @@
         <loc>https://argeatolyesi.com/tr/hafriyat-robotu/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/hafriyat-robotu/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/hafriyat-robotu/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -94,7 +142,7 @@
         <loc>https://argeatolyesi.com/tr/kazici-robot/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/kazici-robot/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/kazici-robot/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -102,7 +150,7 @@
         <loc>https://argeatolyesi.com/tr/hakkimizda/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/hakkimizda/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/hakkimizda/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -110,7 +158,7 @@
         <loc>https://argeatolyesi.com/tr/misyon/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/misyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/misyon/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
@@ -118,7 +166,7 @@
         <loc>https://argeatolyesi.com/tr/vizyon/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://argeatolyesi.com/tr/vizyon/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://argeatolyesi.com/tr/vizyon/" />
-        <lastmod>2026-11-02</lastmod>
+        <lastmod>2026-11-08</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>

@@ -1,0 +1,37 @@
+{
+  "id": "if41c8jjni",
+  "name": {
+    "tr": "Siber Güvenlik ve Uyum"
+  },
+  "description": {
+    "tr": "ISO/IEC 27001, ISO/IEC 42001 ve ISO 9001 uyum danışmanlığı, güvenli yazılım — Arge Atölyesi."
+  },
+  "keyword": {
+    "tr": "siber güvenlik, ISO 27001, ISO 42001, yapay zeka yönetim sistemi, ISO 9001, uyum danışmanlığı, güvenli yazılım, Arge Atölyesi"
+  },
+  "path": "siber-guvenlik-ve-uyum",
+  "icon": "article",
+  "category": "alan",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 6,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Siber Güvenlik ve Uyum</h2>\n<p class=\"lead\">Bilgi güvenliği, yapay zekâ yönetimi ve kalite standartlarına uyumu, işinizi yavaşlatmayan ve belgelenebilir bir düzene çeviriyoruz.</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Güvenlik ve uyum, ürün ya da hizmet hazır olduktan sonra eklenen bir katman olmamalıdır. Yazılım ve yapay zekâ sistemlerini ilk tasarımdan itibaren güvenli ve denetlenebilir kurmak hem riski hem sonradan düzeltme maliyetini azaltır.</p>\n<p>Danışmanlık tarafında, standartların gerekliliklerini işletmenizin gerçek süreçlerine uyarlıyoruz. Amaç, belge yığını üretmek değil; ekibin gerçekten uyguladığı, denetimde de savunulabilir bir yönetim sistemi kurmaktır. Sertifikasyon kararı bağımsız belgelendirme kuruluşlarına aittir; biz hazırlık ve uyum çalışmasını yürütürüz.</p>\n<ul><li>ISO/IEC 27001 bilgi güvenliği yönetim sistemi için hazırlık ve uyum danışmanlığı</li><li>ISO/IEC 42001 yapay zekâ yönetim sistemi: yapay zekâ kullanımında risk, sorumluluk ve izlenebilirlik düzeni</li><li>ISO 9001 kalite yönetim sistemi için süreç ve dokümantasyon desteği</li><li>Güvenli yazılım geliştirme: tehdit modelleme, kod incelemesi ve bağımlılık denetimi</li><li>Yapay zekâ sistemleri için veri gizliliği, erişim yetkisi ve kayıt tutma tasarımı</li></ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Uyum çalışmasını da bir Ar-Ge projesi gibi küçük adımlarla ilerletiyoruz.</p>\n<ul><li><strong>Keşif:</strong> Mevcut süreçleri, varlıkları ve riskleri inceler; standarda göre boşluk analizi çıkarırız.</li><li><strong>Prototip:</strong> Öncelikli politika, prosedür ve kontrollerin ilk sürümünü hazırlar, işletmenizin diline uyarlarız.</li><li><strong>Pilot:</strong> Seçilen bir birimde uygulayıp kayıtları toplar, iç denetim ve gözden geçirme çalışmasıyla eksikleri kapatırız.</li><li><strong>Ölçekleme:</strong> Uygulamayı tüm kuruma yayar, sürekli iyileştirme ve düzenli gözden geçirme takvimini kurarız.</li></ul>\n<h3>Örnek kullanım senaryoları</h3>\n<ul><li>Bilgi güvenliği politikalarını yazıp ekibe benimsetmek ve iç denetime hazırlanmak</li><li>Yapay zekâ ürünü geliştiren bir ekibin model, veri ve sorumluluk kayıtlarını ISO/IEC 42001 çerçevesinde düzenlemesi</li><li>Kalite el kitabı, süreç haritaları ve kayıt formlarını gerçek uygulamaya göre sadeleştirmek</li><li>Mevcut bir yazılımda zafiyet taraması ve güvenli geliştirme alışkanlıklarının kurulması</li></ul>\n<h3>Ne teslim ediyoruz?</h3>\n<ul><li>Boşluk analizi raporu ve öncelikli eylem planı</li><li>Politika, prosedür ve kayıt şablonları</li><li>İç denetim hazırlığı ve yönetim gözden geçirme desteği</li></ul>\n<h3>Kullandığımız teknolojiler</h3>\n<p>Danışmanlığı, uygulamayı kolaylaştıran güvenlik ve izleme araçlarıyla destekliyoruz.</p>\n<ul><li>Risk değerlendirme ve varlık envanteri çalışma şablonları</li><li>Güvenli yazılım yaşam döngüsü, statik analiz ve bağımlılık tarama araçları</li><li>Erişim yönetimi, şifreleme ve yedekleme tasarımı</li><li>Günlükleme, izleme ve olay müdahale kayıtları</li><li>Yapay zekâ modelleri için veri ve model izlenebilirliği kayıtları</li></ul>\n<h3>Uygun olduğu sektörler</h3>\n<p>Yazılım ve teknoloji firmaları, yapay zekâ ürünü geliştiren ekipler, üretim ve hizmet işletmeleri ile müşterisinden güvenlik ya da kalite belgesi istenen tedarikçiler.</p>\n<h3>Neden Arge Atölyesi?</h3>\n<p>Uyumu bir engel değil, işletmenin düzenini güçlendiren bir araç olarak görüyoruz. Sade, uygulanabilir ve yazılım ile yapay zekâ sistemlerinin gerçeğini bilen bir danışmanlık sunmaya çalışıyoruz.</p>\n<aside class=\"vurgu-kutusu\">Hangi standarda uyum sağlamak istediğinizi ve şu anki durumunuzu bize yazın. <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Siber Güvenlik ve Uyum"
+  },
+  "date": "2026-11-08T05:42:15.746Z",
+  "update": "2026-11-08T05:46:00.728Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

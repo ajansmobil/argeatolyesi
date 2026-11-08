@@ -1,86 +1,284 @@
 {
-  "name": "Hizmetlerimiz",
-  "path": "services",
-  "desc": [],
-  "index": 2,
-  "desing": {
-    "header": [],
-    "body": [
-      "bv6ng9"
-    ],
-    "footer": []
-  },
-  "modulestatus": {
-    "img": true,
-    "detail": true,
-    "spot": false
-  },
   "data": [
+    {
+      "id": "s5nbvk29u5",
+      "name": {
+        "tr": "Yapay Zekâ Çözümleri"
+      },
+      "description": {
+        "tr": "AI ajanları, LLM/RAG sistemleri, model ince ayarı ve kurum içi yapay zekâ asistanları — Arge Atölyesi."
+      },
+      "path": "yapay-zeka-cozumleri",
+      "icon": "article",
+      "category": "alan",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 0,
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "id": "pzpgiprutd",
+      "name": {
+        "tr": "Görüntü İşleme"
+      },
+      "description": {
+        "tr": "Görsel denetim, nesne tanıma ve üretim hattında yapay zekâ destekli kalite kontrol — Arge Atölyesi."
+      },
+      "path": "goruntu-isleme",
+      "icon": "article",
+      "category": "alan",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 1,
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "id": "sqoiz2iue4",
+      "name": {
+        "tr": "Lojistik ve Depo Yapay Zekâsı"
+      },
+      "description": {
+        "tr": "Kargo ve depo operasyonlarında talep tahmini, rota planlama ve stok optimizasyonu — Arge Atölyesi."
+      },
+      "path": "lojistik-ve-depo-yapay-zekasi",
+      "icon": "article",
+      "category": "alan",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 2,
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "id": "ndoxjyhp6u",
+      "name": {
+        "tr": "Akıllı Tarım"
+      },
+      "description": {
+        "tr": "Yapay zekâ destekli topraksız tarım üretimi: sensör, iklim kontrolü ve verim — Arge Atölyesi."
+      },
+      "path": "akilli-tarim",
+      "icon": "article",
+      "category": "alan",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 3,
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "id": "8vcmiq4b4q",
+      "name": {
+        "tr": "Robotik ve Otonom Sistemler"
+      },
+      "description": {
+        "tr": "Modüler robotlar (örümcek, temizlik, hafriyat, kazıcı) ve yapay zekâ işletim sistemi — Arge Atölyesi."
+      },
+      "path": "robotik-ve-otonom-sistemler",
+      "icon": "article",
+      "category": "alan",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 4,
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "id": "7qpg0m10vq",
+      "name": {
+        "tr": "Yazılım ve Sistem Entegrasyonu"
+      },
+      "description": {
+        "tr": "Web, mobil, pazaryeri ve ERP entegrasyonları ile bulut altyapısı — Arge Atölyesi."
+      },
+      "path": "yazilim-ve-sistem-entegrasyonu",
+      "icon": "article",
+      "category": "alan",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 5,
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "id": "if41c8jjni",
+      "name": {
+        "tr": "Siber Güvenlik ve Uyum"
+      },
+      "description": {
+        "tr": "ISO/IEC 27001, ISO/IEC 42001 ve ISO 9001 uyum danışmanlığı, güvenli yazılım — Arge Atölyesi."
+      },
+      "path": "siber-guvenlik-ve-uyum",
+      "icon": "article",
+      "category": "alan",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 6,
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
+    {
+      "id": "kog67ja4ig",
+      "name": {
+        "tr": "Ürün Tasarımı ve UX"
+      },
+      "description": {
+        "tr": "Yazılım, uygulama ve cihaz arayüzleri için deneyim ve arayüz tasarımı — Arge Atölyesi."
+      },
+      "path": "urun-tasarimi-ve-ux",
+      "icon": "article",
+      "category": "alan",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc",
+          "7a3ei7"
+        ],
+        "footer": []
+      },
+      "index": 7,
+      "img": "index.webp",
+      "bgimg": "1.webp"
+    },
     {
       "name": {
         "tr": "Yarı İnsansı Örümcek Robot"
       },
       "status": "play",
-      "category": "",
+      "category": "robot",
       "id": "r6f8jzfp51",
       "path": "orumcek-robot",
       "description": {
         "tr": "Arge Atölyesi yarı insansı örümcek robot: çok bacaklı gövdesi ve modüler yapısıyla insanların giremeyeceği dar, engebeli ve tehlikeli ortamlar için geliştirilen robot ailesi."
       },
-      "index": 0,
+      "index": 8,
       "img": "index.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "lxixmc"
+        ],
         "footer": []
-      }
+      },
+      "bgimg": "1.webp"
     },
     {
       "name": {
         "tr": "Temizlik Robotu"
       },
       "status": "play",
-      "category": "",
+      "category": "robot",
       "id": "gg0jp61i3k",
       "path": "temizlik-robotu",
       "description": {
         "tr": "Arge Atölyesi temizlik robotu: endüstriyel tesisler ve insanın uzun süre kalmasının sakıncalı olduğu ortamlar için modüler, yapay zekâ destekli temizlik robotu."
       },
-      "index": 1,
-      "img": "index.webp"
+      "index": 9,
+      "img": "index.webp",
+      "bgimg": "1.webp",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc"
+        ],
+        "footer": []
+      }
     },
     {
       "name": {
         "tr": "Hafriyat Robotu"
       },
       "status": "play",
-      "category": "",
+      "category": "robot",
       "id": "arkfk5mp94",
       "path": "hafriyat-robotu",
       "description": {
         "tr": "Arge Atölyesi hafriyat robotu: inşaat ve madencilik gibi sahalarda insan gücünü riske atmadan hafriyat çalışmasını üstlenmek üzere geliştirilen modüler robot."
       },
-      "index": 2,
-      "img": "index.webp"
+      "index": 10,
+      "img": "index.webp",
+      "bgimg": "1.webp",
+      "desing": {
+        "header": [],
+        "body": [
+          "lxixmc"
+        ],
+        "footer": []
+      }
     },
     {
       "name": {
         "tr": "Kazıcı Robot"
       },
       "status": "play",
-      "category": "",
+      "category": "robot",
       "id": "yr79zd9jh6",
       "path": "kazici-robot",
       "description": {
         "tr": "Arge Atölyesi kazıcı robot: yer altı, dar kazı ve tehlikeli zemin çalışmaları için insanın girmeyeceği yerlerde kazı yapmak üzere geliştirilen modüler robot."
       },
-      "index": 3,
+      "index": 11,
       "img": "index.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "lxixmc"
+        ],
         "footer": []
-      }
+      },
+      "bgimg": "1.webp"
     },
     {
       "name": {
@@ -93,7 +291,7 @@
       "description": {
         "tr": "AR ve VR teknolojileri kullanarak inovatif çözümler ve eğitim simülasyonları geliştiriyoruz."
       },
-      "index": 4,
+      "index": 12,
       "img": "a82xz.jpeg"
     },
     {
@@ -107,7 +305,7 @@
       "description": {
         "tr": "Veri odaklı karar verme süreçlerini destekleyen kapsamlı veri bilimi ve analitik hizmetleri sunuyoruz."
       },
-      "index": 5,
+      "index": 13,
       "img": "fzalt.jpeg"
     },
     {
@@ -121,7 +319,7 @@
       "description": {
         "tr": "Endüstriyel sistemler ve yapay zeka odaklı siber güvenlik eğitimleri veriyoruz."
       },
-      "index": 6,
+      "index": 14,
       "img": "z083d.jpeg"
     },
     {
@@ -135,8 +333,19 @@
       "description": {
         "tr": "İşletmenizin ihtiyaçlarına özel, yapay zeka destekli ve endüstriyel yazılım çözümleri geliştiriyoruz."
       },
-      "index": 7,
+      "index": 15,
       "img": "jqa1b.jpeg"
     }
-  ]
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "detail": true,
+    "spot": false
+  }
 }

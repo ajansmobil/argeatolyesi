@@ -30,17 +30,42 @@
     },
     {
       "eski": "hizmetlerimiz",
-      "yeni": "robotlar",
+      "yeni": "robotik-ve-otonom-sistemler",
       "tarih": "2026-11-02T05:38:34.505Z",
       "kategori": "page",
       "pageId": "w33bzrq0b4"
     },
     {
       "eski": "blog",
-      "yeni": "yapay-zeka-isletim-sistemi",
+      "yeni": "robotik-ve-otonom-sistemler",
       "tarih": "2026-11-02T05:38:34.767Z",
       "kategori": "page",
       "pageId": "tbnfwrvno0"
+    },
+    {
+      "eski": "arge-teknoloji",
+      "yeni": "arge-yaklasimi",
+      "tarih": "2026-11-08T05:45:35.281Z",
+      "kategori": "page",
+      "pageId": "snyf9ao0z7"
+    },
+    {
+      "eski": "robotlar",
+      "yeni": "robotik-ve-otonom-sistemler",
+      "tarih": "2026-11-08T05:46:05.111Z",
+      "kategori": "page"
+    },
+    {
+      "eski": "yapay-zeka-isletim-sistemi",
+      "yeni": "robotik-ve-otonom-sistemler",
+      "tarih": "2026-11-08T05:46:05.130Z",
+      "kategori": "page"
+    },
+    {
+      "eski": "sektorler",
+      "yeni": "uzmanlik-alanlari",
+      "tarih": "2026-11-08T05:46:05.159Z",
+      "kategori": "page"
     }
   ]
 }

@@ -9,9 +9,7 @@
       "index": 0,
       "desing": {
         "header": [],
-        "body": [
-          "3g708l"
-        ],
+        "body": [],
         "footer": []
       },
       "modulestatus": {
@@ -38,16 +36,14 @@
     },
     {
       "name": {
-        "tr": "Robotlarımız"
+        "tr": "Uzmanlık Alanları"
       },
       "path": "services",
       "desc": [],
       "index": 2,
       "desing": {
         "header": [],
-        "body": [
-          "bv6ng9"
-        ],
+        "body": [],
         "footer": []
       },
       "modulestatus": {

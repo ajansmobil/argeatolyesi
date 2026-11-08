@@ -3,24 +3,26 @@
     "tr": "Kazıcı Robot"
   },
   "status": "play",
-  "category": "",
+  "category": "robot",
   "id": "yr79zd9jh6",
   "path": "kazici-robot",
   "description": {
     "tr": "Arge Atölyesi kazıcı robot: yer altı, dar kazı ve tehlikeli zemin çalışmaları için insanın girmeyeceği yerlerde kazı yapmak üzere geliştirilen modüler robot."
   },
-  "index": 3,
+  "index": 11,
   "img": "index.webp",
   "desing": {
     "header": [],
-    "body": [],
+    "body": [
+      "lxixmc"
+    ],
     "footer": []
   },
   "keyword": {
     "tr": "kazıcı robot, kazı robotu, yer altı robotu, madencilik robotu, afet robotu, modüler robot"
   },
   "text": {
-    "tr": "<article class=\"wm-metin\">\n<h2>Kazıcı Robot</h2>\n<p class=\"lead\">Dar, derin ya da tehlikeli kazı alanlarında insan yerine çalışmak üzere geliştirilen modüler kazıcı robot.</p>\n<h3>Nerede kullanılır?</h3>\n<p>Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:</p>\n<ul><li>Dar ve derin kazı gerektiren yer altı çalışmaları</li><li>Madencilik sahalarında riskli galeri ve cephe bölgeleri</li><li>Afet sonrası göçük alanlarında ulaşım açma çalışmaları</li></ul>\n<h3>Nasıl çalışır?</h3>\n<p>Kazıcı robot, aynı modüler platform üzerinde kazı modülünü taşıyan konfigürasyondur; diğer robot ailesiyle ortak yazılımı paylaşır.</p>\n<ul><li>Kazı yapılacak zemini algılama ve çalışma yönünü planlama</li><li>Zemine ve işe göre değiştirilebilen kazı modülleri</li><li>Çalışma verisinin uzaktan izlenmesi</li><li>Yapay zekâ işletim sistemi ile görev yönetimi ve güvenlik denetimi</li></ul>\n<h3>Modüler yapı ve yazılım</h3>\n<p>Kazı görevi, güvenlik kuralları ve robot durumu ortak yapay zekâ işletim sistemi üzerinden yönetilir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Teknik bilgi:</strong> Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için <a href=\"/tr/iletisim/\">bizimle iletişime geçin</a>.</aside>\n</article>"
+    "tr": "<article class=\"wm-metin\">\n<h2>Kazıcı Robot</h2>\n<p class=\"lead\">Dar, derin ya da tehlikeli kazı alanlarında insan yerine çalışmak üzere geliştirilen modüler kazıcı robot.</p>\n<h3>Nerede kullanılır?</h3>\n<p>Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:</p>\n<ul><li>Dar ve derin kazı gerektiren yer altı çalışmaları</li><li>Madencilik sahalarında riskli galeri ve cephe bölgeleri</li><li>Afet sonrası göçük alanlarında ulaşım açma çalışmaları</li></ul>\n<h3>Nasıl çalışır?</h3>\n<p>Kazıcı robot, aynı modüler platform üzerinde kazı modülünü taşıyan konfigürasyondur; diğer robot ailesiyle ortak yazılımı paylaşır.</p>\n<ul><li>Kazı yapılacak zemini algılama ve çalışma yönünü planlama</li><li>Zemine ve işe göre değiştirilebilen kazı modülleri</li><li>Çalışma verisinin uzaktan izlenmesi</li><li>Yapay zekâ işletim sistemi ile görev yönetimi ve güvenlik denetimi</li></ul>\n<h3>Modüler yapı ve yazılım</h3>\n<p>Kazı görevi, güvenlik kuralları ve robot durumu ortak yapay zekâ işletim sistemi üzerinden yönetilir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Teknik bilgi:</strong> Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için <a href=\"/tr/iletisim/\">bizimle iletişime geçin</a>.</aside>\n<p>Bu robot, <a href=\"/tr/robotik-ve-otonom-sistemler/\">Robotik ve Otonom Sistemler</a> uzmanlık alanımızın parçasıdır. Diğer uzmanlık alanlarımız için <a href=\"/tr/uzmanlik-alanlari/\">uzmanlık alanları</a> sayfasına bakabilirsiniz.</p>\n</article>"
   },
   "spot": {
     "tr": "Dijital dönüşümle işinizi geleceğe taşıyın!"
@@ -29,5 +31,7 @@
     "tr": "Kazıcı Robot"
   },
   "desc": {},
-  "update": "2026-11-02T05:40:41.993Z"
+  "update": "2026-11-08T05:45:55.815Z",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
 }

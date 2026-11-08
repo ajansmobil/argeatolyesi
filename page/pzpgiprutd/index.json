@@ -1,0 +1,37 @@
+{
+  "id": "pzpgiprutd",
+  "name": {
+    "tr": "Görüntü İşleme"
+  },
+  "description": {
+    "tr": "Görsel denetim, nesne tanıma ve üretim hattında yapay zekâ destekli kalite kontrol — Arge Atölyesi."
+  },
+  "keyword": {
+    "tr": "görüntü işleme, computer vision, görsel denetim, nesne tanıma, kalite kontrol, endüstriyel kamera, Arge Atölyesi"
+  },
+  "path": "goruntu-isleme",
+  "icon": "article",
+  "category": "alan",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc",
+      "7a3ei7"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Görüntü İşleme (Computer Vision)</h2>\n<p class=\"lead\">Kameranın gördüğünü anlamlı bir karara çeviriyoruz: parça doğru mu, ürün sağlam mı, sahada beklenmeyen bir durum var mı?</p>\n<h3>Ne yapıyoruz?</h3>\n<p>Görüntü işleme, insan gözünün yorulduğu, hızın yetmediği ya da sürekliliğin gerektiği işlerde en çok değer üretir. Üretim hattında hatalı ürünü ayıklamak, depoda paketi tanımak, sahada ekipman durumunu izlemek bunların örnekleridir.</p>\n<p>Her ortamın ışığı, kamera açısı ve hatalı ürün tipi farklıdır. Bu yüzden hazır bir model satmak yerine, sizin görüntülerinizle eğitilen ve sizin ortamınızda doğrulanan bir sistem kuruyoruz.</p>\n<ul><li>Görsel denetim: yüzey çizikleri, eksik parça, hatalı montaj ve etiket kontrolü</li><li>Nesne tanıma ve sayma: hat üzerinde ya da depoda ürün, palet ve koli tespiti</li><li>Kalite kontrol: kabul ve red kararının kayıtlı, izlenebilir hâle getirilmesi</li><li>Saha izleme: ekipman, güvenlik donanımı ve alan kullanımının görüntüden takibi</li><li>Uç cihazda çalışma: kamerayı bulut bağlantısına bağlı kalmadan yerelde analiz etme</li></ul>\n<h3>Nasıl çalışıyoruz?</h3>\n<p>Görüntü işleme projelerinde başarı, doğru veriyle başlar; bu yüzden ilk iş sahadan örnek toplamaktır.</p>\n<ul><li><strong>Keşif:</strong> Ortamı, kamera ve aydınlatma koşullarını ve tespit edilecek durumları inceler; örnek görüntü toplama planı çıkarırız.</li><li><strong>Prototip:</strong> Toplanan görüntüleri etiketleyip ilk modeli eğitir, hata türlerini ayırt edip edemediğini gösteririz.</li><li><strong>Pilot:</strong> Sistemi hat ya da sahada paralel çalıştırır; insan kararıyla karşılaştırıp eşik değerlerini ayarlarız.</li><li><strong>Ölçekleme:</strong> Onaylanan çözümü diğer hat ve noktalara taşır; yeni ürün tipleri için yeniden eğitim düzeni kurarız.</li></ul>\n<h3>Örnek kullanım senaryoları</h3>\n<ul><li>Üretim hattında ürünün yüzeyindeki çizik, çatlak ya da eksik parçayı anında işaretleyen denetim istasyonu</li><li>Palet ve kolilerin sayısını, etiketini ve hasar durumunu depo girişinde kamerayla kontrol eden sistem</li><li>Sahada çalışanların koruyucu ekipman kullanımını ve yasak bölge ihlallerini uyaran izleme sistemi</li><li>Tarımda bitki gelişimini ve yaprak sağlığını görüntüden takip eden çözüm</li></ul>\n<h3>Ne teslim ediyoruz?</h3>\n<ul><li>Sizin görüntülerinizle eğitilmiş ve doğrulanmış model</li><li>Kamera, aydınlatma ve kurulum önerileri ile entegrasyon yazılımı</li><li>Hata türlerine göre başarı raporu ve yeniden eğitim yönergesi</li></ul>\n<h3>Kullandığımız teknolojiler</h3>\n<p>Model seçimi, hız ve doğruluk dengesine göre yapılır; gerektiğinde uç cihazda çalışacak şekilde küçültülür.</p>\n<ul><li>OpenCV ile görüntü ön işleme ve geometrik ölçüm</li><li>Derin öğrenme tabanlı sınıflandırma, nesne tespiti ve segmentasyon modelleri</li><li>Model eğitimi için PyTorch ve veri artırma yöntemleri</li><li>ONNX ile taşınabilir model dağıtımı ve GPU hızlandırma</li><li>Endüstriyel kamera, aydınlatma ve tetikleme donanımıyla entegrasyon</li></ul>\n<h3>Uygun olduğu sektörler</h3>\n<p>İmalat ve metal işleme, plastik ve ambalaj, gıda üretimi, elektronik montaj, depo ve lojistik, tarım ve inşaat sahası gibi görsel kontrolün yoğun olduğu sektörler.</p>\n<h3>Neden Arge Atölyesi?</h3>\n<p>Kamera ve yazılımı ayrı düşünmüyoruz; aydınlatmadan model seçimine kadar tüm zinciri birlikte tasarlıyoruz. Böylece laboratuvarda çalışan değil, sahada çalışan bir sistem teslim ediyoruz.</p>\n<aside class=\"vurgu-kutusu\">Hattınızdaki ya da sahanızdaki görsel kontrol sorununu anlatın. <a href=\"https://wa.me/905316791014\">WhatsApp ile yazın</a> ya da <a href=\"/tr/iletisim/\">iletişim formunu</a> kullanın; ihtiyacınızı dinleyip keşif aşamasını birlikte planlayalım.</aside>\n</article>"
+  },
+  "title": {
+    "tr": "Görüntü İşleme"
+  },
+  "date": "2026-11-08T05:42:15.623Z",
+  "update": "2026-11-08T05:46:00.640Z",
+  "img": "index.webp",
+  "bgimg": "1.webp",
+  "bg": "1.webp"
+}

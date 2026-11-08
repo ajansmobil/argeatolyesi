@@ -3,19 +3,19 @@
     "tr": "Hafriyat Robotu"
   },
   "status": "play",
-  "category": "",
+  "category": "robot",
   "id": "arkfk5mp94",
   "path": "hafriyat-robotu",
   "description": {
     "tr": "Arge Atölyesi hafriyat robotu: inşaat ve madencilik gibi sahalarda insan gücünü riske atmadan hafriyat çalışmasını üstlenmek üzere geliştirilen modüler robot."
   },
-  "index": 2,
+  "index": 10,
   "img": "index.webp",
   "keyword": {
     "tr": "hafriyat robotu, inşaat robotu, madencilik robotu, otonom iş makinesi, modüler robot"
   },
   "text": {
-    "tr": "<article class=\"wm-metin\">\n<h2>Hafriyat Robotu</h2>\n<p class=\"lead\">İnşaat ve madencilik gibi sahalarda hafriyat işini, insanı riskli bölgeden uzak tutarak yürütmek üzere tasarlanan modüler robotumuz.</p>\n<h3>Nerede kullanılır?</h3>\n<p>Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:</p>\n<ul><li>İnşaat sahalarında temel ve çevre düzenleme hafriyatı</li><li>Madencilik ve taş ocağı sahalarında riskli bölgelerde malzeme taşıma</li><li>Çökme ya da kayma riski bulunan zeminlerde çalışma</li></ul>\n<h3>Nasıl çalışır?</h3>\n<p>Hafriyat robotu, ortak robot platformunun saha işine uyarlanmış hâlidir; ekipman modülleri işin türüne göre seçilir.</p>\n<ul><li>Sahayı algılayıp görev alanını tanıma</li><li>Kazı ve yükleme gibi görevler için değiştirilebilir ekipman modülleri</li><li>Operatörün uzaktan izlemesi ve müdahale edebilmesi</li><li>Yapay zekâ işletim sistemi ile iş planı ve güvenlik denetimi</li></ul>\n<h3>Modüler yapı ve yazılım</h3>\n<p>İş planı ve güvenlik sınırları yapay zekâ işletim sistemi tarafından izlenir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Teknik bilgi:</strong> Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için <a href=\"/tr/iletisim/\">bizimle iletişime geçin</a>.</aside>\n</article>"
+    "tr": "<article class=\"wm-metin\">\n<h2>Hafriyat Robotu</h2>\n<p class=\"lead\">İnşaat ve madencilik gibi sahalarda hafriyat işini, insanı riskli bölgeden uzak tutarak yürütmek üzere tasarlanan modüler robotumuz.</p>\n<h3>Nerede kullanılır?</h3>\n<p>Bu robot, insanların girmesinin güç, riskli ya da verimsiz olduğu ortamlar için tasarlanır. Başlıca kullanım alanları:</p>\n<ul><li>İnşaat sahalarında temel ve çevre düzenleme hafriyatı</li><li>Madencilik ve taş ocağı sahalarında riskli bölgelerde malzeme taşıma</li><li>Çökme ya da kayma riski bulunan zeminlerde çalışma</li></ul>\n<h3>Nasıl çalışır?</h3>\n<p>Hafriyat robotu, ortak robot platformunun saha işine uyarlanmış hâlidir; ekipman modülleri işin türüne göre seçilir.</p>\n<ul><li>Sahayı algılayıp görev alanını tanıma</li><li>Kazı ve yükleme gibi görevler için değiştirilebilir ekipman modülleri</li><li>Operatörün uzaktan izlemesi ve müdahale edebilmesi</li><li>Yapay zekâ işletim sistemi ile iş planı ve güvenlik denetimi</li></ul>\n<h3>Modüler yapı ve yazılım</h3>\n<p>İş planı ve güvenlik sınırları yapay zekâ işletim sistemi tarafından izlenir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Teknik bilgi:</strong> Boyut, kapasite, çalışma süresi gibi sayısal özellikler projeye ve saha koşuluna göre belirlenir; bu sayfada yayımlanmış bir sayısal değer yoktur. Ayrıntı için <a href=\"/tr/iletisim/\">bizimle iletişime geçin</a>.</aside>\n<p>Bu robot, <a href=\"/tr/robotik-ve-otonom-sistemler/\">Robotik ve Otonom Sistemler</a> uzmanlık alanımızın parçasıdır. Diğer uzmanlık alanlarımız için <a href=\"/tr/uzmanlik-alanlari/\">uzmanlık alanları</a> sayfasına bakabilirsiniz.</p>\n</article>"
   },
   "spot": {
     "tr": "Yapay zeka ile geleceği şekillendirin!"
@@ -24,5 +24,14 @@
     "tr": "Hafriyat Robotu"
   },
   "desc": {},
-  "update": "2026-11-02T05:40:41.713Z"
+  "update": "2026-11-08T05:45:48.032Z",
+  "bgimg": "1.webp",
+  "desing": {
+    "header": [],
+    "body": [
+      "lxixmc"
+    ],
+    "footer": []
+  },
+  "bg": "1.webp"
 }

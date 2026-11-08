@@ -1272,3 +1272,7 @@
 .wm-metin a{color:var(--mx-site-primary,#1170B4);text-decoration:underline}
 .wm-metin .vurgu-kutusu{margin-top:24px;padding:16px 20px;border-left:4px solid var(--mx-site-primary,#1170B4);background:var(--mx-site-surface-2,#EAF1F8);border-radius:8px}
 
+
+.wm-metin ul{list-style:disc !important;padding-left:1.4rem !important}
+.wm-metin li{display:list-item !important}
+
