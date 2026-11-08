@@ -652,9 +652,12 @@
     }
 
     
-    body:has(.h0000.h0000menu-open) .cookie-banner,
-    body:has(.h0000.h0000menu-open) .cookie-reopen {
-      z-index: 998;
+    .h0000.h0000menu-open .h0000-menu-backdrop {
+      z-index: 10004;
+    }
+
+    .h0000.h0000menu-open .h0000menubody {
+      z-index: 10005;
     }
 
     
